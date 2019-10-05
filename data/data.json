@@ -1,118 +1,240 @@
 [
   {
+    "quote": "I like money.",
+    "movie": "Idiocracy"
+  },
+  {
     "quote": "Frankly, my dear, I don't give a damn.",
-    "movie": "Gone with the Wind"
+    "movie": "Gone with the Wind",
+    "year": 1939
   },
   {
     "quote": "I'm gonna make him an offer he can't refuse.",
-    "movie": "The Godfather"
+    "movie": "The Godfather",
+    "year": 1972
   },
   {
     "quote": "All I have are negative thoughts.",
-    "movie": "Joker(2019)"
+    "movie": "Joker",
+    "year": 2019
   },
   {
     "quote": "Is it just me, or is it getting crazier out there?",
-    "movie": "Joker(2019)"
+    "movie": "Joker",
+    "year": 2019
   },
   {
     "quote": "I used to think that my life was a tragedy. But now I realize, it’s a comedy.",
-    "movie": "Joker(2019)"
+    "movie": "Joker",
+    "year": 2019
   },
   {
     "quote": "My mother always tells me to smile and put on a happy face. She told me I had a purpose to bring laughter and joy to the world.",
-    "movie": "Joker(2019)"
+    "movie": "Joker",
+    "year": 2019
   },
   {
     "quote": "Madness, as you know, is like gravity, all it takes is a little push.",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": " It's not about what I want. It's about what's fair!",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "Some men just want to watch the world burn.    ",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "If you’re good at something, never do it for free.",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "Sometimes the truth isn’t good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded    ",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "Nobody panics when things go “according to plan”. Even if the plan is horrifying!",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "I believe whatever doesn’t kill you, simply makes you stranger.",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "Does it depress you? To know just how alone you really are?",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "You see, in their last moments people show you who they really are.",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "You either die a hero or live long enough to see yourself become the villian.",
-    "movie": "THE DARK KNIGHT"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "Sometimes you must hurt in order to know, fall in order to grow, lose in order to gain because life's greatest lessons are learned through pain.",
-    "movie": "Naruto Shippuden"
+    "movie": "Naruto Shippuden",
+    "year": null
   },
   {
     "quote": "Do you understand pain a little now? If you don't share someone's pain, you can never understand them. But just because you understand them doesn't mean you can come to an agreement. That's the truth",
-    "movie": "Naruto Shippuden"
+    "movie": "Naruto Shippuden",
+    "year": null
   },
   {
     "quote": "Even the most ignorant, innocent child will eventually grow up as they learn what true pain is. It affects what they say, what they think… and they become real people.",
-    "movie": "Naruto Shippuden"
+    "movie": "Naruto Shippuden",
+    "year": null
   },
   {
     "quote": "Religion, ideology, resources, land, spite, love or just because. No matter how pathetic the reason, it's enough to start a war.",
-    "movie": "Naruto Shippuden"
+    "movie": "Naruto Shippuden",
+    "year": null
   },
   {
     "quote": "Learn to embrace the fear of feeling about what it's like to contemplate what it is to know true pain. Because when I had nothing and no one - I always had pain.",
-    "movie": "Naruto Shippuden"
+    "movie": "Naruto Shippuden",
+    "year": null
   },
   {
     "quote": "Justice comes from vengeance, but that justice only breeds more vengeance.",
-    "movie": "Naruto Shippuden"
+    "movie": "Naruto Shippuden",
+    "year": null
   },
   {
     "quote": "We are but men, drawn to act in the name of revenge that we deem to be justice. But... if there is justice in revenge then that same justice will breed only more revenge... and trigger a cycle of hatred.",
-    "movie": "Naruto Shippuden"
+    "movie": "Naruto Shippuden",
+    "year": null
   },
   {
     "quote": "Love breeds sacrifice... which in turn breeds hatred. Then you can know pain.",
-    "movie": "Naruto Shippuden"
+    "movie": "Naruto Shippuden",
+    "year": null
   },
   {
     "quote": "We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.",
-    "movie": "Interstellar"
+    "movie": "Interstellar",
+    "year": 2014
   },
   {
     "quote": "There’s no hiding from this, son.",
-    "movie": "Dunkirk"
+    "movie": "Dunkirk",
+    "year": 2017
   },
   {
     "quote": "They all deserve to die. Even you, Mrs. Lovett. Even I. Because the lives of the wicked should be made brief. For the rest of us death would be relief.",
-    "movie": " Sweeney Todd: The Demon Barber of Fleet Street "
+    "movie": "Sweeney Todd: The Demon Barber of Fleet Street ",
+    "year": 2007
   },
   {
     "quote": "Little pigs, little pigs, let me come in! Not by the hair on your chinny chin chin? Then I'll huff... And I'll puff... And I'll blow your house in!",
-    "movie": "The Shining"
+    "movie": "The Shining",
+    "year": 1980
   },
   {
     "quote": " I used to think that if none of your family or friends knew you were dead, it was like not really being dead. People can invent the best and the worst for you.",
+    "movie": "Before Sunrise",
+    "year": 1995
+  },
+  {
+    "quote": "Love means never having to say you're sorry",
+    "movie": "Love Story",
+    "year": 1970
+  },
+  {
+    "quote": "There's no place like home.",
+    "movie": "The Wizard of Oz",
+    "year": 1939
+  },
+  {
+    "quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "movie": "Forrest Gump",
+    "year": 1994
+  },
+  {
+    "quote": "Keep your friends close, but your enemies closer.",
+    "movie": "The Godfather II",
+    "year": 1974
+  },
+  {
+    "quote": "A wise man can learn more from his enemies than a fool from his friends.",
+    "movie": "Rush",
+    "year": 2013
+  },
+  {
+    "quote": "Do, or do not. There is no 'try'",
+    "movie": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980
+  },
+  {
+    "quote": "Every man dies, but not every man really lives.",
+    "movie": "Braveheart",
+    "year": 1995
+  },
+  {
+    "quote": "Don’t let anyone ever make you feel like you don’t deserve what you want.",
+    "movie": "10 things I hate about you",
+    "year": 1999
+  },
+  {
+    "quote": "Great men are not born great, they grow great.",
+    "movie": "The Godfather",
+    "year": 1972
+  },
+  {
+    "quote": "Life is not the amount of breaths you take. It’s the moments that take your breath away.",
+    "movie": "Hitch",
+    "year": 2005
+  },
+  {
+    "quote": "Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.",
+    "movie": "Ferris Bueller's Day Off",
+    "year": 1986
+  },
+  {
+    "quote": "Nobody is gonna hit as hard as life, but it ain’t how hard you can hit. It’s how hard you can get hit and keep moving forward. It’s how much you can take, and keep moving forward. That’s how winning is done.",
+    "movie": "Rocky Balboa",
+    "year": 2006
+  },
+  {
+    "quote": "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.",
+    "movie": "The Imitation Game",
+    "year": 2014  
+  },
+  {
+    "quote": "I'm king of the world",
+    "movie": "Titanic"
+  },
+  {
+    "quote": "I feel the need - the need for speed!",
+    "movie": "Top Gun"
+  },
+   {
+    "quote": "Hasta la vista, baby.",
+    "movie": "Terminator 2"
+  },  
+  {
+    "quote": "I'll be back.",
+    "movie": "Terminator"
+  },  
+  {
+    "quote": "May the Force be with you.",
+    "movie": "Star Wars"
+  },
+  {
+    "quote": "I used to think that if none of your family or friends knew you were dead, it was like not really being dead. People can invent the best and the worst for you.",
     "movie": "Before Sunrise"
   },
   {
@@ -166,5 +288,79 @@
   {
     "quote": "Here's Johnny!",
     "movie": "The Shinning, 1980"
+  },
+  {
+    "quote": "Life isn't fair, it's just fairer then death, that's all.",
+    "movie": "The Princess Bride"
+  },
+  {
+    "quote": "Slackers!",
+    "movie": "Back To The Future"
+  },
+  {
+    "quote": "Shiny!",
+    "movie": "Serenity"
+  },
+  {
+    "quote": "Have fun storming the castle!",
+    "movie": "The Princess Bride"
+  },
+  {
+    "quote": "I guess there's a plan for all of us. I had to die twice just to figure that out. Like the book says, he works his works in mysterious ways, some people like it, some people don't.",
+    "movie": "Constantine"
+  },
+  {
+    "quote": "Back off man, I'm a scientist!",
+    "movie": "Ghostbusters"
+  },
+
+  {
+    "quote": "She thinks the monkey is the sultan...",
+    "movie": "Aladdin",
+  },
+  {
+    "quote": "Sometimes I wish I had never met you. Because then I could go to sleep at night not knowing there was someone like you out there.",
+    "movie": "Good Will Hunting"
+  },
+  {
+    "quote": "Some birds aren't meant to be caged. Their feathers are just too bright",
+    "movie": "Shawshank Redemption"
+  },
+  {
+    "quote": "Don't ever let somebody tell you, you can't do something. Not even me. Alright?",
+    "movie": "Pursuit of happiness"
+  },
+  {
+    "quote": "We have such sights to show you!",
+    "movie": "Hellraiser"
+  },
+  {
+    "quote": "Max likes your yabbos. In fact, he loves them!",
+    "movie": "Hocus Pocus"
+  },
+  {
+    "quote": "Since I am dead I can take off my head to recite Shakespearean quotations.",
+    "movie": "Nightmare Before Christmas"
+  },
+  {
+    "quote": "I would die for her. I would kill for her. Either way, what bliss.",
+    "movie": "Adams Family"
+  },
+  {
+    "quote": "Checkov? Well, this here's McCoy. We find a Spock, we got us an away team.",
+    "movie": "Boondock Saints"
+  },
+  {
+    "quote": "Damn it man! I'm a doctor not a physicist!",
+    "movie": "Star Trek"
+  },
+  {
+    "quote": "As far back as I can remember, I always wanted to be a gangster.",
+    "movie": "Goodfellas"
+  },
+  {
+    "quote": "Leave the gun, take the canollis.",
+    "movie": "The Godfather"
   }
 ]
+
