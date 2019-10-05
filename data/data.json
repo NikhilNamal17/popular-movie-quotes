@@ -196,6 +196,10 @@
     "movie": "Before Sunrise"
   },
   {
+    "quote": "Sometimes I wish I had never met you. Because then I could go to sleep at night not knowing there was someone like you out there.",
+    "movie": "Good Will Hunting"
+  },
+  {
     "quote": "Some birds aren't meant to be caged. Their feathers are just too bright",
     "movie": "Shawshank Redemption"
   },
@@ -203,4 +207,5 @@
     "quote": "Don't ever let somebody tell you, you can't do something. Not even me. Alright?",
     "movie": "Pursuit of happiness"
   },
+
 ]
