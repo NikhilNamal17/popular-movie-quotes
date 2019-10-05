@@ -33,7 +33,7 @@ console.log(movieQuote.getRandomQoutes());
 
 ## License
 
-[![GitHub license](https://img.shields.io/github/license/NikhilNamal17/popular-movie-quotes.svg?style=for-the-badge&logo=github)]
+![GitHub license](https://img.shields.io/github/license/NikhilNamal17/popular-movie-quotes.svg?style=for-the-badge&logo=github)
 
 ## Let's get connected
 
