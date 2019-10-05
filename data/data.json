@@ -121,7 +121,32 @@
     "movie": "The Shining"
   },
   
-
+  {
+    "quote": "I'm king of the world",
+    "movie": "Titanic"
+  },
+  
+  {
+    "quote": "I feel the need - the need for speed!",
+    "movie": "Top Gun"
+  },
+  
+   {
+    "quote": "Hasta la vista, baby.",
+    "movie": "Terminator 2"
+  },
+  
+  {
+    "quote": "I'll be back.",
+    "movie": "Terminator"
+  },
+  
+  {
+    "quote": "May the Force be with you.",
+    "movie": "Star Wars"
+  },
+  
+  
   {
     "quote": " I used to think that if none of your family or friends knew you were dead, it was like not really being dead. People can invent the best and the worst for you.",
     "movie": "Before Sunrise"
