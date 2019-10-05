@@ -211,7 +211,7 @@
   {
     "quote": "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.",
     "movie": "The Imitation Game",
-    "year": 2014  
+    "year": 2014
   },
   {
     "quote": "I'm king of the world",
@@ -224,11 +224,11 @@
    {
     "quote": "Hasta la vista, baby.",
     "movie": "Terminator 2"
-  },  
+  },
   {
     "quote": "I'll be back.",
     "movie": "Terminator"
-  },  
+  },
   {
     "quote": "May the Force be with you.",
     "movie": "Star Wars"
@@ -363,8 +363,73 @@
     "movie": "The Godfather"
   },
   {
-	"quote": "What I want more than anything in the world is it to be okay with you to feel something again. Even if it’s pain. For the first time, let’s just allow ourselves to be whatever it is we are.",
+	  "quote": "What I want more than anything in the world is it to be okay with you to feel something again. Even if it’s pain. For the first time, let’s just allow ourselves to be whatever it is we are.",
     "movie": "Garden State"
+  },
+  {
+    "quote": "People keep asking if I'm back and I haven't really had an answer, but yeah, I'm thinking I'm back.",
+    "movie": "John Wick",
+    "year": 2014
+  },
+  {
+    "quote": "They may take our lives, but they'll never take our freedom!",
+    "movie": "Breaveheart",
+    "year": 1995
+  },
+  {
+    "quote": "If you let my daughter go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will kill you.",
+    "movie": "Taken",
+    "year": 2008
+  },
+  {
+    "quote": "Say hello to my little friend!",
+    "movie": "Scarface",
+    "year": 1983
+  },
+  {
+    "quote": "You can't handle the truth!",
+    "movie": "A Few Good Men",
+    "year": 1992
+  },
+  {
+    "quote": "Yippie-ki-yay, motherf—er!",
+    "movie": "Die Hard",
+    "year": 1988
+  },
+  {
+    "quote": "I'm not bad. I'm just drawn that way.",
+    "movie": "Who Framed Roger Rabbit",
+    "year": 1988
+  },
+  {
+    "quote": "It's alive! It's alive!",
+    "movie": "Frankenstein",
+    "year": 1931
+  },
+  {
+    "quote": "I don't have friends. I got family.",
+    "movie": "Furious 7",
+    "year": 2015
+  },
+  {
+    "quote": "Dude, where's my car?",
+    "movie": "Dude, Where's My Car?",
+    "year": 2000
+  },
+  {
+    "quote": "I just wanted to take another look at you.",
+    "movie": "A Star Is Born",
+    "year": 2018
+  },
+  {
+    "quote": "I am Groot.",
+    "movie": "Guardians of the Galaxy",
+    "year": 2014
+  },
+  {
+    "quote": "I want to play a game.",
+    "movie": "Saw",
+    "year": 2004
   }
 ]
 
