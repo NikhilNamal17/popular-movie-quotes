@@ -1,6 +1,30 @@
 ![GitHub license](https://img.shields.io/github/license/NikhilNamal17/popular-movie-quotes.svg?style=for-the-badge&logo=github) ![NPM MODULE](http://img.shields.io/badge/popularmovie-quotes-orange.svg?style=for-the-badge&logo=imdb) ![NPM MODULE](https://img.shields.io/github/issues/NikhilNamal17/popular-movie-quotes?style=for-the-badge&logo=appveyor) ![NPM MODULE](https://img.shields.io/github/forks/NikhilNamal17/popular-movie-quotes?logo=github&style=for-the-badge) ![NPM MODULE](https://img.shields.io/github/stars/NikhilNamal17/popular-movie-quotes?color=yellow&logo=github&style=for-the-badge) ![NPM MODULE](https://img.shields.io/github/languages/code-size/NikhilNamal17/popular-movie-quotes?style=for-the-badge&logo=docusign) ![NPM MODULE](https://img.shields.io/github/languages/top/NikhilNamal17/popular-movie-quotes?style=for-the-badge&logo=javascript)
 
-#### A simple NPM package to get popular movie quotes.
+#### A simple [NPM](https://www.npmjs.com/package/popular-movie-quotes) package to get popular movie quotes.
+
+## Getting started
+[![NPM](https://nodei.co/npm/popular-movie-quotes.png?compact=true)](https://nodei.co/npm/popular-movie-quotes/)
+
+```
+$ npm i popular-movie-quotes --save
+```
+
+## Installation
+
+[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)  [![NODE JS](https://img.shields.io/npm/v/popular-movie-quotes?logo=npm&label=popular-movie-quotes&style=for-the-badge)](https://www.npmjs.com/package/popular-movie-quotes) 
+
+
+This is a [Node.js](https://nodejs.org/en/) module available through the
+[npm registry](https://www.npmjs.com/).
+
+Before installing, [download and install Node.js](https://nodejs.org/en/download/).
+
+Installation is done using the
+**[`npm install`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)** command:
+
+```bash
+$ npm install inspirational-quotes --save
+```
 
 ## Usage
 
