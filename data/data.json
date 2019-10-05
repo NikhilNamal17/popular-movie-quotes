@@ -146,11 +146,19 @@
     "movie": "Star Wars"
   },
   
-  
   {
     "quote": " I used to think that if none of your family or friends knew you were dead, it was like not really being dead. People can invent the best and the worst for you.",
     "movie": "Before Sunrise"
-  }
-  
+  },
+
+  {
+    "quote": "Some birds aren't meant to be caged. Their feathers are just too bright",
+    "movie": "Shawshank Redemption"
+  },
+
+  {
+    "quote": "Don't ever let somebody tell you, you can't do something. Not even me. Alright?",
+    "movie": "Pursuit of happiness"
+  },
 
 ]
