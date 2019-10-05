@@ -4,12 +4,12 @@ const randomNum = () => {
     return Math.floor(Math.random() * array.length);
 };
 
-exports.getRandomQoutes = () => {
+module.exports.getRandomQoutes = () => {
     let randNum = randomNum();
 
     return array[randNum].quote;
 };
 
-exports.all = () => {
+module.exports.all = () => {
     return array;
 };
