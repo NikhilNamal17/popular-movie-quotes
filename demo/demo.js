@@ -1,5 +1,5 @@
-const movieQuote = require("../index");
+const movieQuote = require("popular-movie-quotes");
 
 console.log(movieQuote.getAll()); //get an array with all available quotes.
 
-console.log(movieQuote.getRandomQoutes()); // get a random quote
+console.log(movieQuote.getRandomQuote()); // get a random quote
