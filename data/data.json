@@ -431,6 +431,18 @@
     "movie": "Saw",
     "year": 2004
   },
+	
+  {
+    "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
+    "movie": "Dirty Harry"
+  },
+
+  {
+    "quote": "Houston, we have a problem.",
+    "movie": "Apollo 13"
+  },
+	
+	
   {
     "quote": "Look, spaghetti arms. This is my dance space. This is your dance space. I don't go into yours, you don't go into mine. You gotta hold the frame.",
     "movie": "Dirty Dancing",
