@@ -238,6 +238,58 @@
     "movie": "Before Sunrise"
   },
   {
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "movie": "Batman, 1989"
+  },
+  {
+    "quote": "Let's put a smile on that face!",
+    "movie": "The Dark Knight, 2008"
+  },
+  {
+    "quote": "Why so serious?",
+    "movie": "The Dark Knight, 2008"
+  },
+  {
+    "quote": "May the Force be with you.",
+    "movie": "Star Wars, 1977"
+  },
+  {
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "movie": "The Godfather, 1972"
+  },
+  {
+    "quote": "The first rule of Fight Club is: You do not talk about Fight Club.",
+    "movie": "Fight Club, 1999"
+  },
+  {
+    "quote": "I am your father.",
+    "movie": "Star Wars, Empire Strikes Back, 1980"
+  },
+  {
+    "quote": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
+    "movie": "The Princess Bride, 1987"
+  },
+  {
+    "quote": "Bond. James Bond",
+    "movie": "Dr. No, 1962"
+  },
+  {
+    "quote": "I see dead people.",
+    "movie": "The Sixth Sense, 1999"
+  },
+  {
+    "quote": "I'll be back.",
+    "movie": "The Terminator, 1984"
+  },
+  {
+    "quote": "Houston, we have a problem.",
+    "movie": "Apollo 13, 1995"
+  },
+  {
+    "quote": "Here's Johnny!",
+    "movie": "The Shinning, 1980"
+  },
+  {
     "quote": "Life isn't fair, it's just fairer then death, that's all.",
     "movie": "The Princess Bride"
   },
@@ -311,3 +363,4 @@
     "movie": "The Godfather"
   }
 ]
+
