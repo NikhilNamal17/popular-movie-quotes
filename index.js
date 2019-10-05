@@ -10,6 +10,6 @@ module.exports.getRandomQoutes = () => {
     return array[randNum].quote;
 };
 
-module.exports.all = () => {
+module.exports.getAll = () => {
     return array;
 };
