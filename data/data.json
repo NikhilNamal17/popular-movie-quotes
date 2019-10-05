@@ -221,7 +221,7 @@
     "quote": "I feel the need - the need for speed!",
     "movie": "Top Gun"
   },
-   {
+  {
     "quote": "Hasta la vista, baby.",
     "movie": "Terminator 2"
   },
@@ -316,7 +316,7 @@
 
   {
     "quote": "She thinks the monkey is the sultan...",
-    "movie": "Aladdin",
+    "movie": "Aladdin"
   },
   {
     "quote": "Sometimes I wish I had never met you. Because then I could go to sleep at night not knowing there was someone like you out there.",
@@ -363,7 +363,7 @@
     "movie": "The Godfather"
   },
   {
-	  "quote": "What I want more than anything in the world is it to be okay with you to feel something again. Even if it’s pain. For the first time, let’s just allow ourselves to be whatever it is we are.",
+    "quote": "What I want more than anything in the world is it to be okay with you to feel something again. Even if it’s pain. For the first time, let’s just allow ourselves to be whatever it is we are.",
     "movie": "Garden State"
   },
   {
@@ -431,7 +431,7 @@
     "movie": "Saw",
     "year": 2004
   },
-	
+
   {
     "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
     "movie": "Dirty Harry"
@@ -441,10 +441,13 @@
     "quote": "Houston, we have a problem.",
     "movie": "Apollo 13"
   },
-	
-	
+
   {
     "quote": "Look, spaghetti arms. This is my dance space. This is your dance space. I don't go into yours, you don't go into mine. You gotta hold the frame.",
-    "movie": "Dirty Dancing",
+    "movie": "Dirty Dancing"
+  },
+  {
+    "quote": "We sat and drank with the sun on our shoulders and felt like free men.",
+    "movie": "The Shawshank Redemption"
   }
 ]
