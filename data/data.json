@@ -605,13 +605,17 @@
   {
     "quote": "There is whole lot more to racing than just winning",
     "movie": "Cars"
+  }, 
+  {
+    "quote": "All it takes is little faith and trust",
+    "movie": "Peter Pan"
   },	
   {
-	"quote": "I've had it with these motherfucking snakes on this motherfucking plane!",
-	"movie": "Snakes on a plane"
+	  "quote": "I've had it with these motherfucking snakes on this motherfucking plane!",
+	  "movie": "Snakes on a plane"
   },
   {
     "quote": "E.T. phone home.",
     "movie": " E.T. The Extra-Terrestrial"
-  },
+  }
 ]
