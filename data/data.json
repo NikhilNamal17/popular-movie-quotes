@@ -316,7 +316,7 @@
 
   {
     "quote": "She thinks the monkey is the sultan...",
-    "movie": "Aladdin",
+    "movie": "Aladdin"
   },
   {
     "quote": "Sometimes I wish I had never met you. Because then I could go to sleep at night not knowing there was someone like you out there.",
@@ -431,20 +431,21 @@
     "movie": "Saw",
     "year": 2004
   },
-	
   {
     "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
     "movie": "Dirty Harry"
   },
-
   {
     "quote": "Houston, we have a problem.",
     "movie": "Apollo 13"
   },
-	
-	
   {
     "quote": "Look, spaghetti arms. This is my dance space. This is your dance space. I don't go into yours, you don't go into mine. You gotta hold the frame.",
-    "movie": "Dirty Dancing",
+    "movie": "Dirty Dancing"
+  },
+  {
+    "quote": "With great power comes great responsibility.",
+    "movie": "Spider Man",
+    "year": 2002
   }
 ]
