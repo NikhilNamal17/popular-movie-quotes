@@ -445,6 +445,27 @@
 	
   {
     "quote": "Look, spaghetti arms. This is my dance space. This is your dance space. I don't go into yours, you don't go into mine. You gotta hold the frame.",
-    "movie": "Dirty Dancing",
+    "movie": "Dirty Dancing"
+  },
+
+  {
+    "quote":"Carpe diem. Seize the day. boys. Make your lives extraordinary.",
+    "movie": "Dead Poets Society",
+    "year": 1989
+  },
+
+
+  {
+    "quote":"We accept the love we think we deserve",
+    "movie": "The Perks of Being a Wallflower.",
+    "year": 2012
+  },
+
+
+  {
+    "quote":"The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can/'t achieve it.",
+    "movie": "Wolf of the Wall Street",
+    "year": 2014
   }
+
 ]
