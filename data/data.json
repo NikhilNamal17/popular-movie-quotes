@@ -1628,7 +1628,13 @@
           "quote": "Look At Me, I'm The Captain Now",
           "movie": "Captian Phillips",
           "year": 2013
-      }, 	
+      },
+      {
+          "quote": "Power belongs to those who take it.",
+          "movie": "Mr. Robot",
+          "type": "TV series",
+          "year": 2015
+      },
       { 
           "quote": "Not all treasure is silver and gold mate",
           "movie": "Pirates of the Carribean",
