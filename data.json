@@ -435,15 +435,18 @@
   },
   {
     "quote": "As far back as I can remember, I always wanted to be a gangster.",
-    "movie": "Goodfellas"
+    "movie": "Goodfellas",
+    "year": 1990
   },
   {
     "quote": "Leave the gun, take the canollis.",
-    "movie": "The Godfather"
+    "movie": "The Godfather",
+    "year": 1972
   },
   {
     "quote": "What I want more than anything in the world is it to be okay with you to feel something again. Even if it’s pain. For the first time, let’s just allow ourselves to be whatever it is we are.",
-    "movie": "Garden State"
+    "movie": "Garden State",
+    "year": 2004
   },
   {
     "quote": "People keep asking if I'm back and I haven't really had an answer, but yeah, I'm thinking I'm back.",
@@ -513,15 +516,12 @@
   { 
     "quote": "I'm gonna say what any man with two penises would say when his tailor asks him if he dresses right or left... Yes.",
     "movie": "Lucky Number Slevin",
-    "year": "2006"
+    "year": 2006
   },
   {
     "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
-    "movie": "Dirty Harry"
-  },
-  {
-    "quote": "Houston, we have a problem.",
-    "movie": "Apollo 13"
+    "movie": "Dirty Harry",
+    "year": 1971
   },
   {
     "quote": "It's inhuman to be so cold.",
