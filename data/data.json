@@ -653,6 +653,11 @@
     "year": 2007
   },
   {
+    "quote": "I am a Jedi, like my father before me."
+    "movie": "Star Wars Episode 6 : Return Of The Jedi"
+    "year": 1983
+  },
+  {
     "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
     "movie": "8 1⁄2 ",
     "year": 1963,
@@ -746,5 +751,4 @@
     "movie": "Edge Of Tomorrow",
     "year": 2014
   }
-
 ]
