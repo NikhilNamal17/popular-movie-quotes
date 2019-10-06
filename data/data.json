@@ -637,6 +637,18 @@
     "year": 2007
   },
   {
+    "quote": "It's only after we've lost everything that we're free to do anything.",
+    "movie": "Fight Club",
+    "type": "movie/drama/action",
+    "year": 1999
+  },
+  {
+    "quote": "Oh yes, the past can hurt. But you can either run from it, or learn from it.",
+    "movie": "The Lion King",
+    "type": "movie/drama/music",
+    "year": 1994
+  },
+  {
 	  "quote": "Don't talk like you're one of them",
 	  "movie": "The dark knight",
 	  "type": "movie",
