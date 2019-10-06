@@ -41,7 +41,7 @@ $ npm i popular-movie-quotes --save
 
 -   **_getSome(count)_** method returns an array (of length 'count') of objects containing **_quote_** and **_movie_**.
 
--   **_getSomeRamdom(count)_** method returns an array (of length 'count') of non-duplicate random objects containing **_quote_** and **_movie_**.
+-   **_getSomeRandom(count)_** method returns an array (of length 'count') of non-duplicate random objects containing **_quote_** and **_movie_**.
 
 ```json
 [
@@ -49,7 +49,7 @@ $ npm i popular-movie-quotes --save
     "quote": "Frankly, my dear, I don't give a damn.",
     "movie": "Gone with the Wind"
     },
-    ...
+    // with 'count' number of quote objects. 
 ]
 ```
 
