@@ -30,7 +30,7 @@ $ npm i popular-movie-quotes --save
 
 [![usage](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/vinitshahdeo/inspirational-quotes/)
 
--   **_getAll()_** method returns an object containing **_quote_** and **_movie_**.
+-   **_getAll()_** method returns an array of objects, each containing **_quote_** and **_movie_**.
 
 ```json
 {
@@ -39,14 +39,33 @@ $ npm i popular-movie-quotes --save
 }
 ```
 
+-   **_getSome(count)_** method returns an array (of length 'count') of objects containing **_quote_** and **_movie_**.
+
+-   **_getSomeRandom(count)_** method returns an array (of length 'count') of non-duplicate random objects containing **_quote_** and **_movie_**.
+
+```json
+[
+    {
+    "quote": "Frankly, my dear, I don't give a damn.",
+    "movie": "Gone with the Wind"
+    },
+    // with 'count' number of quote objects. 
+]
+```
+
 -   **_getRandomQuote()_** method returns a random **movie** quote : _`I used to think that my life was a tragedy. But now I realize, it’s a comedy.`_
 
 ```js
-const movieQuote = require("../index");
+const movieQuote = require("popular-movie-quotes");
 
-console.log(movieQuote.getAll());
+console.log(movieQuote.getAll()); //get an array with all available quotes.
 
-console.log(movieQuote.getRandomQoutes());
+console.log(movieQuote.getSome(10)); // get an array of 10 quotes.
+
+console.log(movieQuote.getSomeRandom(10)); // get an array of 10 random quotes.
+
+console.log(movieQuote.getRandomQuote()); // get a random quote
+
 ```
 
 ## Want to contribute?
