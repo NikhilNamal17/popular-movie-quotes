@@ -1,4 +1,16 @@
 [
+     {
+      "quote": "Don't torture yourself, Gomez. That's my job..",
+      "movie": "The Addams Family",
+       "type": "movie",
+        "year": 1991
+      },
+      {
+        "quote": "You sent us to camp. They made us sing.",
+        "movie": "Addams Family Values",
+        "type": "movie",
+        "year": 1993
+      }, 
    {
       "quote": "May the force be with you",
       "movie": "Star Wars",
