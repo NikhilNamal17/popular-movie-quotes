@@ -686,14 +686,43 @@
     "quote": "E.T. phone home.",
     "movie": " E.T. The Extra-Terrestrial",
     "year": 1982
-  },{
+  },
+  {
     "quote": "We’ve all got both light and darkness inside us. What matters is the part we choose to act on. That’s who we really are.",
     "movie": "Harry Potter and the Order of the Phoenix",
     "year": 2007
-  },{
+  },
+  {
   	"quote": "My name is Jeff",
-    "movie": "22 Jump Street",
-    "year": 2014
+  	"movie": "22 Jump Street"
+  },
+  {  
+        "quote": "All I have are negative thoughts!",
+        "movie": "Joker(2019)",
+        "year": 2019
+  }, 
+  {
+    "quote": "I love you 3000",
+    "movie": "Avengers Endgame",
+    "year" : 2019
+  },
+  {  
+        "quote": "Why so serious?",
+        "movie": "The Dark Knight",
+        "type": "movie",
+        "year": 2008
+  },
+  {  
+        "quote": "Stupid is as stupid does.",
+        "movie": "Forrest Gump",
+        "type": "movie",
+        "year": 1994
+  },
+  {  
+        "quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "type": "movie",
+        "year": 2001
   },
   {  
     "quote": "All I have are negative thoughts!",
