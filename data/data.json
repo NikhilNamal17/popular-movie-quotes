@@ -16,31 +16,31 @@
       "movie": "Some Like It Hot",
       "type": "movie",
       "year": 1959
-    },	
+    },
     {
       "quote": "Greed, for lack of a better word, is good",
       "movie": "Wall Street",
       "type": "movie",
       "year": 1987
-    },	
+    },
     {
       "quote": "My precious",
       "movie": "The Lord of the rings: Two Towers",
       "type": "movie",
       "year": 2002
-    },	
-        {  
+    },
+        {
       "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
       "movie": "Bee movie",
-      "type": "movie",
+      "type": "movie"
     },
     {
       "quote": "Cause if we can't protect the Earth, you can be damn sure we'll avenge it",
       "movie": "The Avengers",
-      "type": "movie",		
+      "type": "movie",
       "year": 2012
     },
-    {  
+    {
         "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
         "movie": "Bee movie",
         "type": "movie",
@@ -49,15 +49,15 @@
     {
       "quote": "It's not who I am underneath, but what I do that defines me",
       "movie": "Batman begins",
-      "year": 2005   
+      "year": 2005
     },
     {
       "quote": "There was an idea to bring together a group of remarkable people, to see if we could become something more",
       "movie": "The Avengers",
-      "type": "movie",		
+      "type": "movie",
       "year": 2012
     },
-    {  
+    {
         "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
         "movie": "Bee movie",
         "type": "movie",
@@ -66,7 +66,7 @@
     {
       "quote": "It's not who I am underneath, but what I do that defines me",
       "movie": "Batman begins",
-      "year": 2005   
+      "year": 2005
     },
     {
         "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
@@ -284,6 +284,12 @@
     {
         "quote": "There's no place like home.",
         "movie": "The Wizard of Oz",
+        "year": 1939
+    },
+    {
+        "quote": "Toto, I've got a feeling we're not in Kansas anymore.",
+        "movie": "The Wizard of Oz",
+        "type": "movie",
         "year": 1939
     },
     {
@@ -1107,7 +1113,7 @@
       "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
       "movie": "8 1⁄2 ",
       "year": 1963,
-      "director": "Federico Fellini" 
+      "director": "Federico Fellini"
     },
     {
       "quote":"Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
@@ -1572,7 +1578,7 @@
           "movie": "Joker",
           "year": 2019
       },
-      { 
+      {
           "quote": "Come find me when you wake up!",
           "movie": "Edge Of Tomorrow",
           "year": 2014
