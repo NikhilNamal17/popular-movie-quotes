@@ -1,5 +1,40 @@
 [
     {
+      "quote": "May the force be with you",
+      "movie": "Star Wars",
+      "type": "movie",
+      "year": 1977
+    },
+    {
+      "quote": "Bond. James Bond",
+      "movie": "Dr. No",
+      "type": "movie",
+      "year": 1962
+    },
+    {
+      "quote": "Well nobody is perfect",
+      "movie": "Some Like It Hot",
+      "type": "movie",
+      "year": 1959
+    },	
+    {
+      "quote": "Greed, for lack of a better word, is good",
+      "movie": "Wall Street",
+      "type": "movie",
+      "year": 1987
+    },	
+    {
+      "quote": "My precious",
+      "movie": "The Lord of the rings: Two Towers",
+      "type": "movie",
+      "year": 2002
+    },	
+        {  
+      "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+      "movie": "Bee movie",
+      "type": "movie",
+    },
+    {
       "quote": "Cause if we can't protect the Earth, you can be damn sure we'll avenge it",
       "movie": "The Avengers",
       "type": "movie",		
