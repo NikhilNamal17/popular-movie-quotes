@@ -647,5 +647,15 @@
     "movie": "The Lion King",
     "type": "movie/drama/music",
     "year": 1994
+  },
+  {
+    "quote": "The worst part of having a mental illness is people expect you to behave as if you don't",
+    "movie": "Joker",
+    "year": "2019"
+  },
+ {
+    "quote": "Come find me when you wake up!",
+    "movie": "Edge Of Tomorrow",
+    "year": 2014
   }
 ]
