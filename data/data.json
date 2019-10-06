@@ -1,5 +1,22 @@
 [
     {
+      "quote": "Cause if we can't protect the Earth, you can be damn sure we'll avenge it",
+      "movie": "The Avengers",
+      "type": "movie",		
+      "year": 2012
+    },
+    {  
+        "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+        "movie": "Bee movie",
+        "type": "movie",
+        "year": 2017
+    },
+    {
+      "quote": "It's not who I am underneath, but what I do that defines me",
+      "movie": "Batman begins",
+      "year": 2005   
+    },
+    {
       "quote": "There was an idea to bring together a group of remarkable people, to see if we could become something more",
       "movie": "The Avengers",
       "type": "movie",		
@@ -399,7 +416,6 @@
         "quote": "Back off man, I'm a scientist!",
         "movie": "Ghostbusters"
     },
-
     {
       "quote": "There is a difference between knowing the path and walking the path.",
       "movie": "The Matrix",
