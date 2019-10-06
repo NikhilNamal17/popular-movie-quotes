@@ -755,5 +755,11 @@
     "quote": "Come find me when you wake up!",
     "movie": "Edge Of Tomorrow",
     "year": 2014
+  },
+  {
+    "quote": "Hakuna matata",
+    "movie": "The Lion King",
+    "type": "movie",
+    "year": 1994
   }
 ]
