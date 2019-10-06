@@ -4095,6 +4095,14 @@
           "quote": "Let it go!",
 	      "movie": "Frozen",
 	      "year": 2013
+
+    },
+    {
+      "quote": "Gentlemen, you can't fight in here! This is the War Room!",
+      "movie": "Dr. Strangelove",
+      "type": "Comedy",
+      "year": "1964" 
+   
 	  },
    {
       "quote":"I am Iron Man",
@@ -4394,5 +4402,6 @@
       "movie":"Frozen",
       "year":2013
    }
+
 ]
 
