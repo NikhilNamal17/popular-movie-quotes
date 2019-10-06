@@ -659,39 +659,45 @@
   }, 
   {
     "quote": "Your identity is your most valuable possession. Protect it",
-    "movie": "The Incredibles"
+    "movie": "The Incredibles",
+    "year": 2004
   },
   {
     "quote": "There is whole lot more to racing than just winning",
-    "movie": "Cars"
+    "movie": "Cars",
+    "year": 2006
   }, 
   {
     "quote": "All it takes is little faith and trust",
-    "movie": "Peter Pan"
+    "movie": "Peter Pan",
+    "year": 1953
   },	
   {
 	  "quote": "I've had it with these motherfucking snakes on this motherfucking plane!",
-	  "movie": "Snakes on a plane"
+    "movie": "Snakes on a Plane",
+    "year": 2006
   },
   {
     "quote": "E.T. phone home.",
-    "movie": " E.T. The Extra-Terrestrial"
+    "movie": " E.T. The Extra-Terrestrial",
+    "year": 1982
   },{
     "quote": "We’ve all got both light and darkness inside us. What matters is the part we choose to act on. That’s who we really are.",
     "movie": "Harry Potter and the Order of the Phoenix",
     "year": 2007
   },{
   	"quote": "My name is Jeff",
-  	"movie": "22 Jump Street"
+    "movie": "22 Jump Street",
+    "year": 2014
   },
-{  
-      "quote": "All I have are negative thoughts!",
-      "movie": "Joker(2019)",
-      "year": 2019
-}, 
-{
+  {  
+    "quote": "All I have are negative thoughts!",
+    "movie": "Joker(2019)",
+    "year": 2019
+  }, 
+  {
 	"quote": "I love you 3000",
 	"movie": "Avengers Endgame",
 	"year" : 2019
-}
+  }
 ]
