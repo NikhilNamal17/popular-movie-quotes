@@ -1,5 +1,40 @@
 [
     {
+      "quote": "May the force be with you",
+      "movie": "Star Wars",
+      "type": "movie",
+      "year": 1977
+    },
+    {
+      "quote": "Bond. James Bond",
+      "movie": "Dr. No",
+      "type": "movie",
+      "year": 1962
+    },
+    {
+      "quote": "Well nobody is perfect",
+      "movie": "Some Like It Hot",
+      "type": "movie",
+      "year": 1959
+    },	
+    {
+      "quote": "Greed, for lack of a better word, is good",
+      "movie": "Wall Street",
+      "type": "movie",
+      "year": 1987
+    },	
+    {
+      "quote": "My precious",
+      "movie": "The Lord of the rings: Two Towers",
+      "type": "movie",
+      "year": 2002
+    },	
+        {  
+      "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+      "movie": "Bee movie",
+      "type": "movie",
+    },
+    {
       "quote": "Cause if we can't protect the Earth, you can be damn sure we'll avenge it",
       "movie": "The Avengers",
       "type": "movie",		
@@ -1064,8 +1099,8 @@
       "year": 2007
     },
     {
-      "quote": "I am a Jedi, like my father before me."
-      "movie": "Star Wars Episode 6 : Return Of The Jedi"
+      "quote": "I am a Jedi, like my father before me.",
+      "movie": "Star Wars Episode 6 : Return Of The Jedi",
       "year": 1983
     },
     {
@@ -1541,68 +1576,86 @@
           "quote": "Come find me when you wake up!",
           "movie": "Edge Of Tomorrow",
           "year": 2014
-      }
+
+      },
 	  { 
           "quote": "They call me Mister Tibbs!",
           "movie": "In the Heat of the Night",
           "year": 1967
-      }
+      },
 	  { 
           "quote": "TIA This is Africa",
           "movie": "Blood Diamond",
           "year": 2006
-      }
+      },
 	  { 
           "quote": "What happens in vegas stays in vegas",
           "movie": "The Hangover",
           "year": 2009
-      }
+      },
 	  { 
           "quote": "Go ahead, make my day.",
           "movie": "Sudden Impact",
           "year": 1983
-      }
+      },
 	  { 
           "quote": "A martini. Shaken, not stirred",
           "movie": "Goldfinger ",
           "year": 1964
-      }
+      },
 	  { 
           "quote": "That’s my secret, Captain. I’m always angry.",
           "movie": "The Avengers ",
           "year": 2012
-      }
+      },
 	  
 	  { 
           "quote": "People don’t buy stock; it gets sold to them. Don’t ever forget that.",
           "movie": "The Wolf of Wall Street",
           "year": 2013
-      }
+      },
 	  { 
           "quote": "There's no nobility in poverty.",
           "movie": "The Wolf of Wall Street",
           "year": 2013
-      }
+      },
 	  { 
           "quote": "Ignorance Is Bliss",
           "movie": "The Matrix",
           "year": 1999
-      }  	
+      }, 	
       { 
           "quote": "Look At Me, I'm The Captain Now",
           "movie": "Captian Phillips",
           "year": 2013
-      } 	
+      }, 	
       { 
           "quote": "Not all treasure is silver and gold mate",
           "movie": "Pirates of the Carribean",
           "year": 2003
-      } 
+      },
       { 
           "quote": "The problem is not the problem. The problem is your attitude about the problem. Do you understand?",
           "movie": "Pirates of the Carribean",
           "year": 2003
-      } 	  
-	  
-	  
+      },
+      {
+        "quote": "My precious.",
+        "movie": "The Lord of the Rings: Two Towers",
+        "year": 2002
+      },
+
+      {
+        "quote": "Rishte me to hum tumhare baap lagte hain, naam hai Shahenshah",
+        "movie": "Shahenshah",
+        "type": "Movie",
+        "year": "1988" 
+      },
+
+	  {
+          "quote": "Let it go!",
+	      "movie": "Frozen",
+	      "year": 2013
+	  }
+
 ]
