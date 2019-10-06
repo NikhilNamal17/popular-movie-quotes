@@ -5,7 +5,7 @@
     "year": 1995
   },
   {
-    "quote": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the 'present'."
+    "quote": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the 'present'.",
     "movie": "Kung Fu Panda"
   },
   { 
@@ -634,6 +634,11 @@
     "quote": "We’ve all got both light and darkness inside us. What matters is the part we choose to act on. That’s who we really are.",
     "movie": "Harry Potter and the Order of the Phoenix",
     "year": 2007
+  },
+  {
+    "quote": "The worst part of having a mental illness is people expect you to behave as if you don't",
+    "movie": "Joker",
+    "year": "2019"
   }
  {
     "quote": "Come find me when you wake up!",
