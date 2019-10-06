@@ -6,7 +6,7 @@
 [![NPM](https://nodei.co/npm/popular-movie-quotes.png?compact=true)](https://nodei.co/npm/popular-movie-quotes/)
 
 ```
-$ npm i popular-movie-quotes --save
+$ npm i popular-movie-quotes --save //
 ```
 
 ## Installation
