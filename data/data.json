@@ -260,6 +260,11 @@
     "quote": "I'm king of the world",
     "movie": "Titanic"
   },
+	{
+    "quote": "Does anything more dangerous than that lurk just beneath the surface?",
+    "movie": "Titanic",
+		"year": 1997
+  },
   {
     "quote": "I feel the need - the need for speed!",
     "movie": "Top Gun"
