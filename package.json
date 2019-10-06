@@ -28,8 +28,11 @@
         "data": "data"
     },
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Running full test suite.\" && jest"
     },
     "author": "Nikhil N Namal <nikhilnamal16@mail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "^4.17.15"
+    }
 }
