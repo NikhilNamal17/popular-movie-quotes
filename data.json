@@ -5,11 +5,6 @@
     "year": 1995
   },
   {
-    "quote": "The closer you look,the less you'll see.",
-    "movie": "Now you see me",
-    "year": 2013
-  },
-  {
     "quote": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the 'present'."
     "movie": "Kung Fu Panda"
   },
@@ -652,5 +647,23 @@
 	"quote": "I love you 3000",
 	"movie": "Avengers Endgame",
 	"year" : 2019
+},
+{  
+      "quote": "Why so serious?",
+      "movie": "The Dark Knight",
+      "type": "movie",
+      "year": 2008
+},
+{  
+      "quote": "Stupid is as stupid does.",
+      "movie": "Forrest Gump",
+      "type": "movie",
+      "year": 1994
+},
+{  
+      "quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "type": "movie",
+      "year": 2001
 }
 ]
