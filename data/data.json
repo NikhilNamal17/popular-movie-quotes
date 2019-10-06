@@ -449,7 +449,42 @@
 
   {
     "quote": "Look, spaghetti arms. This is my dance space. This is your dance space. I don't go into yours, you don't go into mine. You gotta hold the frame.",
-    "movie": "Dirty Dancing"
+    "movie": "Dirty Dancing",
+  },
+  {
+    "quote": "It’s a dangerous business, going out your door…You step into the Road, and if you don’t keep your feet, there is no knowing where you might be swept off to.",
+    "movie": "Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001
+  },
+  {
+    "quote": "All we have to decide is what to do with the time that is given us.",
+    "movie": "Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001
+  },
+  {
+    "quote": "Even the smallest person can change the course of history.",
+    "movie": "Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001
+  },
+  {
+    "quote": "There is always hope.",
+    "movie": "Lord of the Rings: The Tow Towers",
+    "year": 2002
+  },
+  {
+    "quote": "But in the end it’s only a passing thing, this shadow, even darkness must pass.",
+    "movie": "Lord of the Rings: The Tow Towers",
+    "year": 2002
+  },
+  {
+    "quote": "There’s some good in this world, and it’s worth fighting for.",
+    "movie": "Lord of the Rings: The Tow Towers",
+    "year": 2002
+  },
+  {
+    "quote": "Dark have been my dreams of late.",
+    "movie": "Lord of the Rings: The Tow Towers",
+    "year": 2002
   },
   {
     "quote": "We sat and drank with the sun on our shoulders and felt like free men.",
@@ -499,4 +534,5 @@
     "quote": "I’m gonna give you a little somethin’ you can’t take off.",
     "movie": "Inglourious Basterds"
   }
+	
 ]
