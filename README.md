@@ -3,6 +3,7 @@
 #### A simple [NPM](https://www.npmjs.com/package/popular-movie-quotes) package to get popular movie quotes.
 
 ## Getting started
+
 [![NPM](https://nodei.co/npm/popular-movie-quotes.png?compact=true)](https://nodei.co/npm/popular-movie-quotes/)
 
 ```
@@ -11,8 +12,7 @@ $ npm i popular-movie-quotes --save
 
 ## Installation
 
-[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)  [![NODE JS](https://img.shields.io/npm/v/popular-movie-quotes?logo=npm&label=popular-movie-quotes&style=for-the-badge)](https://www.npmjs.com/package/popular-movie-quotes) 
-
+[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/) [![NODE JS](https://img.shields.io/npm/v/popular-movie-quotes?logo=npm&label=popular-movie-quotes&style=for-the-badge)](https://www.npmjs.com/package/popular-movie-quotes)
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
@@ -39,17 +39,34 @@ $ npm i popular-movie-quotes --save
 }
 ```
 
--   **_getSome(count)_** method returns an array (of length 'count') of objects containing **_quote_** and **_movie_**.
+-   **getQuoteByYear(startYear, endYear)\_** method rreturns a sorted object within the range of year startYear -endYear\*\*
+
+```json
+[
+    {
+        "quote": "Frankly, my dear, I don't give a damn.",
+        "movie": "Gone with the Wind",
+        "year": startYear
+    }
+    ...
+    .....
+    {
+        "quote": "Frankly, my dear, I don't give a damn.",
+        "movie": "Gone with the Wind",
+        "year": endYear
+    }
+]
+```
 
 -   **_getSomeRandom(count)_** method returns an array (of length 'count') of non-duplicate random objects containing **_quote_** and **_movie_**.
 
 ```json
 [
     {
-    "quote": "Frankly, my dear, I don't give a damn.",
-    "movie": "Gone with the Wind"
-    },
-    // with 'count' number of quote objects. 
+        "quote": "Frankly, my dear, I don't give a damn.",
+        "movie": "Gone with the Wind"
+    }
+    // with 'count' number of quote objects.
 ]
 ```
 
@@ -60,12 +77,9 @@ const movieQuote = require("popular-movie-quotes");
 
 console.log(movieQuote.getAll()); //get an array with all available quotes.
 
-console.log(movieQuote.getSome(10)); // get an array of 10 quotes.
-
 console.log(movieQuote.getSomeRandom(10)); // get an array of 10 random quotes.
 
 console.log(movieQuote.getRandomQuote()); // get a random quote
-
 ```
 
 ## Want to contribute?
