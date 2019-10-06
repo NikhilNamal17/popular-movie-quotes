@@ -1582,9 +1582,19 @@
         "movie": "The Lord of the Rings: Two Towers",
         "year": 2002
       },
-	  {
-          "quote": "Let it go!",
+	    {
+        "quote": "Let it go!",
 	      "movie": "Frozen",
 	      "year": 2013
-	  }
+      },
+      {
+        "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+        "movie": "Transformers : The Light Night",
+        "year": 2017
+      },
+      {
+        "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+        "movie" : "Interstellar",
+        "year": 2014
+      }
 ]
