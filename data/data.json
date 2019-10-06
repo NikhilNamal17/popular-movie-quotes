@@ -1582,6 +1582,12 @@
         "movie": "The Lord of the Rings: Two Towers",
         "year": 2002
       },
+      {
+        "quote": "Rishte me to hum tumhare baap lagte hain, naam hai Shahenshah",
+        "movie": "Shahenshah",
+        "type": "Movie",
+        "year": "1988" 
+      },
 	    {
         "quote": "Let it go!",
 	      "movie": "Frozen",
