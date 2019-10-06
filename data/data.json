@@ -4416,5 +4416,11 @@
       "quote": "Unfortunately, we’re all human. Except me, of course.",
       "movie": "Mr.Robot",
       "year": 2017
+   },
+   {
+      "quote": "This weapon seems made to order for the Brothers Grimm downstairs.",
+      "movie": "Pulp Fiction",
+      "type": "movie",
+      "year": 1994
    }
 ]
