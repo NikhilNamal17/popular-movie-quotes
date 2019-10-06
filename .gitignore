@@ -1,2 +1,3 @@
 node_modules
 __tests__/__snapshots__
+package-lock.json
