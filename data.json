@@ -380,44 +380,54 @@
   },
   {
     "quote": "Back off man, I'm a scientist!",
-    "movie": "Ghostbusters"
+    "movie": "Ghostbusters",
+    "year": 1984
   },
 
   {
     "quote": "She thinks the monkey is the sultan...",
-    "movie": "Aladdin"
+    "movie": "Aladdin",
+    "year": 1992
   },
   {
     "quote": "Sometimes I wish I had never met you. Because then I could go to sleep at night not knowing there was someone like you out there.",
-    "movie": "Good Will Hunting"
+    "movie": "Good Will Hunting",
+    "year": 1997
   },
   {
     "quote": "Some birds aren't meant to be caged. Their feathers are just too bright",
-    "movie": "Shawshank Redemption"
+    "movie": "Shawshank Redemption",
+    "year": 1994
   },
   {
     "quote": "Don't ever let somebody tell you, you can't do something. Not even me. Alright?",
-    "movie": "Pursuit of happiness"
+    "movie": "Pursuit of Happyness",
+    "year": 2006
   },
   {
     "quote": "We have such sights to show you!",
-    "movie": "Hellraiser"
+    "movie": "Hellraiser",
+    "year": 1987
   },
   {
     "quote": "Max likes your yabbos. In fact, he loves them!",
-    "movie": "Hocus Pocus"
+    "movie": "Hocus Pocus",
+    "year": 1993
   },
   {
     "quote": "Since I am dead I can take off my head to recite Shakespearean quotations.",
-    "movie": "Nightmare Before Christmas"
+    "movie": "Nightmare Before Christmas",
+    "year": 1993
   },
   {
     "quote": "I would die for her. I would kill for her. Either way, what bliss.",
-    "movie": "Adams Family"
+    "movie": "Addams Family",
+    "year": 1991
   },
   {
     "quote": "Checkov? Well, this here's McCoy. We find a Spock, we got us an away team.",
-    "movie": "Boondock Saints"
+    "movie": "Boondock Saints",
+    "year": 1999
   },
   {
     "quote": "Damn it man! I'm a doctor not a physicist!",
