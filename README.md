@@ -39,6 +39,25 @@ $ npm i popular-movie-quotes --save
 }
 ```
 
+-   **getQuoteByYear(startYear, endYear)\_** method rreturns a sorted object within the range of year startYear -endYear\*\*
+
+```json
+[
+    {
+        "quote": "Frankly, my dear, I don't give a damn.",
+        "movie": "Gone with the Wind",
+        "year": startYear
+    }
+    ...
+    .....
+    {
+        "quote": "Frankly, my dear, I don't give a damn.",
+        "movie": "Gone with the Wind",
+        "year": endYear
+    }
+]
+```
+
 -   **_getSomeRandom(count)_** method returns an array (of length 'count') of non-duplicate random objects containing **_quote_** and **_movie_**.
 
 ```json
