@@ -1099,8 +1099,8 @@
       "year": 2007
     },
     {
-      "quote": "I am a Jedi, like my father before me."
-      "movie": "Star Wars Episode 6 : Return Of The Jedi"
+      "quote": "I am a Jedi, like my father before me.",
+      "movie": "Star Wars Episode 6 : Return Of The Jedi",
       "year": 1983
     },
     {
@@ -1576,5 +1576,10 @@
           "quote": "Come find me when you wake up!",
           "movie": "Edge Of Tomorrow",
           "year": 2014
+      },
+      {
+        "quote": "My precious.",
+        "movie": "The Lord of the Rings: Two Towers",
+        "year": 2002
       }
 ]
