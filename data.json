@@ -696,8 +696,33 @@
     "year": 2019
   }, 
   {
-	"quote": "I love you 3000",
-	"movie": "Avengers Endgame",
-	"year" : 2019
+	  "quote": "I love you 3000",
+	  "movie": "Avengers Endgame",
+	  "year" : 2019
+  },
+  {
+    "quote": "You're not as boring as I thought. But you're not as bright either.",
+    "movie": "D.E.B.S",
+    "year" : 2004
+  },
+  {
+    "quote": "My angel, flung out of space.",
+    "movie": "Carol",
+    "year" : 2015
+  },
+  {
+    "quote": "Sometimes...the only way to heal our wounds is to make peace with the demons who created them.",
+    "movie": "Godzilla: King of the Monsters",
+    "year" : 2019
+  },
+  {
+    "quote": "Sometimes, an enemy doesn't exist til you go looking for one.",
+    "movie": "Kong: Skull Island",
+    "year" : 2017
+  },
+  {
+    "quote": "Hell of a day, huh? Science experiments falling from the sky.",
+    "movie": "Rampage",
+    "year" : 2018
   }
 ]
