@@ -5,8 +5,9 @@
     "year": 1995
   },
   {
-    "quote": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the 'present'."
-    "movie": "Kung Fu Panda"
+    "quote": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the 'present'.",
+    "movie": "Kung Fu Panda",
+    "year": 2008
   },
   { 
     "quote": "Dwight, you ignorant slut!",
@@ -19,7 +20,8 @@
   },
   {
     "quote": "I like money.",
-    "movie": "Idiocracy"
+    "movie": "Idiocracy",
+    "year": 2006
   },
   {
     "quote": "Frankly, my dear, I don't give a damn.",
@@ -258,103 +260,123 @@
   },
   {
     "quote": "I'm king of the world",
-    "movie": "Titanic"
+    "movie": "Titanic",
+    "year": 1997
   },
   {
     "quote": "I feel the need - the need for speed!",
-    "movie": "Top Gun"
+    "movie": "Top Gun",
+    "year": 1986
   },
   {
     "quote": "Hasta la vista, baby.",
-    "movie": "Terminator 2"
+    "movie": "Terminator 2",
+    "year": 1991
   },
   {
     "quote": "I'll be back.",
-    "movie": "Terminator"
-  },
-  {
-    "quote": "May the Force be with you.",
-    "movie": "Star Wars"
+    "movie": "Terminator",
+    "year": 1984
   },
   {
     "quote": "I used to think that if none of your family or friends knew you were dead, it was like not really being dead. People can invent the best and the worst for you.",
-    "movie": "Before Sunrise"
+    "movie": "Before Sunrise",
+    "year": 1995
   },
   {
     "quote": "Have you ever danced with the devil in the pale moonlight?",
-    "movie": "Batman, 1989"
+    "movie": "Batman",
+    "year": 1989
   },
   {
     "quote": "Let's put a smile on that face!",
-    "movie": "The Dark Knight, 2008"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "Why so serious?",
-    "movie": "The Dark Knight, 2008"
+    "movie": "The Dark Knight",
+    "year": 2008
   },
   {
     "quote": "May the Force be with you.",
-    "movie": "Star Wars, 1977"
+    "movie": "Star Wars",
+    "year": 1977
   },
   {
     "quote": "I'm going to make him an offer he can't refuse.",
-    "movie": "The Godfather, 1972"
+    "movie": "The Godfather",
+    "year": 1972
   },
   {
     "quote": "The first rule of Fight Club is: You do not talk about Fight Club.",
-    "movie": "Fight Club, 1999"
+    "movie": "Fight Club",
+    "year": 1999
   },
   {
     "quote": "I am your father.",
-    "movie": "Star Wars, Empire Strikes Back, 1980"
+    "movie": "Star Wars, Empire Strikes Back",
+    "year": 1980
   },
   {
     "quote": "After all, tomorrow is another day!",
-    "movie": "Gone With the Wind, 1939"
+    "movie": "Gone With the Wind",
+    "year": 1939
   },
   {
     "quote": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
-    "movie": "The Princess Bride, 1987"
+    "movie": "The Princess Bride",
+    "year": 1987
   },
   {
     "quote": "Bond. James Bond",
-    "movie": "Dr. No, 1962"
+    "movie": "Dr. No",
+    "year" : 1962
   },
   {
     "quote": "I see dead people.",
-    "movie": "The Sixth Sense, 1999"
+    "movie": "The Sixth Sense",
+    "year": 1999
   },
   {
     "quote": "I'll be back.",
-    "movie": "The Terminator, 1984"
+    "movie": "The Terminator",
+    "year": 1984
   },
   {
     "quote": "Houston, we have a problem.",
-    "movie": "Apollo 13, 1995"
+    "movie": "Apollo 13",
+    "year": 1995
   },
   {
     "quote": "Here's Johnny!",
-    "movie": "The Shinning, 1980"
+    "movie": "The Shining",
+    "year": 1980
   },
   {
     "quote": "Life isn't fair, it's just fairer then death, that's all.",
-    "movie": "The Princess Bride"
+    "movie": "The Princess Bride",
+    "year": 1987
   },
   {
     "quote": "Slackers!",
-    "movie": "Back To The Future"
+    "movie": "Back To The Future",
+    "year": 1985
   },
   {
     "quote": "Shiny!",
-    "movie": "Serenity"
+    "movie": "Serenity",
+    "year": 2005
   },
   {
     "quote": "Have fun storming the castle!",
-    "movie": "The Princess Bride"
+    "movie": "The Princess Bride",
+    "year": 1987
   },
   {
     "quote": "I guess there's a plan for all of us. I had to die twice just to figure that out. Like the book says, he works his works in mysterious ways, some people like it, some people don't.",
-    "movie": "Constantine"
+    "movie": "Constantine",
+    "year": 2005
   },
   {
     "quote": "Back off man, I'm a scientist!",
