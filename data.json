@@ -525,11 +525,13 @@
   },
   {
     "quote": "It's inhuman to be so cold.",
-    "movie": "The Prestige"
+    "movie": "The Prestige",
+    "year": 2006
   },
   {
     "quote": "Look, spaghetti arms. This is my dance space. This is your dance space. I don't go into yours, you don't go into mine. You gotta hold the frame.",
-    "movie": "Dirty Dancing"
+    "movie": "Dirty Dancing",
+    "year": 1987
   },
   {
     "quote": "With great power comes great responsibility.",
@@ -554,7 +556,7 @@
   {
 	  "quote": "Being a hero doesn't mean you are invincible. It just means you're brave enough to stand up, and do what's needed.",
 	  "movie": "Two Heroes",
-	  "year": "2018"
+	  "year": 2018
   },
   {
     "quote": "It’s a dangerous business, going out your door…You step into the Road, and if you don’t keep your feet, there is no knowing where you might be swept off to.",
@@ -593,7 +595,8 @@
   },
   {
     "quote": "We sat and drank with the sun on our shoulders and felt like free men.",
-    "movie": "The Shawshank Redemption"
+    "movie": "The Shawshank Redemption",
+    "year": 1994
   },
   {
     "quote": "Even if mistaken, even if cruel, even if stupid, if many people acknowledge it, I found out that it can become the right thing. I found out that righteousness was able to be infinitely mass-produced. I found out that righteousness was established by the number of people. I found out that maneuvering for a majority was everything.",
@@ -601,47 +604,58 @@
   }, 
   {
     "quote": "I don't wanna kill anybody. But if I gotta get out that door, and you're standing in my way, one way or the other, you're gettin' outta my way.",
-    "movie": "Reservoir Dogs"
+    "movie": "Reservoir Dogs",
+    "year": 1992
   }, 
   {
     "quote": "You shoot me in a dream, you better wake up and apologize.",
-    "movie": "Reservoir Dogs"
+    "movie": "Reservoir Dogs",
+    "year": 1992
   }, 
   {
     "quote": "Uncomfortable silences. Why do we feel it's necessary to yak about bullshit in order to be comfortable?",
-    "movie": "Pulp Fiction"
+    "movie": "Pulp Fiction",
+    "year": 1994
   }, 		
   {
     "quote": "Say ‘what’ again, I double dare you motherf**ker.",
-    "movie": "Pulp Fiction"
+    "movie": "Pulp Fiction",
+    "year": 1994
   }, 	
   {
     "quote": "My ass may be dumb, but I ain't no dumbass.",
-    "movie": "Jackie Brown"
+    "movie": "Jackie Brown",
+    "year": 1997
   }, 
 	{
     "quote": "When fortune smiles on something as violent and ugly as revenge, it seems proof like no other that not only does God exist, you're doing his will.",
-    "movie": "Kill Bill: Volume 1"
+    "movie": "Kill Bill: Volume 1",
+    "year": 2003
   }, 
   {
     "quote": "No. You're not a bad person. You're a terrific person. You're my favorite person, but every once in a while, you can be a real cunt.",
-    "movie": "Kill Bill: Volume 2"
+    "movie": "Kill Bill: Volume 2",
+    "year": 2004
   },
   {
     "quote": "Women, nacho grande platters, the fellowships of fascinating individuals like Warren here. Alcohol is just a lubricant for all the individual encounters that a bar offers.",
-    "movie": "Death Proof"
+    "movie": "Death Proof",
+    "year": 2007
   },
   {
     "quote": "Oh, you believe in Jesus now, huh, bitch? Good, ’cause you ’bout to meet him!",
-    "movie": "The Hateful Eight"
+    "movie": "The Hateful Eight",
+    "year": 2015
   },
   {
     "quote": "I’m gonna give you a little somethin’ you can’t take off.",
-    "movie": "Inglourious Basterds"
+    "movie": "Inglourious Basterds",
+    "year": 2009
   },
   {
 	  "quote": "Not everyone can become a great artist, but a great artist can come from anywhere.",
-	  "movie": "Ratatouille"
+    "movie": "Ratatouille",
+    "year": 2007
   }, 
   {
     "quote": "Your identity is your most valuable possession. Protect it",
