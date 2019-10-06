@@ -1576,6 +1576,68 @@
           "quote": "Come find me when you wake up!",
           "movie": "Edge Of Tomorrow",
           "year": 2014
+
+      },
+	  { 
+          "quote": "They call me Mister Tibbs!",
+          "movie": "In the Heat of the Night",
+          "year": 1967
+      },
+	  { 
+          "quote": "TIA This is Africa",
+          "movie": "Blood Diamond",
+          "year": 2006
+      },
+	  { 
+          "quote": "What happens in vegas stays in vegas",
+          "movie": "The Hangover",
+          "year": 2009
+      },
+	  { 
+          "quote": "Go ahead, make my day.",
+          "movie": "Sudden Impact",
+          "year": 1983
+      },
+	  { 
+          "quote": "A martini. Shaken, not stirred",
+          "movie": "Goldfinger ",
+          "year": 1964
+      },
+	  { 
+          "quote": "That’s my secret, Captain. I’m always angry.",
+          "movie": "The Avengers ",
+          "year": 2012
+      },
+	  
+	  { 
+          "quote": "People don’t buy stock; it gets sold to them. Don’t ever forget that.",
+          "movie": "The Wolf of Wall Street",
+          "year": 2013
+      },
+	  { 
+          "quote": "There's no nobility in poverty.",
+          "movie": "The Wolf of Wall Street",
+          "year": 2013
+      },
+	  { 
+          "quote": "Ignorance Is Bliss",
+          "movie": "The Matrix",
+          "year": 1999
+      }, 	
+      { 
+          "quote": "Look At Me, I'm The Captain Now",
+          "movie": "Captian Phillips",
+          "year": 2013
+      }, 	
+      { 
+          "quote": "Not all treasure is silver and gold mate",
+          "movie": "Pirates of the Carribean",
+          "year": 2003
+      },
+      { 
+          "quote": "The problem is not the problem. The problem is your attitude about the problem. Do you understand?",
+          "movie": "Pirates of the Carribean",
+          "year": 2003
       },
       {
         "quote": "My precious.",
@@ -1595,4 +1657,5 @@
 	      "movie": "Frozen",
 	      "year": 2013
 	  }
+
 ]
