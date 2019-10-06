@@ -1,450 +1,584 @@
 [
   {
     "quote": "I like money.",
-    "movie": "Idiocracy"
+    "title": "Idiocracy",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Frankly, my dear, I don't give a damn.",
-    "movie": "Gone with the Wind",
-    "year": 1939
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "type": "movie"
   },
   {
     "quote": "I'm gonna make him an offer he can't refuse.",
-    "movie": "The Godfather",
-    "year": 1972
+    "title": "The Godfather",
+    "year": 1972,
+    "type": "movie"
   },
   {
     "quote": "All I have are negative thoughts.",
-    "movie": "Joker",
-    "year": 2019
+    "title": "Joker",
+    "year": 2019,
+    "type": "movie"
   },
   {
     "quote": "Is it just me, or is it getting crazier out there?",
-    "movie": "Joker",
-    "year": 2019
+    "title": "Joker",
+    "year": 2019,
+    "type": "movie"
   },
   {
     "quote": "I used to think that my life was a tragedy. But now I realize, it’s a comedy.",
-    "movie": "Joker",
-    "year": 2019
+    "title": "Joker",
+    "year": 2019,
+    "type": "movie"
   },
   {
     "quote": "My mother always tells me to smile and put on a happy face. She told me I had a purpose to bring laughter and joy to the world.",
-    "movie": "Joker",
-    "year": 2019
+    "title": "Joker",
+    "year": 2019,
+    "type": "movie"
   },
   {
     "quote": "Madness, as you know, is like gravity, all it takes is a little push.",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": " It's not about what I want. It's about what's fair!",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "Some men just want to watch the world burn.    ",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "If you’re good at something, never do it for free.",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "Sometimes the truth isn’t good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded    ",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "Nobody panics when things go “according to plan”. Even if the plan is horrifying!",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "I believe whatever doesn’t kill you, simply makes you stranger.",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "Does it depress you? To know just how alone you really are?",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "You see, in their last moments people show you who they really are.",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "You either die a hero or live long enough to see yourself become the villian.",
-    "movie": "The Dark Knight",
-    "year": 2008
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "Sometimes you must hurt in order to know, fall in order to grow, lose in order to gain because life's greatest lessons are learned through pain.",
-    "movie": "Naruto Shippuden",
-    "year": null
+    "title": "Naruto Shippuden",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Do you understand pain a little now? If you don't share someone's pain, you can never understand them. But just because you understand them doesn't mean you can come to an agreement. That's the truth",
-    "movie": "Naruto Shippuden",
-    "year": null
+    "title": "Naruto Shippuden",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Even the most ignorant, innocent child will eventually grow up as they learn what true pain is. It affects what they say, what they think… and they become real people.",
-    "movie": "Naruto Shippuden",
-    "year": null
+    "title": "Naruto Shippuden",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Religion, ideology, resources, land, spite, love or just because. No matter how pathetic the reason, it's enough to start a war.",
-    "movie": "Naruto Shippuden",
-    "year": null
+    "title": "Naruto Shippuden",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Learn to embrace the fear of feeling about what it's like to contemplate what it is to know true pain. Because when I had nothing and no one - I always had pain.",
-    "movie": "Naruto Shippuden",
-    "year": null
+    "title": "Naruto Shippuden",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Justice comes from vengeance, but that justice only breeds more vengeance.",
-    "movie": "Naruto Shippuden",
-    "year": null
+    "title": "Naruto Shippuden",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "We are but men, drawn to act in the name of revenge that we deem to be justice. But... if there is justice in revenge then that same justice will breed only more revenge... and trigger a cycle of hatred.",
-    "movie": "Naruto Shippuden",
-    "year": null
+    "title": "Naruto Shippuden",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Love breeds sacrifice... which in turn breeds hatred. Then you can know pain.",
-    "movie": "Naruto Shippuden",
-    "year": null
+    "title": "Naruto Shippuden",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.",
-    "movie": "Interstellar",
-    "year": 2014
+    "title": "Interstellar",
+    "year": 2014,
+    "type": "movie"
   },
   {
     "quote": "There’s no hiding from this, son.",
-    "movie": "Dunkirk",
-    "year": 2017
+    "title": "Dunkirk",
+    "year": 2017,
+    "type": "movie"
   },
   {
     "quote": "They all deserve to die. Even you, Mrs. Lovett. Even I. Because the lives of the wicked should be made brief. For the rest of us death would be relief.",
-    "movie": "Sweeney Todd: The Demon Barber of Fleet Street ",
-    "year": 2007
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street ",
+    "year": 2007,
+    "type": "movie"
   },
   {
     "quote": "Little pigs, little pigs, let me come in! Not by the hair on your chinny chin chin? Then I'll huff... And I'll puff... And I'll blow your house in!",
-    "movie": "The Shining",
-    "year": 1980
+    "title": "The Shining",
+    "year": 1980,
+    "type": "movie"
   },
   {
     "quote": " I used to think that if none of your family or friends knew you were dead, it was like not really being dead. People can invent the best and the worst for you.",
-    "movie": "Before Sunrise",
-    "year": 1995
+    "title": "Before Sunrise",
+    "year": 1995,
+    "type": "movie"
   },
   {
     "quote": "Love means never having to say you're sorry",
-    "movie": "Love Story",
-    "year": 1970
-  },
-  {
+    "title": "Love Story",
+    "year": 1970,
+    "type": "movie"
+  },  {
     "quote": "There's no place like home.",
-    "movie": "The Wizard of Oz",
-    "year": 1939
+    "title": "The Wizard of Oz",
+    "year": 1939,
+    "type": "movie"
   },
   {
     "quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
-    "movie": "Forrest Gump",
-    "year": 1994
+    "title": "Forrest Gump",
+    "year": 1994,
+    "type": "movie"
   },
   {
     "quote": "Keep your friends close, but your enemies closer.",
-    "movie": "The Godfather II",
-    "year": 1974
+    "title": "The Godfather II",
+    "year": 1974,
+    "type": "movie"
   },
   {
     "quote": "A wise man can learn more from his enemies than a fool from his friends.",
-    "movie": "Rush",
-    "year": 2013
+    "title": "Rush",
+    "year": 2013,
+    "type": "movie"
   },
   {
     "quote": "Do, or do not. There is no 'try'",
-    "movie": "Star Wars: Episode V - The Empire Strikes Back",
-    "year": 1980
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "type": "movie"
   },
   {
     "quote": "Every man dies, but not every man really lives.",
-    "movie": "Braveheart",
-    "year": 1995
+    "title": "Braveheart",
+    "year": 1995,
+    "type": "movie"
   },
   {
     "quote": "Don’t let anyone ever make you feel like you don’t deserve what you want.",
-    "movie": "10 things I hate about you",
-    "year": 1999
+    "title": "10 things I hate about you",
+    "year": 1999,
+    "type": "movie"
   },
   {
     "quote": "Great men are not born great, they grow great.",
-    "movie": "The Godfather",
-    "year": 1972
+    "title": "The Godfather",
+    "year": 1972,
+    "type": "movie"
   },
   {
     "quote": "Life is not the amount of breaths you take. It’s the moments that take your breath away.",
-    "movie": "Hitch",
-    "year": 2005
+    "title": "Hitch",
+    "year": 2005,
+    "type": "movie"
   },
   {
     "quote": "Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.",
-    "movie": "Ferris Bueller's Day Off",
-    "year": 1986
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "type": "movie"
   },
   {
     "quote": "Nobody is gonna hit as hard as life, but it ain’t how hard you can hit. It’s how hard you can get hit and keep moving forward. It’s how much you can take, and keep moving forward. That’s how winning is done.",
-    "movie": "Rocky Balboa",
-    "year": 2006
+    "title": "Rocky Balboa",
+    "year": 2006,
+    "type": "movie"
   },
   {
     "quote": "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.",
-    "movie": "The Imitation Game",
-    "year": 2014
+    "title": "The Imitation Game",
+    "year": 2014,
+    "type": "movie"
   },
   {
     "quote": "I'm king of the world",
-    "movie": "Titanic"
+    "title": "Titanic",
+    "type": "movie"
   },
   {
     "quote": "I feel the need - the need for speed!",
-    "movie": "Top Gun"
+    "title": "Top Gun",
+    "type": "movie"
   },
    {
     "quote": "Hasta la vista, baby.",
-    "movie": "Terminator 2"
+    "title": "Terminator 2",
+    "type": "movie"
   },
   {
     "quote": "I'll be back.",
-    "movie": "Terminator"
+    "title": "Terminator",
+    "type": "movie"
   },
   {
     "quote": "May the Force be with you.",
-    "movie": "Star Wars"
+    "title": "Star Wars",
+    "type": "movie"
   },
   {
     "quote": "I used to think that if none of your family or friends knew you were dead, it was like not really being dead. People can invent the best and the worst for you.",
-    "movie": "Before Sunrise"
+    "title": "Before Sunrise",
+    "type": "movie"
   },
   {
     "quote": "Have you ever danced with the devil in the pale moonlight?",
-    "movie": "Batman, 1989"
+    "title": "Batman",
+    "year": 1989,
+    "type": "movie"
+    
   },
   {
     "quote": "Let's put a smile on that face!",
-    "movie": "The Dark Knight, 2008"
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "Why so serious?",
-    "movie": "The Dark Knight, 2008"
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "May the Force be with you.",
-    "movie": "Star Wars, 1977"
+    "title": "Star Wars",
+    "year": 1977,
+    "type": "movie"
   },
   {
     "quote": "I'm going to make him an offer he can't refuse.",
-    "movie": "The Godfather, 1972"
+    "title": "The Godfather",
+    "year": 1972,
+    "type": "movie"
   },
   {
     "quote": "The first rule of Fight Club is: You do not talk about Fight Club.",
-    "movie": "Fight Club, 1999"
+    "title": "Fight Club",
+    "year": 1999,
+    "type": "movie"
   },
   {
     "quote": "I am your father.",
-    "movie": "Star Wars, Empire Strikes Back, 1980"
+    "title": "Star Wars, Empire Strikes Back",
+    "year": 1980,
+    "type": "movie"
   },
   {
     "quote": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
-    "movie": "The Princess Bride, 1987"
+    "title": "The Princess Bride",
+    "year": 1987,
+    "type": "movie"
   },
   {
     "quote": "Bond. James Bond",
-    "movie": "Dr. No, 1962"
+    "title": "Dr. No",
+    "year": 1962,
+    "type": "movie"
   },
   {
     "quote": "I see dead people.",
-    "movie": "The Sixth Sense, 1999"
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "type": "movie"
   },
   {
     "quote": "I'll be back.",
-    "movie": "The Terminator, 1984"
+    "title": "The Terminator",
+    "year": 1984,
+    "type": "movie"
   },
   {
     "quote": "Houston, we have a problem.",
-    "movie": "Apollo 13, 1995"
+    "title": "Apollo 13",
+    "year": 1995,
+    "type": "movie"
   },
   {
     "quote": "Here's Johnny!",
-    "movie": "The Shinning, 1980"
+    "title": "The Shinning",
+    "year": 1980,
+    "type": "movie"
   },
   {
     "quote": "Life isn't fair, it's just fairer then death, that's all.",
-    "movie": "The Princess Bride"
+    "title": "The Princess Bride",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Slackers!",
-    "movie": "Back To The Future"
+    "title": "Back To The Future",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Shiny!",
-    "movie": "Serenity"
+    "title": "Serenity",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Have fun storming the castle!",
-    "movie": "The Princess Bride"
+    "title": "The Princess Bride",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "I guess there's a plan for all of us. I had to die twice just to figure that out. Like the book says, he works his works in mysterious ways, some people like it, some people don't.",
-    "movie": "Constantine"
+    "title": "Constantine",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Back off man, I'm a scientist!",
-    "movie": "Ghostbusters"
+    "title": "Ghostbusters",
+    "year": null,
+    "type": "movie"
   },
 
   {
     "quote": "She thinks the monkey is the sultan...",
-    "movie": "Aladdin"
+    "title": "Aladdin",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Sometimes I wish I had never met you. Because then I could go to sleep at night not knowing there was someone like you out there.",
-    "movie": "Good Will Hunting"
+    "title": "Good Will Hunting",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Some birds aren't meant to be caged. Their feathers are just too bright",
-    "movie": "Shawshank Redemption"
+    "title": "Shawshank Redemption",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Don't ever let somebody tell you, you can't do something. Not even me. Alright?",
-    "movie": "Pursuit of happiness"
+    "title": "Pursuit of happiness",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "We have such sights to show you!",
-    "movie": "Hellraiser"
+    "title": "Hellraiser",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Max likes your yabbos. In fact, he loves them!",
-    "movie": "Hocus Pocus"
+    "title": "Hocus Pocus",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Since I am dead I can take off my head to recite Shakespearean quotations.",
-    "movie": "Nightmare Before Christmas"
+    "title": "Nightmare Before Christmas",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "I would die for her. I would kill for her. Either way, what bliss.",
-    "movie": "Adams Family"
+    "title": "Adams Family",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Checkov? Well, this here's McCoy. We find a Spock, we got us an away team.",
-    "movie": "Boondock Saints"
+    "title": "Boondock Saints",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Damn it man! I'm a doctor not a physicist!",
-    "movie": "Star Trek"
+    "title": "Star Trek",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "As far back as I can remember, I always wanted to be a gangster.",
-    "movie": "Goodfellas"
+    "title": "Goodfellas",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "Leave the gun, take the canollis.",
-    "movie": "The Godfather"
+    "title": "The Godfather",
+    "year": null,
+    "type": "movie"
   },
   {
 	  "quote": "What I want more than anything in the world is it to be okay with you to feel something again. Even if it’s pain. For the first time, let’s just allow ourselves to be whatever it is we are.",
-    "movie": "Garden State"
+    "title": "Garden State",
+    "year": null,
+    "type": "movie"
   },
   {
     "quote": "People keep asking if I'm back and I haven't really had an answer, but yeah, I'm thinking I'm back.",
-    "movie": "John Wick",
-    "year": 2014
+    "title": "John Wick",
+    "year": 2014,
+    "type": "movie"
   },
   {
     "quote": "They may take our lives, but they'll never take our freedom!",
-    "movie": "Breaveheart",
-    "year": 1995
+    "title": "Breaveheart",
+    "year": 1995,
+    "type": "movie"
   },
   {
     "quote": "If you let my daughter go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will kill you.",
-    "movie": "Taken",
-    "year": 2008
+    "title": "Taken",
+    "year": 2008,
+    "type": "movie"
   },
   {
     "quote": "Say hello to my little friend!",
-    "movie": "Scarface",
-    "year": 1983
+    "title": "Scarface",
+    "year": 1983,
+    "type": "movie"
   },
   {
     "quote": "You can't handle the truth!",
-    "movie": "A Few Good Men",
-    "year": 1992
+    "title": "A Few Good Men",
+    "year": 1992,
+    "type": "movie"
   },
   {
     "quote": "Yippie-ki-yay, motherf—er!",
-    "movie": "Die Hard",
-    "year": 1988
+    "title": "Die Hard",
+    "year": 1988,
+    "type": "movie"
   },
   {
     "quote": "I'm not bad. I'm just drawn that way.",
-    "movie": "Who Framed Roger Rabbit",
-    "year": 1988
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "type": "movie"
   },
   {
     "quote": "It's alive! It's alive!",
-    "movie": "Frankenstein",
-    "year": 1931
+    "title": "Frankenstein",
+    "year": 1931,
+    "type": "movie"
   },
   {
     "quote": "I don't have friends. I got family.",
-    "movie": "Furious 7",
-    "year": 2015
+    "title": "Furious 7",
+    "year": 2015,
+    "type": "movie"
   },
   {
     "quote": "Dude, where's my car?",
-    "movie": "Dude, Where's My Car?",
-    "year": 2000
+    "title": "Dude, Where's My Car?",
+    "year": 2000,
+    "type": "movie"
   },
   {
     "quote": "I just wanted to take another look at you.",
-    "movie": "A Star Is Born",
-    "year": 2018
+    "title": "A Star Is Born",
+    "year": 2018,
+    "type": "movie"
   },
   {
     "quote": "I am Groot.",
-    "movie": "Guardians of the Galaxy",
-    "year": 2014
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "type": "movie"
   },
   {
     "quote": "I want to play a game.",
-    "movie": "Saw",
-    "year": 2004
+    "title": "Saw",
+    "year": 2004,
+    "type": "movie"
   },
 	
   {
     "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
-    "movie": "Dirty Harry"
+    "title": "Dirty Harry",
+    "year": null,
+    "type": "movie"
   },
 
   {
     "quote": "Houston, we have a problem.",
-    "movie": "Apollo 13"
+    "title": "Apollo 13",
+    "year": null,
+    "type": "movie"
   },
 	
 	
   {
     "quote": "Look, spaghetti arms. This is my dance space. This is your dance space. I don't go into yours, you don't go into mine. You gotta hold the frame.",
-    "movie": "Dirty Dancing"
+    "year": null,
+    "type": "movie",
+    "title": "Dirty Dancing"
+    
   }
 ]

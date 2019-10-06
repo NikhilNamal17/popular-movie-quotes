@@ -5,7 +5,7 @@ describe('is the quote valid', () => {
 		// Make sure the item has a year
 		data.forEach((quotes) => {
 			expect(quotes).toMatchSnapshot({
-			  year: expect.any(Number)
+			  year: expect.any(Number || null)
 			});
 		});
 	});
