@@ -634,5 +634,11 @@
     "quote": "We’ve all got both light and darkness inside us. What matters is the part we choose to act on. That’s who we really are.",
     "movie": "Harry Potter and the Order of the Phoenix",
     "year": 2007
+  },
+  {
+	  "quote": "Don't talk like you're one of them",
+	  "movie": "The dark knight",
+	  "type": "movie",
+	  "year": 2008
   }
 ]
