@@ -1581,5 +1581,10 @@
         "quote": "My precious.",
         "movie": "The Lord of the Rings: Two Towers",
         "year": 2002
-      }
+      },
+	  {
+          "quote": "Let it go!",
+	      "movie": "Frozen",
+	      "year": 2013
+	  }
 ]
