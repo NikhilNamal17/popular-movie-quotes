@@ -630,17 +630,24 @@
   {
     "quote": "E.T. phone home.",
     "movie": " E.T. The Extra-Terrestrial"
-  },{
+  },
+  {
     "quote": "We’ve all got both light and darkness inside us. What matters is the part we choose to act on. That’s who we really are.",
     "movie": "Harry Potter and the Order of the Phoenix",
     "year": 2007
   },
   {
+	  "quote": "Don't talk like you're one of them",
+	  "movie": "The dark knight",
+	  "type": "movie",
+	  "year": 2008
+  },
+  {
     "quote": "The worst part of having a mental illness is people expect you to behave as if you don't",
     "movie": "Joker",
     "year": "2019"
-  }
- {
+  },
+  {
     "quote": "Come find me when you wake up!",
     "movie": "Edge Of Tomorrow",
     "year": 2014
