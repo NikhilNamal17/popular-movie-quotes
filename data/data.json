@@ -14706,6 +14706,11 @@
         "movie": "Lord of the Rings: The Fellowship of the Ring",
         "year": 2001
     },
+     {
+        "quote": "Ogres are like onions",
+        "movie": "Shrek",
+        "year": 2001
+    },
     {
         "quote": "All we have to decide is what to do with the time that is given us.",
         "movie": "Lord of the Rings: The Fellowship of the Ring",
@@ -14775,6 +14780,10 @@
     },
     {
         "quote": "My precious.",
+        "movie": "Star Wars: Episode II - Attack of the Clones",
+         "year": 2002
+    },{
+        "quote": "I don't like sand. It's all coarse, and rough, and irritating. And it gets everywhere.",
         "movie": "The Lord of the Rings: Two Towers",
         "type": "Movie",
         "year": 2002
@@ -14804,6 +14813,10 @@
     },
     {
         "quote": "Not all treasure is silver and gold mate",
+        "movie": "Pirates of the Carribean",
+        "year": 2003
+    }, {
+        "quote": "Ye best start believin' in ghost stories, Miss Turner. Yer in one.",
         "movie": "Pirates of the Carribean",
         "year": 2003
     },
@@ -14870,10 +14883,18 @@
         "quote": "Didn't I tell you about the football field in the bathroom cupboard?",
         "movie": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
         "year": 2005
+    }, {
+        "quote": "I wish I knew how to quit you.",
+        "movie": "Brokeback Mountain",
+        "year": 2005
     },
     {
         "quote": "Why do we fall sir? So that we can learn to pick ourselves up.",
         "movie": "Batman Begins",
+        "year": 2005
+    },   {
+        "quote": "You have bewitched me, body and soul.",
+        "movie": "Pride and Prejudice",
         "year": 2005
     },
     {
@@ -15066,6 +15087,10 @@
         "movie": "Shutter Island",
         "type": "Movie",
         "year": 2010
+    }, {
+        "quote": "A million dollars isn't cool. You know what's cool?",
+        "movie": "The Social Network",
+         "year": 2010
     },
     {
         "quote": "That’s my secret, Captain. I’m always angry.",
@@ -15339,15 +15364,4 @@
         "year": 2019
     },
     {
-      "quote": "I never broke the Law! I am the law!",
-      "movie": "Judge Dredd",
-      "type": "Movie",
-      "year": 2001
-   },
-   {
-      "quote": "You better watch you mouth, you flippy flappy piece of boom boom. I've known you since you were born and you were a snake baby back then. Snake babies can't drink mad dog 20 20. Nuh uh, sure can't ya fiddle stick munching thumb sitter.",
-      "movie": "Doom",
-      "type": "Movie",
-      "year": 2006
-   }
 ]
