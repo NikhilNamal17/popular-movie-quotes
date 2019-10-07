@@ -9790,5 +9790,11 @@
       "movie":"Jurassic Park",
       "type":"Movie",
       "year":1993
+   },
+   {
+      "quote": "This weapon seems made to order for the Brothers Grimm downstairs.",
+      "movie": "Pulp Fiction",
+      "type": "movie",
+      "year": 1994
    }
 ]
