@@ -9816,7 +9816,7 @@
    },
   {
       "quote": "You're taking all the caviar? That caviar is a garnish!",
-      "movie": "You've Got Mail"
+      "movie": "You've Got Mail",
       "year": 1998
    },
 	{
@@ -14158,62 +14158,74 @@
 	},
 	{
 		"quote": "TIA This is Africa",
-		"movie": "Blood Diamond",
+      "movie": "Blood Diamond",
+      "type": "Movie",
 		"year": 2006
 	},
 	{
 		"quote": "What happens in vegas stays in vegas",
-		"movie": "The Hangover",
+      "movie": "The Hangover",
+      "type": "Movie",
 		"year": 2009
 	},
 	{
 		"quote": "Go ahead, make my day.",
-		"movie": "Sudden Impact",
+      "movie": "Sudden Impact",
+      "type": "Movie",
 		"year": 1983
 	},
 	{
 		"quote": "A martini. Shaken, not stirred",
-		"movie": "Goldfinger ",
+      "movie": "Goldfinger ",
+      "type": "Movie",
 		"year": 1964
 	},
 	{
 		"quote": "That’s my secret, Captain. I’m always angry.",
-		"movie": "The Avengers ",
+      "movie": "The Avengers ",
+      "type": "Movie",
 		"year": 2012
 	},
 	{
 		"quote": "People don’t buy stock; it gets sold to them. Don’t ever forget that.",
-		"movie": "The Wolf of Wall Street",
+      "movie": "The Wolf of Wall Street",
+      "type": "Movie",
 		"year": 2013
 	},
 	{
 		"quote": "There's no nobility in poverty.",
-		"movie": "The Wolf of Wall Street",
+      "movie": "The Wolf of Wall Street",
+      "type": "Movie",
 		"year": 2013
 	},
 	{
 		"quote": "Ignorance Is Bliss",
-		"movie": "The Matrix",
+      "movie": "The Matrix",
+      "type": "Movie",
 		"year": 1999
 	},
 	{
 		"quote": "Look At Me, I'm The Captain Now",
-		"movie": "Captian Phillips",
+      "movie": "Captian Phillips",
+      "type": "Movie",
 		"year": 2013
 	},
 	{
 		"quote": "Not all treasure is silver and gold mate",
-		"movie": "Pirates of the Carribean",
+      "movie": "Pirates of the Carribean",
+      "type": "Movie",
 		"year": 2003
 	},
 	{
 		"quote": "The problem is not the problem. The problem is your attitude about the problem. Do you understand?",
-		"movie": "Pirates of the Carribean",
+      "movie": "Pirates of the Carribean",
+      "type": "Movie",
 		"year": 2003
 	},
 	{
 		"quote": "My precious.",
-		"movie": "The Lord of the Rings: Two Towers",
+      "movie": "The Lord of the Rings: Two Towers",
+      "type": "Movie",
 		"year": 2002
 	},
 	{
@@ -14224,12 +14236,13 @@
 	},
 	{
 		"quote": "Let it go!",
-		"movie": "Frozen",
+      "movie": "Frozen",
+      "type": "Movie",
 		"year": 2013
 	},
 	{
 		"quote": "They’ve done studies, you know. 60% of the time, it works every time.",
-		"movie": "Anchorman",
+      "movie": "Anchorman",
 		"year": 2004
 	},
 	{
@@ -14271,5 +14284,11 @@
 		"movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
 		"type": "Movie",
 		"year": 2003
-   }
+   },
+   {
+      "quote": "You've got red on you",
+        "movie": "Shaun of the Dead",
+        "type": "Movie",
+        "year": 2004
+     }
 ]
