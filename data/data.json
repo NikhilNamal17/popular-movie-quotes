@@ -9901,6 +9901,24 @@
 		"movie": "Jurassic Park",
 		"type": "Movie",
 		"year": 1993
-	}
+   },
+   {
+      "quote": "Which would be worse, to live a monster or die as a good man?",
+		"movie": "Shutter Island",
+		"type": "Movie",
+		"year": 2010
+   },
+   {
+      "quote": "I'm going to have to science the s*** out of this.",
+		"movie": "The Martian",
+		"type": "Movie",
+		"year": 2015
+   },
+   {
+      "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+		"movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+		"type": "Movie",
+		"year": 2003
+   }
 ]
 
