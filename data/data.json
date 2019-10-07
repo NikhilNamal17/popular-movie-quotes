@@ -1102,23 +1102,45 @@
         "year": 2019
     },
     {  
-      "quote": "Tell me... do you bleed? You will!",
-      "movie": "BATMAN V SUPERMAN: DAWN OF JUSTICE",
-      "type": "movie",
-      "year": 2016
-      },
-
-    {  
-      "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
-      "movie": "The Great Gatsby",
-      "type": "movie",
-      "year": 2013
+        "quote": "Tell me... do you bleed? You will!",
+        "movie": "BATMAN V SUPERMAN: DAWN OF JUSTICE",
+        "type": "movie",
+        "year": 2016
     },
-
     {  
-      "quote": "One can never have enough socks.",
-      "movie": "Harry Potter and the Philosopher's Stone",
-      "type": "movie",
-      "year": 2001
+        "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+        "movie": "The Great Gatsby",
+        "type": "movie",
+        "year": 2013
+    },
+    {  
+        "quote": "One can never have enough socks.",
+        "movie": "Harry Potter and the Philosopher's Stone",
+        "type": "movie",
+        "year": 2001
+    },
+    {
+        "quote":"Not quite my tempo.",
+        "movie":"Whiplash",
+        "type":"Movie",
+        "year":2014
+    },
+    {
+        "quote":"There are no two words in the English language more harmful than good job.",
+        "movie":"Whiplash",
+        "type":"Movie",
+        "year":2014
+    },
+    {
+        "quote":"Were you rushing or were you dragging?",
+        "movie":"Whiplash",
+        "type":"Movie",
+        "year":2014
+    },
+    {
+        "quote":"We are all different. However bad life may seem, there is always something you can do, and succeed at. While there's life, there is hope.",
+        "movie":"The Theory of Everything",
+        "type":"Movie",
+        "year":2014
     }
 ]
