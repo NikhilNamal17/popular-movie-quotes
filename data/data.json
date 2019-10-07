@@ -24,10 +24,10 @@
       "year": 1987
    },
    {
-      "quote":"Our lives are defined by opportunities, even the ones we miss.",
-      "movie":"Benjamin Button",
-      "type":"movie",
-      "year":2008
+      "quote": "Our lives are defined by opportunities, even the ones we miss.",
+      "movie": "Benjamin Button",
+      "type": "movie",
+      "year": 2008
    },
    {
       "quote": "My precious",
@@ -4416,5 +4416,10 @@
       "quote": "Unfortunately, we’re all human. Except me, of course.",
       "movie": "Mr.Robot",
       "year": 2017
+   },
+   {
+      "quote": "Nunchuck skills… bowhunting skills… computer hacking skills… Girls only want boyfriends who have great skills!",
+      "movie": "Napoleon Dynamite",
+      "year": 2004
    }
 ]
