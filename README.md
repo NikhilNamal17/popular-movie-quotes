@@ -28,7 +28,7 @@ $ npm i popular-movie-quotes --save
 
 ## Usage
 
-[![usage](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/vinitshahdeo/inspirational-quotes/)
+[![usage](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/NikhilNamal17/popular-movie-quotes)
 
 -   **_getAll()_** method returns an array of objects, each containing **_quote_** and **_movie_**.
 
@@ -82,9 +82,17 @@ console.log(movieQuote.getSomeRandom(10)); // get an array of 10 random quotes.
 console.log(movieQuote.getRandomQuote()); // get a random quote
 ```
 
+## Testing
+
+-   Check if quote is duplicate/already present.
+
+```bash
+$ npm test
+```
+
 ## Want to contribute?
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/NikhilNamal17) [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/NikhilNamal17) [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://github.com/NikhilNamal17/popular-movie-quotes)
 
 > Please check issues **[here](https://github.com/NikhilNamal17/popular-movie-quotes/issues)**!
 
