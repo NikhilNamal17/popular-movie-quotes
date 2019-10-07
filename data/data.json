@@ -1142,5 +1142,17 @@
         "movie":"The Theory of Everything",
         "type":"Movie",
         "year":2014
+    },
+    {
+      "quote": "One can never have enough socks.",
+      "movie": "Harry Potter and the Philosopher's Stone",
+      "type": "movie",
+      "year": 2001
+    },
+    {
+        "quote":"Dreams remind us what reality is.",
+        "movie":"A Scanner Darkly",
+        "type":"movie",
+        "year":2006
     }
 ]
