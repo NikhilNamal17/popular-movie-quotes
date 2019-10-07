@@ -5,6 +5,12 @@
       "type":"movie",
       "year":2008
    },
+   {  
+      "quote": "Some people can’t believe in themselves until someone else believes in them first.",
+      "movie": "Good Will Hunting",
+      "type": "movie",
+      "year": 1997
+   },
    {
       "quote":"There's no crying in baseball!",
       "movie":"A League of Their Own",
