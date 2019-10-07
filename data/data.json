@@ -5347,6 +5347,32 @@
       "movie": "Mr.Robot",
       "year": 2017
    },
+   {  
+      "quote": "Life’s simple. You make choices and you don’t look back.",
+      "movie": "The Fast and The Furious: Tokyo Drift",
+      "type": "movie",
+      "year": 2006
+   },
+   {  
+      "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+      "movie": "The Fast and The Furious",
+      "type": "movie",
+      "year": 2001  
+   },
+
+   {  
+      "quote": "The ones that love us never really leave us.",
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "type": "movie",
+      "year": 2004
+   },
+
+   {
+      "quote": "It is impossible to manufacture or imitate love",
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "type": "movie",
+      "year": 2009
+   },
    {
 
       "quote": "Nunchuck skills… bowhunting skills… computer hacking skills… Girls only want boyfriends who have great skills!",
@@ -9799,3 +9825,4 @@
 		"year": 1993
 	}
 ]
+
