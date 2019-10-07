@@ -1,5 +1,11 @@
 [
    {
+      "quote": "Do i look like a guy with plan?",
+      "movie": "the dark knight",
+      "type": "movie",
+      "year": 2008
+   },
+   {
       "quote": "May the force be with you",
       "movie": "Star Wars",
       "type": "movie",
