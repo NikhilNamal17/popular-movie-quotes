@@ -1100,5 +1100,25 @@
         "quote": "Nothing is funnier than unhappiness.",
         "movie": "Endgame",
         "year": 2019
+    },
+    {  
+      "quote": "Tell me... do you bleed? You will!",
+      "movie": "BATMAN V SUPERMAN: DAWN OF JUSTICE",
+      "type": "movie",
+      "year": 2016
+      },
+
+    {  
+      "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+      "movie": "The Great Gatsby",
+      "type": "movie",
+      "year": 2013
+    },
+
+    {  
+      "quote": "One can never have enough socks.",
+      "movie": "Harry Potter and the Philosopher's Stone",
+      "type": "movie",
+      "year": 2001
     }
 ]
