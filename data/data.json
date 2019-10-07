@@ -9845,7 +9845,7 @@
       "quote": "Nunchuck skills… bowhunting skills… computer hacking skills… Girls only want boyfriends who have great skills!",
       "movie": "Napoleon Dynamite",
       "year": 2004
-   }, 
+   },
   {
      "quote": "Didn't I tell you about the football field in the bathroom cupboard?",
       "movie": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -33095,5 +33095,11 @@
       "movie":"Harry potter and the Order of the Phoenix",
       "type":"Movie",
       "year":2007
+   },
+   {
+      "quote":"The most important thing you will learn is to love and be loved in return.",
+      "movie":"Moulin Rouge",
+      "type":"Movie",
+      "year":2001
    }
 ]
