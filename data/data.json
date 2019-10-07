@@ -9816,7 +9816,7 @@
    },
   {
       "quote": "You're taking all the caviar? That caviar is a garnish!",
-      "movie": "You've Got Mail"
+      "movie": "You've Got Mail",
       "year": 1998
    },
 	{
@@ -14241,7 +14241,12 @@
 		"quote": "You're taking all the caviar? That caviar is a garnish!",
 		"movie": "You've Got Mail",
 		"year": 1998
-	},
+   },
+   {
+      "quote": "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.",
+      "movie": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "2001"
+   },
 	{
 		"quote": "You're gonna need a bigger boat.",
 		"movie": "Jaws",
