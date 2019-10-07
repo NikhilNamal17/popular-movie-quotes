@@ -14271,5 +14271,11 @@
 		"movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
 		"type": "Movie",
 		"year": 2003
+   },
+   {
+      "quote": " I was the warm little center that the life of this world crowded around.",
+      "movie": "Fight Club",
+      "type": "Movie",
+      "year":1999
    }
 ]
