@@ -136,7 +136,7 @@
     "year": 2008
   },
   {
-    "quote": " It's not about what I want. It's about what's fair!",
+    "quote": "It's not about what I want. It's about what's fair!",
     "movie": "The Dark Knight",
     "year": 2008
   },
@@ -348,10 +348,6 @@
     "movie": "Terminator 2"
   },
   {
-    "quote": "I used to think that if none of your family or friends knew you were dead, it was like not really being dead. People can invent the best and the worst for you.",
-    "movie": "Before Sunrise"
-  },
-  {
     "quote": "Have you ever danced with the devil in the pale moonlight?",
     "movie": "Batman, 1989"
   },
@@ -362,14 +358,6 @@
   {
     "quote": "Why so serious?",
     "movie": "The Dark Knight, 2008"
-  },
-  {
-    "quote": "May the Force be with you.",
-    "movie": "Star Wars, 1977"
-  },
-  {
-    "quote": "I'm going to make him an offer he can't refuse.",
-    "movie": "The Godfather, 1972"
   },
   {
     "quote": "The first rule of Fight Club is: You do not talk about Fight Club.",
@@ -895,11 +883,6 @@
     "year": 2003
   },
   {
-    "quote": "My precious.",
-    "movie": "The Lord of the Rings: Two Towers",
-    "year": 2002
-  },
-  {
     "quote": "Rishte me to hum tumhare baap lagte hain, naam hai Shahenshah",
     "movie": "Shahenshah",
     "type": "Movie",
@@ -919,5 +902,10 @@
     "quote": "Unfortunately, we’re all human. Except me, of course.",
     "movie": "Mr.Robot",
     "year": 2017
+  },
+  {
+    "quote": "The hardest choices require the strongest wills",
+    "movie": "Avengers: Infinity War",
+    "year": 2018
   }
 ]
