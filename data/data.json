@@ -434,7 +434,7 @@
         "movie": "Lord of the Rings: The Fellowship of the Ring",
         "year": 2001
     },
-     {
+    {
         "quote": "Ogres are like onions",
         "movie": "Shrek",
         "year": 2001
@@ -509,8 +509,9 @@
     {
         "quote": "My precious.",
         "movie": "Star Wars: Episode II - Attack of the Clones",
-         "year": 2002
-    },{
+        "year": 2002
+    },
+    {
         "quote": "I don't like sand. It's all coarse, and rough, and irritating. And it gets everywhere.",
         "movie": "The Lord of the Rings: Two Towers",
         "type": "Movie",
@@ -543,7 +544,8 @@
         "quote": "Not all treasure is silver and gold mate",
         "movie": "Pirates of the Carribean",
         "year": 2003
-    }, {
+    },
+    {
         "quote": "Ye best start believin' in ghost stories, Miss Turner. Yer in one.",
         "movie": "Pirates of the Carribean",
         "year": 2003
@@ -611,7 +613,8 @@
         "quote": "Didn't I tell you about the football field in the bathroom cupboard?",
         "movie": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
         "year": 2005
-    }, {
+    },
+    {
         "quote": "I wish I knew how to quit you.",
         "movie": "Brokeback Mountain",
         "year": 2005
@@ -620,7 +623,8 @@
         "quote": "Why do we fall sir? So that we can learn to pick ourselves up.",
         "movie": "Batman Begins",
         "year": 2005
-    },   {
+    },
+    {
         "quote": "You have bewitched me, body and soul.",
         "movie": "Pride and Prejudice",
         "year": 2005
@@ -815,10 +819,11 @@
         "movie": "Shutter Island",
         "type": "Movie",
         "year": 2010
-    }, {
+    },
+    {
         "quote": "A million dollars isn't cool. You know what's cool?",
         "movie": "The Social Network",
-         "year": 2010
+        "year": 2010
     },
     {
         "quote": "That’s my secret, Captain. I’m always angry.",
@@ -1022,6 +1027,11 @@
         "year": 2018
     },
     {
+        "quote": "Just because something works doesn’t mean it can’t be improved.",
+        "movie": "Black Panther",
+        "year": 2018
+    },
+    {
         "quote": "The worst part of having a mental illness is people expect you to behave as if you don't",
         "movie": "Joker",
         "year": "2019"
@@ -1090,10 +1100,5 @@
         "quote": "Nothing is funnier than unhappiness.",
         "movie": "Endgame",
         "year": 2019
-    },
-    {
-        "quote": "Just because something works doesn’t mean it can’t be improved.",
-        "movie": "Black Panther",
-        "year": 2018
     }
 ]
