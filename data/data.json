@@ -928,6 +928,36 @@
       "year": 2008
    },
    {
+      "quote": "You're a wizard, Harry.",
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "type": "movie",
+      "year": 2001
+   },
+   {
+      "quote": "You're gonna need a bigger boat.",
+      "movie": "Jaws",
+      "type": "movie",
+      "year": 1975
+   },
+   {
+      "quote": "Here endeth the lesson.",
+      "movie": "The Untouchables",
+      "type": "movie",
+      "year": 1987
+   },
+   {
+      "quote": "Are you telling me that you built a time machine out of a DeLorean.",
+      "movie": "Back to the Future",
+      "type": "movie",
+      "year": 1985
+   },
+   {
+      "quote": "That's what she said.",
+      "movie": "The Office",
+      "type": "tv",
+      "year": 2005
+   },
+   {
       "quote": "May the force be with you",
       "movie": "Star Wars",
       "type": "movie",
