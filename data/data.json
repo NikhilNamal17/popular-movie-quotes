@@ -1257,4 +1257,10 @@
         "type": "Movie",
         "year": 1993
     }
+	{
+        "quote":"If you ain't first, you're last.",
+        "movie":"Taladega Nights",
+        "type":"comedy",
+        "year":2006
+    }
 ]
