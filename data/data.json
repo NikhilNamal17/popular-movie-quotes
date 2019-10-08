@@ -1257,11 +1257,17 @@
         "movie": "Jurassic Park",
         "type": "Movie",
         "year": 1993
-    }
+    },
 	{
         "quote":"If you ain't first, you're last.",
         "movie":"Taladega Nights",
         "type":"comedy",
         "year":2006
+    },
+	{
+        "quote": "Better dead and cool then alive and uncool.",
+        "movie": "Harley Davidson and The Marlboro Man",
+        "type": "Action, Crime",
+        "year": 1991
     }
 ]
