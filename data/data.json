@@ -1167,19 +1167,19 @@
         "movie": "Endgame",
         "year": 2019
     },
-    {  
+    {
         "quote": "Tell me... do you bleed? You will!",
         "movie": "BATMAN V SUPERMAN: DAWN OF JUSTICE",
         "type": "movie",
         "year": 2016
     },
-    {  
+    {
         "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
         "movie": "The Great Gatsby",
         "type": "movie",
         "year": 2013
     },
-    {  
+    {
         "quote": "One can never have enough socks.",
         "movie": "Harry Potter and the Philosopher's Stone",
         "type": "movie",
@@ -1226,17 +1226,22 @@
         "movie":"Sixteen Candles",
         "type":"movie",
         "year":1984
-  }, 
+  },
   {
         "quote":"We rob banks.",
         "movie":"Bonnie and Clyde",
         "type":"movie",
         "year":1967
-    }, 
+    },
 	{
         "quote":"There are those who say fate is something beyond our command, that destiny is not our own. But I know better. Our fate lives within us. You only have to be brave enough to see it.",
         "movie":"Brave",
         "type":"movie",
         "year":2012
+    },
+    {
+        "quote": "You become responsible, forever, for everything you tamed",
+        "movie": "The Little Prince",
+        "year": 2015
     }
 ]
