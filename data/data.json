@@ -2,21 +2,30 @@
     {
         "quote": "It's alive! It's alive!",
         "movie": "Frankenstein",
+        "type": "movie",
         "year": 1931
     },
     {
+        "quote": "Of course it's hard. It's supposed to be hard. If it wasn't hard, everyone would do it. The hard is what makes it great",,
+        "movie": "A League of their Own",
+        "year": 1992
+    }
+    {
         "quote": "Listen to them. Children of the night. What music they make.",
         "movie": "Dracula",
+        "type": "movie",
         "year": 1931
     },
     {
         "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
         "movie": "King Kong",
+        "type": "movie",
         "year": 1933
     },
     {
         "quote": "There's no place like home.",
         "movie": "The Wizard of Oz",
+        "type": "movie",
         "year": 1939
     },
     {
@@ -28,16 +37,19 @@
     {
         "quote": "Frankly, my dear, I don't give a damn.",
         "movie": "Gone with the Wind",
+        "type": "movie",
         "year": 1939
     },
     {
         "quote": "After all, tomorrow is another day!",
         "movie": "Gone With the Wind",
+        "type": "movie",
         "year": 1939
     },
     {
         "quote": "Life is a banquet, and most poor suckers are starving to death!",
         "movie": "Auntie Mame",
+        "type": "movie",
         "year": 1958
     },
     {
@@ -55,6 +67,7 @@
     {
         "quote": "Bond. James Bond",
         "movie": "Dr. No",
+        "type": "movie",
         "year": 1962
     },
     {
@@ -77,42 +90,49 @@
     {
         "quote": "A martini. Shaken, not stirred",
         "movie": "Goldfinger ",
-        "type": "Movie",
+        "type": "movie",
         "year": 1964
     },
     {
         "quote": "They call me Mister Tibbs!",
         "movie": "In the Heat of the Night",
+        "type": "movie",
         "year": 1967
     },
     {
         "quote": "Hello, gorgeous.",
         "movie": "Funny Girl",
+        "type": "movie",
         "year": 1968
     },
     {
         "quote": "Love means never having to say you're sorry",
         "movie": "Love Story",
+        "type": "movie",
         "year": 1970
     },
     {
         "quote": "I'm gonna make him an offer he can't refuse.",
         "movie": "The Godfather",
+        "type": "movie",
         "year": 1972
     },
     {
         "quote": "Great men are not born great, they grow great.",
         "movie": "The Godfather",
+        "type": "movie",
         "year": 1972
     },
     {
         "quote": "I'm going to make him an offer he can't refuse.",
         "movie": "The Godfather",
+        "type": "movie",
         "year": 1972
     },
     {
         "quote": "Keep your friends close, but your enemies closer.",
         "movie": "The Godfather II",
+        "type": "movie",
         "year": 1974
     },
     {
@@ -136,6 +156,7 @@
     {
         "quote": "May the Force be with you.",
         "movie": "Star Wars",
+        "type": "movie",
         "year": 1977
     },
     {
@@ -584,6 +605,51 @@
     },
     {
         "quote": "Boo, you whore!",
+        "movie": "Mean Girls",
+        "year": 2004
+    },
+    {
+        "quote": "It's like I have ESPN or something.",
+        "movie": "Mean Girls",
+        "year": 2004
+    },
+    {
+        "quote": "I wish I could bake a cake filled with rainbows and smiles and everyone would eat and be happy.",
+        "movie": "Mean Girls",
+        "year": 2004
+    },
+    {
+        "quote": "There's a 30% chance that it's already raining.",
+        "movie": "Mean Girls",
+        "year": 2004
+    },
+    {
+        "quote": "Four for you, Glen Coco! You go, Glen Coco!",
+        "movie": "Mean Girls",
+        "year": 2004
+    },
+    {
+        "quote": "She doesn't even go here!",
+        "movie": "Mean Girls",
+        "year": 2004
+    },
+    {
+        "quote": "Whatever. I'm getting cheese fries.",
+        "movie": "Mean Girls",
+        "year": 2004
+    },
+    {
+        "quote": "We should totally just stab Caesar!",
+        "movie": "Mean Girls",
+        "year": 2004
+    },
+    {
+        "quote": "Is butter a carb?",
+        "movie": "Mean Girls",
+        "year": 2004
+    },
+    {
+        "quote": "Stop trying to make 'fetch' happen. It's not going to happen.",
         "movie": "Mean Girls",
         "year": 2004
     },
@@ -1160,5 +1226,17 @@
         "movie":"Sixteen Candles",
         "type":"movie",
         "year":1984
+  }, 
+  {
+        "quote":"We rob banks.",
+        "movie":"Bonnie and Clyde",
+        "type":"movie",
+        "year":1967
+    }, 
+	{
+        "quote":"There are those who say fate is something beyond our command, that destiny is not our own. But I know better. Our fate lives within us. You only have to be brave enough to see it.",
+        "movie":"Brave",
+        "type":"movie",
+        "year":2012
     }
 ]
