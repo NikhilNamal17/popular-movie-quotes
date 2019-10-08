@@ -1263,5 +1263,11 @@
         "movie":"Taladega Nights",
         "type":"comedy",
         "year":2006
+    },
+	{
+        "quote":"If love you / I know",
+        "movie":"Starwars - The empire strikes back",
+        "type":"movie",
+        "year": 1980
     }
 ]
