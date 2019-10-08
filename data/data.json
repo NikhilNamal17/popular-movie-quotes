@@ -1155,4 +1155,10 @@
         "type":"movie",
         "year":2006
     }
+	{
+        "quote":"There are those who say fate is something beyond our command, that destiny is not our own. But I know better. Our fate lives within us. You only have to be brave enough to see it.",
+        "movie":"Brave",
+        "type":"movie",
+        "year":2012
+    }
 ]
