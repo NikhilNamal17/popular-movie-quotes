@@ -1238,5 +1238,11 @@
         "movie":"Brave",
         "type":"movie",
         "year":2012
+    },
+    {
+        "quote":"you become responsibe, forever, for everything you tamed",
+        "movie":"The Little Prince",
+        "type":"movie",
+        "year":2015
     }
 ]
