@@ -1154,5 +1154,11 @@
         "movie":"A Scanner Darkly",
         "type":"movie",
         "year":2006
+    },
+    {
+        "quote":"We rob banks.",
+        "movie":"Bonnie and Clyde",
+        "type":"movie",
+        "year":1967
     }
 ]
