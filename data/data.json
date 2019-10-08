@@ -1238,5 +1238,11 @@
         "movie":"Brave",
         "type":"movie",
         "year":2012
+    },
+	{
+        "quote":"You fuck my wife ?",
+        "movie":"Raging Bull",
+        "type":"movie",
+        "year":1980
     }
 ]
