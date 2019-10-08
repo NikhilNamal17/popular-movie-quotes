@@ -1154,5 +1154,11 @@
         "movie":"A Scanner Darkly",
         "type":"movie",
         "year":2006
+    },
+    {
+        "quote":"I can’t believe I just gave my panties to a geek.",
+        "movie":"Sixteen Candles",
+        "type":"movie",
+        "year":1984
     }
 ]
