@@ -1238,5 +1238,11 @@
         "movie":"Brave",
         "type":"movie",
         "year":2012
+    },
+    {
+        "quote": "Life, uh, finds a way",
+        "movie": "Jurassic Park",
+        "type": "Movie",
+        "year": 1993
     }
 ]
