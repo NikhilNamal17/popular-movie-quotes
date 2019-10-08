@@ -1242,26 +1242,31 @@
     {
         "quote": "Hardest time to lie to somebody is when they're expecting to be lied to.",
         "movie": "The Imitation Game",
+        "type":"movie",
         "year": 2014
     },
     {
         "quote": "Even a broken clock is right twice a day.",
         "movie": "The Imitation Game",
+        "type":"movie",
         "year": 2014
     },
     {
         "quote": "The past can't hurt you anymore, unless you let it.",
         "movie": "V for Vendetta",
+        "type":"movie",
         "year": 2006
     },
     {
         "quote": "People should not be afraid of their governments. Governments should be afraid of their people.",
         "movie": "V for Vendetta",
+        "type":"movie",
         "year": 2006
     },
     {
         "quote": "Happiness is the most insidious prison of all, Evey.",
         "movie": "V for Vendetta",
+        "type":"movie",
         "year": 2006
     }
 ]
