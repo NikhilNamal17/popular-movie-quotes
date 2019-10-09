@@ -552,6 +552,20 @@
         "year": 2002
     },
     {
+	"quote": "Is it safe?",
+	"movie": "Marathon man",
+	"type" : "movie",
+	"year": "1976"
+
+    }
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+    {
         "quote": "Dark have been my dreams of late.",
         "movie": "Lord of the Rings: The Tow Towers",
         "year": 2002
@@ -583,6 +597,12 @@
         "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
         "type": "Movie",
         "year": 2003
+    },
+    {
+	"quote": “Snap out of it”,
+       	"movie": "Moonstruck",
+        "type": "movie",
+        "year":1987   
     },
     {
         "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
