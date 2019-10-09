@@ -39,7 +39,7 @@ $ npm i popular-movie-quotes --save
 }
 ```
 
--   **getQuoteByYear(startYear, endYear)\_** method rreturns a sorted object within the range of year startYear -endYear\*\*
+-   **getQuoteByYear(startYear, endYear)\_** method returns a sorted object within the range of year startYear -endYear\*\*
 
 ```json
 [
