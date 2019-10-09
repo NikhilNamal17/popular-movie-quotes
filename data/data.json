@@ -1311,19 +1311,37 @@
         "type":"comedy",
         "year":2006
     },
-	{
+    {
         "quote": "Better dead and cool then alive and uncool.",
         "movie": "Harley Davidson and The Marlboro Man",
         "type": "Action, Crime",
         "year": 1991
     },
+    {
+        "quote": "It was my bad. I was never a very good practical joker.",
+        "movie": "Zombieland",
+        "type": "Action",
+        "year": 2009
+    },
+    {
+        "quote": "Yeah, to you, it's Thanksgiving; to me, it's Thursday.",
+        "movie": "Rocky",
+        "type": "Action",
+        "year": 1976
+    },
+    {
+        "quote": "Public opinion has a way of changing.",
+        "movie": "A Clockwork Orange",
+        "type": "movie",
+        "year": 1971
+  },
 	{
         "quote": "I know kung fu.",
         "movie": "The Matrix",
         "type": "movie",
         "year": 1999
-    },
-	{
+   },
+	 {
         "quote": "Are you watching closely?",
         "movie": "The Prestige",
         "type": "movie",
