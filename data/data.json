@@ -1291,5 +1291,11 @@
         "movie": "Harley Davidson and The Marlboro Man",
         "type": "Action, Crime",
         "year": 1991
+    },
+	{
+        "quote": "I know kung fu.",
+        "movie": "The Matrix",
+        "type": "movie",
+        "year": 1999
     }
 ]
