@@ -2656,5 +2656,11 @@
       "quote":"You become responsible, forever, for everything you tamed.",
       "movie":"The Little Prince",
       "year":2015
-   }
+   }, 
+   {
+      "quote":"Just because someone stumbles and loses their path, doesn’t mean they’re lost forever.",
+      "movie":"X-Men: Days of Future Past",
+      "type":"movie",
+      "year":2015
+    }
 ]
