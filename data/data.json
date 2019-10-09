@@ -1495,4 +1495,214 @@
        "type":"movie",
        "year":2008
    }
+   {
+   "quote":"People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period. ",
+   "movie":"The pursuit of Happyness",
+   "type":"movie",
+   "year":2006
+   },
+   {
+   "quote":"I just want to escape. Dad always wanted me to travel the world. Someday.",
+   "movie":"Abominable",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"I do what I do because of my dad. He was a hero. He gave his life for the pursuit of knowledge.",
+   "movie":"Ad Astra",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"I think the best thing we can do is to let people know that each one of them is precious.",
+   "movie":"A Beautiful Day in the Neighbourhood",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"Murder is murder, it don’t matter who you are.",
+   "movie":"Black and Blue",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"Today the impossible becomes the possible. ",
+   "movie":"The Current War",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"They have all the money, all the firepower, and they’ll use it. I know, I was one of them.",
+   "movie":"Dark Waters",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"Elsa, the past is not what it seems. You must find the truth.",
+   "movie":"Frozen II",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"This meeting of The Losers Club has officially begun.",
+   "movie":"It Chapter Two",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"You give me your loyalty, and I’ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+   "movie":"The Kill Team",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+   "movie":"The King",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"You all love twisting the knife into one another.",
+   "movie":"Knives Out",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"Well, I’ve got no leashes, or fences. With me, every day could be an adventure.",
+   "movie":"The Lady and the Tramp",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"Things are very uncomfortable between us, but we’re stuck in a house together.",
+   "movie":"The Lodge",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+   "movie":"Maleficent:The Mistress of Evil",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"Pearl Harbor is the greatest intelligence failure in American history.",
+   "movie":"Midway",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"This is me. This is how I win.",
+   "movie":"Uncut Gems",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"Lord knows, I’ve held onto way too much hate in my life. But all we have is now. All we have is now.",
+   "movie":"Waves",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":"I didn't know if you were lost. Stick with me. I'll keep you safe.",
+   "movie":"Us",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":" If you want to get crazy. We can get crazy.",
+   "movie":"Us",
+   "type":"movie",
+   "year":2019
+   },
+   {
+   "quote":" You're my boy, Blue!",
+   "movie":"Old School",
+   "type":"movie",
+   "year":2003
+   },
+    {
+   "quote":"So be prepared, be enthusiastic, and leave your bullshit attitude and baggage at the door because we don't need it!",
+   "movie":"Wet Hot American Summer",
+   "type":"movie",
+   "year":2001
+   },
+    {
+   "quote":"You gotta hear this one song. It'll change your life, I swear.",
+   "movie":"Garden State",
+   "type":"movie",
+   "year":2004
+   },
+   {
+   "quote":"They called me Mr. Glass.",
+   "movie":"Unbreakable",
+   "type":"movie",
+   "year":2000
+   },
+    {
+   "quote":"I have nipples, Greg. Could you milk me?",
+   "movie":"Meet the Parents",
+   "type":"movie",
+   "year":2000
+   },
+   {
+   "quote":"This is Sparta!",
+   "movie":"300",
+   "type":"movie",
+   "year":2006
+   },
+   {
+   "quote":"I am gonna kill Bill.",
+   "movie":"Kill Bill",
+   "type":"movie",
+   "year":2004
+   },
+   {
+   "quote":"Didn't I tell you not to come to my house? Nobody touches my child!",
+   "movie":"Obsessed",
+   "type":"movie",
+   "year":2009
+   },
+   {
+   "quote":"We could not talk or talk forever and still find things to not talk about.",
+   "movie":"Best in Show",
+   "type":"movie",
+   "year":2000
+   },
+   {
+   "quote":"Hell is a teenage girl.",
+   "movie":"Jennifer's Body",
+   "type":"movie",
+   "year":2009
+   },
+   {
+   "quote":"You gonna eat your tots?",
+   "movie":"Napoleon Dynamite",
+   "type":"movie",
+   "year":2004
+   },
+   {
+   "quote":"I have had it with these motherfuckin' snakes on this motherfuckin' plane!",
+   "movie":"Snakes on a Plane",
+   "type":"movie",
+   "year":2006
+   },
+   {
+   "quote":"To me, you are perfect.",
+   "movie":"Love Actually",
+   "type":"movie",
+   "year":2003
+   },
+   {
+   "quote":"For a guy with a four digit IQ, I must have missed something.",
+   "movie":"Limitless",
+   "type":"movie",
+   "year":2011
+   },
+   {
+   "quote":"My tastes are very singular.",
+   "movie":"Fifty Shades of Grey ",
+   "type":"movie",
+   "year":2015
+   }
 ]
