@@ -1477,5 +1477,11 @@
        "movie":"Forrest Gump",
        "type":"movie",
        "year":1994
+   },
+   {
+       "quote":"I'm not a big fat panda.I'm THE big fat panda.",
+       "movie":"Kung Fu Panda",
+       "type":"movie",
+       "year":2008
    }
 ]
