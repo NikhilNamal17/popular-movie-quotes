@@ -1270,6 +1270,11 @@
         "year":2012
     },
     {
+    "qoute":"You know, I'm something of a scientist myself.",
+    "movie":"Spiderman",
+    "type":"movie",
+    "year":2002
+  },
         "quote": "Life, uh, finds a way.",
         "movie": "Jurassic Park",
         "type": "Movie",
