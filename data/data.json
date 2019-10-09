@@ -1237,5 +1237,30 @@
         "movie": "Brave",
         "type": "movie",
         "year": 2012
+    },
+    {
+        "quote": "It's only after we've lost everything that we're free to do anything.",
+        "movie": "Fight Club",
+        "type": "movie",
+        "year": 1999
+    },
+    {
+        "quote": "It's only in the mysterious equation of love that any logical reasons can be found.",
+        "movie": "A Beautiful Mind",
+        "type": "movie",
+        "year": 2001
+    },
+    {
+        "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+        "movie": "Waking Life",
+        "type": "movie",
+        "year": 2001
+
+    },
+    {
+        "quote": "You only live twice:Once when you are born  And once when you look death in the face",
+        "movie": "You only live twice",
+        "type": "movie",
+        "year": 1967
     }
 ]
