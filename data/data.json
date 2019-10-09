@@ -1,5 +1,11 @@
 [
     {
+        "quote": "Examined from another angle, your faults and weaknesses can be weapons",
+        "movie": "Assassination classroom",
+        "type": "Anime",
+        "year": 2015
+    },
+    {
         "quote": "It's alive! It's alive!",
         "movie": "Frankenstein",
         "type": "movie",
@@ -124,7 +130,13 @@
         "year": 1972
     },
     {
-        "quote": "I'm going to make him an offer he can't refuse.",
+        "quote": "Drop the gun, take the canoli.",
+        "movie": "The Godfather",
+        "type": "movie",
+        "year": 1972
+    },
+    {
+        "quote": "A man who doesn't spend time with his family can never be a real man.",
         "movie": "The Godfather",
         "type": "movie",
         "year": 1972
@@ -327,6 +339,12 @@
     {
         "quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
         "movie": "Forrest Gump",
+        "year": 1994
+    },
+    {
+        "quote": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness. For he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay my vengeance upon you.",
+        "movie": "Pulp Fiction",
+        "type": "movie",
         "year": 1994
     },
     {
@@ -1103,11 +1121,6 @@
         "year": "2019"
     },
     {
-        "quote": "The worst part of having a mental illness is people expect you to behave as if you don't",
-        "movie": "Joker",
-        "year": 2019
-    },
-    {
         "quote": "Nothing is funnier than unhappiness, I grant you that… Yes, yes, it's the most comical thing in the world. And we laugh, we laugh, with a will, in the beginning. But it's always the same thing. Yes, it's like the funny story we have heard too often, we still find it funny, but we don't laugh any more.",
         "movie": "Endgame",
         "year": 2019
@@ -1244,5 +1257,25 @@
         "movie":"X-Men: Days of Future Past",
         "type":"movie",
         "year":2015
+
+    },
+    {
+        "quote": "Life, uh, finds a way.",
+        "movie": "Jurassic Park",
+        "type": "Movie",
+        "year": 1993
+    },
+	{
+        "quote":"If you ain't first, you're last.",
+        "movie":"Taladega Nights",
+        "type":"comedy",
+        "year":2006
+    },
+	{
+        "quote": "Better dead and cool then alive and uncool.",
+        "movie": "Harley Davidson and The Marlboro Man",
+        "type": "Action, Crime",
+        "year": 1991
+
     }
 ]
