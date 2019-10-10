@@ -13,7 +13,7 @@
    },
    {  
       "quote": "Some people can’t believe in themselves until someone else believes in them first.",
-      "movie": "Good Will Hunting",
+      "movie": "Good Will Hunting"
   },
   {
         "quote": "It's alive! It's alive!",
@@ -3100,7 +3100,6 @@
       "type": "anime",
       "year": "-"
    },
-<<<<<<< HEAD
 	{
 		"quote": "May the force be with you",
 		"movie": "Star Wars",
@@ -7541,14 +7540,12 @@
 		"movie": "Street Fighter",
 		"type": "Movie",
 		"year": 1994
-	}
-=======
-   {
-      "quote": "There’s nothing you can’t do if you try.",
-      "movie": "Dr Stone",
-      "type": "anime",
-      "year": 2019
-   }
+	},
+	{
+ 		"quote": "There’s nothing you can’t do if you try.",
+      		"movie": "Dr Stone",
+      		"type": "anime",
+      		"year": 2019
+   	}
 
->>>>>>> upstream/master
 ]
