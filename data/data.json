@@ -1724,18 +1724,18 @@
       "year": 2011
    },
    {
-   "quote":"My tastes are very singular.",
-   "movie":"Fifty Shades of Grey ",
-   "type":"movie",
-   "year":2015
+      "quote":"My tastes are very singular.",
+      "movie":"Fifty Shades of Grey ",
+      "type":"movie",
+      "year":2015
    },
    {
-   "quote":"No system is safe.",
-   "movie":"Who Am I",
-   "type":"movie",
-   "year":2014 
-}, 
-     {
+      "quote":"No system is safe.",
+      "movie":"Who Am I",
+      "type":"movie",
+      "year":2014
+   },
+   {
       "quote": "My tastes are very singular.",
       "movie": "Fifty Shades of Grey ",
       "type": "movie",
@@ -1759,6 +1759,18 @@
       "movie": "Your Name",
       "type": "movie",
       "year": 2017
+   },
+   {
+      "quote": "Fools who don't respect the past are likely to repeat it.",
+      "movie": "One Piece",
+      "type": "anime",
+      "year": "-"
+   },
+   {
+      "quote": "There’s nothing you can’t do if you try.",
+      "movie": "Dr Stone",
+      "type": "anime",
+      "year": 2019
    }
 
 ]
