@@ -1,6 +1,6 @@
 {
     "name": "popular-movie-quotes",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "A simple NPM package to get popular movie quotes",
     "main": "index.js",
     "repository": {
@@ -18,18 +18,26 @@
         "quote",
         "quotes",
         "cinema",
-        "popular"
+        "popular",
+        "movie-quotes",
+        "popular-movie-quotes"
     ],
     "bugs": {
         "url": "https://github.com/NikhilNamal17/popular-movie-quotes/issues"
     },
     "directories": {
         "demo": "demo",
-        "data": "data"
+        "data": "data",
+        "test": "test"
     },
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "mocha || true"
     },
     "author": "Nikhil N Namal <nikhilnamal16@mail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "lodash": "^4.17.15",
+        "mocha": "^6.2.1"
+    }
 }
