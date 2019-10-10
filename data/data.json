@@ -1728,5 +1728,23 @@
       "movie": "Bill and Ted's Most Excellent Adventure",
       "type": "movie",
       "year": 1989
+   },
+   {
+      "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+      "movie": "Ratatouille",
+      "type": "movie",
+      "year": 2007
+   },
+   {
+      "quote": "Florals? For Spring. Groundbreaking.",
+      "movie": "The Devil Wears Prada",
+      "type": "movie",
+      "year": 2006
+   },
+   {
+      "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+      "movie": "500 Days of Summer",
+      "type": "movie",
+      "year": 2009
    }
 ]
