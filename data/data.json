@@ -185,7 +185,7 @@
       "year": 1977
    },
    {
-      "quote": "May the force be with you",
+      "quote": "If you strike me down, I shall become more powerful than you could possibly imagine.",
       "movie": "Star Wars",
       "type": "movie",
       "year": 1977
@@ -346,7 +346,7 @@
       "year": 1984
    },
    {
-      "quote": "I'll be back.",
+      "quote": "Hasta la Vista, baby.",
       "movie": "The Terminator",
       "type": "movie",
       "year": 1984
@@ -531,6 +531,11 @@
       "year": 1995
    },
    {
+      "quote": "They may take our lives, but they'll never take our freedom!",
+      "movie": "Braveheart",
+      "year": 1995
+   },
+   {
       "quote": " I used to think that if none of your family or friends knew you were dead, it was like not really being dead. People can invent the best and the worst for you.",
       "movie": "Before Sunrise",
       "year": 1995
@@ -563,6 +568,11 @@
    },
    {
       "quote": "Does anything more dangerous than that lurk just beneath the surface?",
+      "movie": "Titanic",
+      "year": 1997
+   },
+      {
+      "quote": "Draw me like one of your French girls",
       "movie": "Titanic",
       "year": 1997
    },
@@ -1379,6 +1389,7 @@
       "movie": "Transformers : The Light Night",
       "year": 2017
    },
+
    {
       "quote": "Being a hero doesn't mean you are invincible. It just means you're brave enough to stand up, and do what's needed.",
       "movie": "Two Heroes",
@@ -1741,5 +1752,48 @@
       "type": "movie",
       "year": 1989
 
+   },
+   {
+      "quote": "My name is Maximus Decimus Meridius, commander of the Armies of the North, General of the Felix Legions and loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next.",
+      "movie": "Gladiator",
+      "type": "movie",
+      "year": 2000
+   },
+   {
+      "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+      "movie": "The Silence of the lambs",
+      "type": "movie",
+      "year": 1998
+   },
+   {
+      "quote": "I'm having an old friend for dinner.",
+      "movie": "The Silence of the lambs",
+      "type": "movie",
+      "year": 1998
+   },
+   {
+      "quote": "I'm just one stomach flu away from my goal weight.",
+      "movie": "Devil wears Prada",
+      "type": "movie",
+      "year": 2006
+   },
+   {
+      "quote": "Magic Mirror on the wall, who is the fairest one of all?",
+      "movie": "Snow White and the Seven Dwarves",
+      "type": "movie",
+      "year": 1937
+   },
+   {
+      "quote": "I don't want to survive. I want to live.",
+      "movie": "12 years a slave",
+      "type": "movie",
+      "year": 2013
+   },
+   {
+      "quote": "To infinity and beyond",
+      "movie": "Toy Story",
+      "type:": "movie",
+      "year": 1995
    }
+
 ]
