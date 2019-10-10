@@ -2690,5 +2690,11 @@
 		"movie": "Maleficent:The Mistress of Evil",
 		"type": "movie",
 		"year": 2019
+	},
+	{
+		"quote": "You expect me to talk? No, Mr Bond, I expect you to die!",
+		"movie": "Goldfinger",
+		"type": "movie",
+		"year": 1964
 	}
 ]
