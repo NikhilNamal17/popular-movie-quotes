@@ -1712,6 +1712,18 @@
       "year": 2011
    },
    {
+   "quote":"My tastes are very singular.",
+   "movie":"Fifty Shades of Grey ",
+   "type":"movie",
+   "year":2015
+   },
+   {
+   "quote":"No system is safe.",
+   "movie":"Who Am I",
+   "type":"movie",
+   "year":2014 
+}, 
+     {
       "quote": "My tastes are very singular.",
       "movie": "Fifty Shades of Grey ",
       "type": "movie",
@@ -1728,5 +1740,6 @@
       "movie": "Bill and Ted's Most Excellent Adventure",
       "type": "movie",
       "year": 1989
+
    }
 ]
