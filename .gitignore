@@ -3,3 +3,4 @@ package-lock.json
 cleanup.js
 output.json
 .npmrc
+ALLOWED_TYPES

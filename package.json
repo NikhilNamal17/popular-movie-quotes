@@ -1,11 +1,8 @@
 {
-    "name": "@NikhilNamal17/popular-movie-quotes",
+    "name": "popular-movie-quotes",
     "version": "1.0.4",
     "description": "A simple NPM package to get popular movie quotes",
     "main": "index.js",
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
-    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/NikhilNamal17/popular-movie-quotes.git"
@@ -34,8 +31,7 @@
         "test": "test"
     },
     "scripts": {
-        "test": "mocha || exit 0",
-        "postpublish": "npm publish --ignore-scripts --@NikhilNamal17:registry='https://registry.npmjs.org'"
+        "test": "mocha || exit 0"
     },
     "author": "Nikhil N Namal <nikhilnamal16@mail.com>",
     "license": "MIT",
