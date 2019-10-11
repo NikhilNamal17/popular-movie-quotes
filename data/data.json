@@ -376,11 +376,6 @@
       "year": 1986
    },
    {
-      "quote": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
-      "movie": "The Princess Bride",
-      "year": 1987
-   },
-   {
       "quote": "Snap out of it",
       "movie": "Moonstruck",
       "type": "movie",
@@ -906,27 +901,31 @@
    {
       "quote": "I wish I knew how to quit you.",
       "movie": "Brokeback Mountain",
+	  "type": "movie",
       "year": 2005
    },
    {
       "quote": "Why do we fall sir? So that we can learn to pick ourselves up.",
       "movie": "Batman Begins",
+	  "type": "movie",
       "year": 2005
    },
    {
       "quote": "You have bewitched me, body and soul.",
       "movie": "Pride and Prejudice",
+	  "type": "movie",
       "year": 2005
    },
    {
       "quote": "It's not who I am underneath, but what I do that defines me",
       "movie": "Batman begins",
+	  "type": "movie",
       "year": 2005
    },
    {
       "quote": "If you ain't first, you're last.",
       "movie": "Taladega Nights",
-      "type": "comedy",
+      "type": "movie",
       "year": 2006
    },
    {
@@ -938,12 +937,13 @@
    {
       "quote": "TIA This is Africa",
       "movie": "Blood Diamond",
-      "type": "Movie",
+      "type": "movie",
       "year": 2006
    },
    {
       "quote": "I'm gonna say what any man with two penises would say when his tailor asks him if he dresses right or left... Yes.",
       "movie": "Lucky Number Slevin",
+	  "type": "movie",
       "year": "2006"
    },
    {
@@ -955,11 +955,13 @@
    {
       "quote": "I'm gonna say what any man with two penises would say when his tailor asks him if he dresses right or left... Yes.",
       "movie": "Lucky Number Slevin",
+	  "type": "movie",
       "year": 2006
    },
    {
       "quote": "Nobody is gonna hit as hard as life, but it ain’t how hard you can hit. It’s how hard you can get hit and keep moving forward. It’s how much you can take, and keep moving forward. That’s how winning is done.",
       "movie": "Rocky Balboa",
+	  "type": "movie",
       "year": 2006
    },
    {
@@ -983,32 +985,37 @@
    {
       "quote": "TIA This is Africa",
       "movie": "Blood Diamond",
+	  "type": "movie",
       "year": 2006
    },
    {
       "quote": "Anyway, my mum always said things we lose have a way of coming back to us in the end, if not always in the way we expect.",
       "movie": "Harry potter and the Order of the Phoenix",
-      "type": "Movie",
+      "type": "movie",
       "year": 2007
    },
    {
       "quote": "We’ve all got both light and darkness inside us. What matters is the part we choose to act on. That’s who we really are.",
       "movie": "Harry Potter and the Order of the Phoenix",
+	  "type": "movie",
       "year": 2007
    },
    {
       "quote": "They all deserve to die. Even you, Mrs. Lovett. Even I. Because the lives of the wicked should be made brief. For the rest of us death would be relief.",
       "movie": "Sweeney Todd: The Demon Barber of Fleet Street ",
+	  "type": "movie",
       "year": 2007
    },
    {
       "quote": "I don't read the script. The script reads me.",
       "movie": "Tropic Thunder",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
       "movie": "Seven Pounds",
+	  "type": "movie",
       "year": 2008
    },
    {
@@ -1020,41 +1027,43 @@
    {
       "quote": "It's not about what I want. It's about what's fair!",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "If you’re good at something, never do it for free.",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
-      "quote": "Sometimes the truth isn’t good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded ",
+      "quote": "Sometimes the truth isn’t good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded.",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "Nobody panics when things go “according to plan”. Even if the plan is horrifying!",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": " It's not about what I want. It's about what's fair!",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
-      "quote": "Some men just want to watch the world burn.    ",
+      "quote": "Some men just want to watch the world burn.",
       "movie": "The Dark Knight",
-      "year": 2008
-   },
-   {
-      "quote": "Sometimes the truth isn’t good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded    ",
-      "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "If you let my daughter go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will kill you.",
       "movie": "Taken",
+	  "type": "movie",
       "year": 2008
    },
    {
@@ -1066,58 +1075,61 @@
    {
       "quote": "Madness, as you know, is like gravity, all it takes is a little push.",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "You either die a hero or live long enough to see yourself become the villian.",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "Why so serious?",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "Let's put a smile on that face!",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
-      "quote": "Some men just want to watch the world burn. ",
-      "movie": "The Dark Knight",
-      "year": 2008
-   },
-   {
-      "quote": " About three things I was absolutely certain. First, Edward was a vampire. Second, there was part of him-and I didn't know how potent that part might be- that thirsted for my blood. and third, I was unconditionally and irrevocably in love with him.",
+      "quote": "About three things I was absolutely certain. First, Edward was a vampire. Second, there was part of him-and I didn't know how potent that part might be- that thirsted for my blood. and third, I was unconditionally and irrevocably in love with him.",
       "movie": "Twilight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "Don't talk like you're one of them",
-      "movie": "The dark knight",
+      "movie": "The Dark Knight",
       "type": "movie",
       "year": 2008
    },
    {
       "quote": "Does it depress you? To know just how alone you really are?",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "I believe whatever doesn’t kill you, simply makes you stranger.",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "You see, in their last moments people show you who they really are.",
       "movie": "The Dark Knight",
+	  "type": "movie",
       "year": 2008
    },
    {
       "quote": "It was my bad. I was never a very good practical joker.",
       "movie": "Zombieland",
-      "type": "Action",
+      "type": "movie",
       "year": 2009
    },
    {
@@ -1135,34 +1147,31 @@
    {
       "quote": "All is Well",
       "movie": "3 idiots",
-      "type": "Movie",
+      "type": "movie",
       "year": 2009
    },
    {
       "quote": "What happens in vegas stays in vegas",
       "movie": "The Hangover",
-      "year": 2009
-   },
-   {
-      "quote": "What happens in vegas stays in vegas",
-      "movie": "The Hangover",
-      "type": "Movie",
+      "type": "movie",
       "year": 2009
    },
    {
       "quote": "Which would be worse, to live a monster or die as a good man?",
       "movie": "Shutter Island",
-      "type": "Movie",
+      "type": "movie",
       "year": 2010
    },
    {
       "quote": "A million dollars isn't cool. You know what's cool?",
       "movie": "The Social Network",
+	  "type": "movie",
       "year": 2010
    },
    {
       "quote": "We accept the love we think we deserve",
       "movie": "The Perks of Being a Wallflower.",
+	  "type": "movie",
       "year": 2012
    },
    {
@@ -1180,18 +1189,19 @@
    {
       "quote": "That’s my secret, Captain. I’m always angry.",
       "movie": "The Avengers ",
-      "type": "Movie",
+      "type": "movie",
       "year": 2012
    },
    {
-      "quote": "Cause if we can't protect the Earth, you can be damn sure we'll avenge it",
+      "quote": "Cause if we can't protect the Earth, you can be damn sure we'll avenge it.",
       "movie": "The Avengers",
       "type": "movie",
       "year": 2012
    },
    {
       "quote": "That’s my secret, Captain. I’m always angry.",
-      "movie": "The Avengers ",
+      "movie": "The Avengers",
+	  "type": "movie",
       "year": 2012
    },
    {
@@ -1203,98 +1213,91 @@
    {
       "quote": "Let it go!",
       "movie": "Frozen",
-      "year": 2013
-   },
-   {
-      "quote": "Let it go!",
-      "movie": "Frozen",
-      "type": "Movie",
+      "type": "movie",
       "year": 2013
    },
    {
       "quote": "There's no nobility in poverty.",
       "movie": "The Wolf of Wall Street",
-      "type": "Movie",
+      "type": "movie",
       "year": 2013
    },
    {
       "quote": "Look At Me, I'm The Captain Now",
       "movie": "Captian Phillips",
-      "year": 2013
-   },
-   {
-      "quote": "There's no nobility in poverty.",
-      "movie": "The Wolf of Wall Street",
+	  "type": "movie",
       "year": 2013
    },
    {
       "quote": "People don’t buy stock; it gets sold to them. Don’t ever forget that.",
       "movie": "The Wolf of Wall Street",
-      "year": 2013
-   },
-   {
-      "quote": "People don’t buy stock; it gets sold to them. Don’t ever forget that.",
-      "movie": "The Wolf of Wall Street",
-      "type": "Movie",
+      "type": "movie",
       "year": 2013
    },
    {
       "quote": "A wise man can learn more from his enemies than a fool from his friends.",
       "movie": "Rush",
+	  "type": "movie",
       "year": 2013
    },
    {
       "quote": "Look At Me, I'm The Captain Now",
       "movie": "Captian Phillips",
-      "type": "Movie",
+      "type": "movie",
       "year": 2013
    },
    {
       "quote": "We are all different. However bad life may seem, there is always something you can do, and succeed at. While there's life, there is hope.",
       "movie": "The Theory of Everything",
-      "type": "Movie",
+      "type": "movie",
       "year": 2014
    },
    {
       "quote": "There are no two words in the English language more harmful than good job.",
       "movie": "Whiplash",
-      "type": "Movie",
+      "type": "movie",
       "year": 2014
    },
    {
       "quote": "Were you rushing or were you dragging?",
       "movie": "Whiplash",
-      "type": "Movie",
+      "type": "movie",
       "year": 2014
    },
    {
       "quote": "People keep asking if I'm back and I haven't really had an answer, but yeah, I'm thinking I'm back.",
       "movie": "John Wick",
+	  "type": "movie",
       "year": 2014
    },
    {
       "quote": "I am Groot.",
       "movie": "Guardians of the Galaxy",
+	  "type": "movie",
       "year": 2014
    },
    {
-      "quote": "The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can/'t achieve it.",
+      "quote": "The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can't achieve it.",
       "movie": "Wolf of the Wall Street",
+	  "type": "movie",
       "year": 2014
    },
    {
       "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
       "movie": "Interstellar",
+	  "type": "movie",
       "year": 2014
    },
    {
       "quote": "Come find me when you wake up!",
       "movie": "Edge Of Tomorrow",
+	  "type": "movie",
       "year": 2014
    },
    {
       "quote": "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.",
       "movie": "The Imitation Game",
+	  "type": "movie",
       "year": 2014
    },
    {
@@ -1312,28 +1315,31 @@
    {
       "quote": "We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.",
       "movie": "Interstellar",
+	  "type": "movie",
       "year": 2014
    },
    {
       "quote": "Not quite my tempo.",
       "movie": "Whiplash",
-      "type": "Movie",
+      "type": "movie",
       "year": 2014
    },
    {
       "quote": "But if you tame me, then we shall need each other, to me you shall be unique in all the world, to you i shall be unique.",
       "movie": "The Little Prince",
+	  "type": "movie",
       "year": 2015
    },
    {
       "quote": "You become responsible, forever, for everything you tamed.",
       "movie": "The Little Prince",
+	  "type": "movie",
       "year": 2015
    },
    {
       "quote": "Examined from another angle, your faults and weaknesses can be weapons",
       "movie": "Assassination classroom",
-      "type": "Anime",
+      "type": "anime",
       "year": 2015
    },
    {
@@ -1345,18 +1351,19 @@
    {
       "quote": "I don't have friends. I got family.",
       "movie": "Furious 7",
+	  "type": "movie",
       "year": 2015
    },
    {
       "quote": "I'm going to have to science the s*** out of this.",
       "movie": "The Martian",
-      "type": "Movie",
+      "type": "movie",
       "year": 2015
    },
    {
       "quote": "Power belongs to those who take it.",
       "movie": "Mr. Robot",
-      "type": "TV series",
+      "type": "tv",
       "year": 2015
    },
    {
@@ -1374,6 +1381,7 @@
    {
       "quote": "There’s no hiding from this, son.",
       "movie": "Dunkirk",
+	  "type": "movie",
       "year": 2017
    },
    {
@@ -1385,121 +1393,133 @@
    {
       "quote": "Unfortunately, we’re all human. Except me, of course.",
       "movie": "Mr.Robot",
+	  "type": "tv",
       "year": 2017
    },
    {
       "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
       "movie": "Transformers : The Light Night",
+	  "type": "movie",
       "year": 2017
    },
    {
       "quote": "Being a hero doesn't mean you are invincible. It just means you're brave enough to stand up, and do what's needed.",
-      "movie": "Two Heroes",
+      "movie": "My Hero Academia: Two Heroes",
+	  "type": "anime movie",
       "year": 2018
    },
    {
       "quote": "Just because something works doesn’t mean it can’t be improved.",
       "movie": "Black Panther",
+	  "type": "movie",
       "year": 2018
    },
    {
       "quote": "Being a hero doesn't mean you are invincible. It just means you're brave enough to stand up, and do what's needed.",
-      "movie": "Two Heroes",
+      "movie": "My Hero Academia: Two Heroes",
+	  "type": "anime movie",
       "year": "2018"
    },
    {
       "quote": "I just wanted to take another look at you.",
       "movie": "A Star Is Born",
+	  "type": "movie",
       "year": 2018
    },
    {
       "quote": "The hardest choices require the strongest wills",
       "movie": "Avengers: Infinity War",
+	  "type": "movie",
       "year": 2018
    },
    {
       "quote": "Change is like death. You don’t know what it looks like until you’re standing at the gates.",
       "movie": "Jurassic World: Fallen Kingdom",
+	  "type": "movie",
       "year": 2018
    },
    {
       "quote": "That’s one small step for man, one giant leap for mankind.",
-      "movie": "First man",
+      "movie": "First Man",
+	  "type": "movie",
       "year": 2018
    },
    {
       "quote": "Sometimes we think we have to do it all on our own. But we don’t.",
       "movie": "Creed 2",
+	  "type": "movie",
       "year": 2018
    },
    {
       "quote": "The darkest nights produce the brightest stars.",
       "movie": "Bumblebee",
+	  "type": "movie",
       "year": 2018
    },
    {
       "quote": "I can do this all day",
-      "movie": "Endgame",
+      "movie": "Avengers: Endgame",
+	  "type": "movie",
       "year": 2019
    },
    {
       "quote": "All I have are negative thoughts.",
       "movie": "Joker",
+	  "type": "movie",
       "year": 2019
    },
    {
-      "quote": "The worst part of having a mental illness is people expect you to behave as if you don't",
+      "quote": "The worst part of having a mental illness is people expect you to behave as if you don't.",
       "movie": "Joker",
-      "year": "2019"
+	  "type": "movie",
+      "year": 2019
    },
    {
       "quote": "Nothing is funnier than unhappiness, I grant you that… Yes, yes, it's the most comical thing in the world. And we laugh, we laugh, with a will, in the beginning. But it's always the same thing. Yes, it's like the funny story we have heard too often, we still find it funny, but we don't laugh any more.",
       "movie": "Endgame",
-      "year": 2019
+	  "type": "movie",
+      "year": 1989
    },
    {
       "quote": "I use the words you taught me. If they don't mean anything any more, teach me others. Or let me be silent.",
       "movie": "Endgame",
-      "year": 2019
+	  "type": "movie",
+      "year": 1989
    },
    {
       "quote": "The end is in the beginning and yet you go on.",
       "movie": "Endgame",
-      "year": 2019
-   },
-   {
-      "quote": "Nothing is funnier than unhappiness.",
-      "movie": "Endgame",
-      "year": 2019
+	  "type": "movie",
+      "year": 1989
    },
    {
       "quote": "I love you 3000.",
-      "movie": "Endgame",
-      "year": 2019
-   },
-   {
-      "quote": "You are my lighting rod",
-      "movie": "Endgame",
+      "movie": "Avengers: Endgame",
+	  "type": "movie",
       "year": 2019
    },
    {
       "quote": "My mother always tells me to smile and put on a happy face. She told me I had a purpose to bring laughter and joy to the world.",
       "movie": "Joker",
+	  "type": "movie",
       "year": 2019
    },
    {
       "quote": "I used to think that my life was a tragedy. But now I realize, it’s a comedy.",
       "movie": "Joker",
+	  "type": "movie",
       "year": 2019
    },
    {
       "quote": "Is it just me, or is it getting crazier out there?",
       "movie": "Joker",
+	  "type": "movie",
       "year": 2019
    },
    {
       "quote": "I am Iron Man",
-      "movie": "Endgame",
+      "movie": "Avengers: Endgame",
+	  "type": "movie",
       "year": 2019
    },
    {
