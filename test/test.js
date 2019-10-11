@@ -23,4 +23,13 @@ describe("data.json", () => {
 
         assert.equal(prevArray, output.length);
     });
+
+    it.only('check if quotes have desired formats', () => {
+        data.forEach(function(item) {
+            item.quote && assert.typeOf(item.quote, 'string');
+            item.movie && assert.typeOf(item.movie, 'string');
+            item.type && assert.typeOf(item.type, 'string');
+            item.year && assert.typeOf(item.year, 'number');
+        });
+    });
 });
