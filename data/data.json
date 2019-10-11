@@ -691,6 +691,12 @@
 		"year": 1994
 	},
 	{
+		"quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+		"movie": "Dumb and Dumber",
+		"type": "movie/comedy",
+		"year": 1994
+	},
+	{
 		"quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
 		"movie": "Forrest Gump",
 		"year": 1994
@@ -1634,6 +1640,12 @@
 	{
 		"quote": "If you ain't first, you're last.",
 		"movie": "Taladega Nights",
+		"type": "movie",
+		"year": 2006
+	},
+	{
+		"quote": "The world is your oyester. It's up to you to find the pearls.",
+		"movie": "The Pursuit of Happyness",
 		"type": "movie",
 		"year": 2006
 	},
@@ -2696,5 +2708,5 @@
 		"movie": "Deadpool",
 		"type": "movie",
 		"year": 2016
-	},
+	}
 ]
