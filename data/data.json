@@ -2708,6 +2708,24 @@
 		"movie": "Maleficent:The Mistress of Evil",
 		"type": "movie",
 		"year": 2019
+   },
+   {
+      "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+      "movie": "Ratatouille",
+      "type": "movie",
+      "year": 2007
+   },
+   {
+      "quote": "Florals? For Spring. Groundbreaking.",
+      "movie": "The Devil Wears Prada",
+      "type": "movie",
+      "year": 2006
+   },
+   {
+      "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+      "movie": "500 Days of Summer",
+      "type": "movie",
+      "year": 2009
 	},
 	{
 		"quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
