@@ -1,6 +1,7 @@
-const assert = require("chai").assert;
 const data = require("../data/data.json");
 const _ = require("lodash");
+
+const assert = require("chai").assert;
 
 describe("data.json", () => {
     it("should not contain duplicates ", () => {
