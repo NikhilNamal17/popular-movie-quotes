@@ -2720,11 +2720,18 @@
 		"movie": "Hook",
 		"type": "movie",
 		"year": 1991
-},
+	},
 	{
 		"quote":"You can’t buy love, but you can rent it for three minutes!",
 		"movie": "Deadpool",
 		"type": "movie",
 		"year": 2016
+	},
+	{
+		"quote":"You're need a bigger boat",
+		"movie": "Jaws",
+		"type": "movie",
+		"year": 1975
 	}
+
 ]
