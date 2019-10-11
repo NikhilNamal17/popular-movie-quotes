@@ -22,12 +22,6 @@
 		"year": 1931
 	},
 	{
-		"quote": "If you want to change things in a big way, then you gotta make some big changes.",
-		"movie": "Creed 2",
-		"type": "movie",
-		"year": 2018
-	},
-	{
 		"quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
 		"movie": "King Kong",
 		"type": "movie",
@@ -461,11 +455,6 @@
 		"year": 1985
 	},
 	{
-		"quote": "I feel the need - the need for speed!.",
-		"movie": "Top Gun",
-		"year": 1986
-	},
-	{
 		"quote": "Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.",
 		"movie": "Ferris Bueller's Day Off",
 		"year": 1986
@@ -699,12 +688,6 @@
 		"quote": "Hakuna matata",
 		"movie": "The Lion King",
 		"type": "movie",
-		"year": 1994
-	},
-	{
-		"quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
-		"movie": "Dumb and Dumber",
-		"type": "movie/comedy",
 		"year": 1994
 	},
 	{
@@ -1651,12 +1634,6 @@
 	{
 		"quote": "If you ain't first, you're last.",
 		"movie": "Taladega Nights",
-		"type": "movie",
-		"year": 2006
-	},
-	{
-		"quote": "The world is your oyester. It's up to you to find the pearls.",
-		"movie": "The Pursuit of Happyness",
 		"type": "movie",
 		"year": 2006
 	},
@@ -2713,150 +2690,11 @@
 		"movie": "Maleficent:The Mistress of Evil",
 		"type": "movie",
 		"year": 2019
-	},
+	}
 	{
-		"quote": "You expect me to talk? No, Mr Bond, I expect you to die!",
-		"movie": "Goldfinger",
+		"quote": "I am your father.",
+		"movie": "Star Wars Episode: V",
 		"type": "movie",
-		"year": 1964
-	},
-	{
-		"quote": "Once you meet someone, you never really forget them. It just takes a while for your memory to come back to you",
-		"movie": "Spirited Away",
-		"type": "movie",
-		"year": 2001
-   },
-   {
-      "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
-      "movie": "Ratatouille",
-      "type": "movie",
-      "year": 2007
-   },
-   {
-      "quote": "Florals? For Spring. Groundbreaking.",
-      "movie": "The Devil Wears Prada",
-      "type": "movie",
-      "year": 2006
-   },
-   {
-      "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
-      "movie": "500 Days of Summer",
-      "type": "movie",
-      "year": 2009
-   },
-   {
-      "quote": "You gonna eat your tots?",
-      "movie": "Napoleon Dynamite",
-      "type": "movie",
-      "year": 2004
-   },
-   {
-      "quote": "I have had it with these motherfuckin' snakes on this motherfuckin' plane!",
-      "movie": "Snakes on a Plane",
-      "type": "movie",
-      "year": 2006
-   },
-   {
-      "quote": "To me, you are perfect.",
-      "movie": "Love Actually",
-      "type": "movie",
-      "year": 2003
-   },
-   {
-      "quote": "For a guy with a four digit IQ, I must have missed something.",
-      "movie": "Limitless",
-      "type": "movie",
-      "year": 2011
-   },
-   {
-   "quote":"My tastes are very singular.",
-   "movie":"Fifty Shades of Grey ",
-   "type":"movie",
-   "year":2015
-   },
-   {
-   "quote":"No system is safe.",
-   "movie":"Who Am I",
-   "type":"movie",
-   "year":2014 
-}, 
-     {
-      "quote": "My tastes are very singular.",
-      "movie": "Fifty Shades of Grey ",
-      "type": "movie",
-      "year": 2015
-   },
-   {
-      "quote": "Party on, Wayne! Party on, Garth",
-      "movie": "Wayne's World",
-      "type": "movie",
-      "year": 1992
-   },
-   {
-      "quote": "Strange things are afoot at The Circle K.",
-      "movie": "Bill and Ted's Most Excellent Adventure",
-      "type": "movie",
-      "year": 1989
-
-   },
-   {
-      "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
-      "movie": "Game of Thrones Season 7",
-      "type": "movie",
-      "year": 2017
-	},
-	{
-		"quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
-		"movie": "Dead Poets Society",
-    "type": "movie",
-		"year": 1989
-},
-	{
-		"quote": "When you want something in life, you just gotta reach out and grab it.",
-		"movie": "Into the Wild",
-		"type": "movie",
-		"year": 2007
-	},
-	{
-		"quote": "...And I also know how important it is in life not necessarily to be strong but to feel strong. To measure yourself at least once. To find yourself at least once in the most ancient of human conditions. Facing the blind death stone alone, with nothing to help you but your hands and your own head",
-		"movie": "Into the Wild",
-		"type": "movie",
-		"year": 2007
-	},
-	{
-		"quote": "But when you forgive, you love. And when you love, God's light shines through you.",
-		"movie": "Into the Wild",
-		"type": "movie",
-		"year": 2007
-},
-	{
-		"quote": "And you'd better deliver, Miss Bell, or no amount of clapping will bring you back from where I will send you.",
-		"movie": "Hook",
-		"type": "movie",
-		"year": 1991
-	},
-	{
-		"quote": "You're a... you're a complex Freudian hallucination having something to do with my mother and I don't know why you have wings, but you have very lovely legs and you're a very nice tiny person and what am I saying? I don't know who my mother was. I'm an orphan and I've never taken drugs because I missed the sixties; I was an accountant.",
-		"movie": "Hook",
-		"type": "movie",
-		"year": 1991
-	},
-	{
-		"quote": "Hook, you let those kids out of that net in less than one minute or you better get an attorney and hope to God he's better than me.",
-		"movie": "Hook",
-		"type": "movie",
-		"year": 1991
-	},
-	{
-		"quote":"You can’t buy love, but you can rent it for three minutes!",
-		"movie": "Deadpool",
-		"type": "movie",
-		"year": 2016
-	},
-	{
-		"quote":"You're need a bigger boat",
-		"movie": "Jaws",
-		"type": "movie",
-		"year": 1975
+		"year": 1980
 	}
 ]
