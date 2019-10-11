@@ -2743,6 +2743,67 @@
       "movie": "500 Days of Summer",
       "type": "movie",
       "year": 2009
+   },
+   {
+      "quote": "You gonna eat your tots?",
+      "movie": "Napoleon Dynamite",
+      "type": "movie",
+      "year": 2004
+   },
+   {
+      "quote": "I have had it with these motherfuckin' snakes on this motherfuckin' plane!",
+      "movie": "Snakes on a Plane",
+      "type": "movie",
+      "year": 2006
+   },
+   {
+      "quote": "To me, you are perfect.",
+      "movie": "Love Actually",
+      "type": "movie",
+      "year": 2003
+   },
+   {
+      "quote": "For a guy with a four digit IQ, I must have missed something.",
+      "movie": "Limitless",
+      "type": "movie",
+      "year": 2011
+   },
+   {
+   "quote":"My tastes are very singular.",
+   "movie":"Fifty Shades of Grey ",
+   "type":"movie",
+   "year":2015
+   },
+   {
+   "quote":"No system is safe.",
+   "movie":"Who Am I",
+   "type":"movie",
+   "year":2014 
+}, 
+     {
+      "quote": "My tastes are very singular.",
+      "movie": "Fifty Shades of Grey ",
+      "type": "movie",
+      "year": 2015
+   },
+   {
+      "quote": "Party on, Wayne! Party on, Garth",
+      "movie": "Wayne's World",
+      "type": "movie",
+      "year": 1992
+   },
+   {
+      "quote": "Strange things are afoot at The Circle K.",
+      "movie": "Bill and Ted's Most Excellent Adventure",
+      "type": "movie",
+      "year": 1989
+
+   },
+   {
+      "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+      "movie": "Game of Thrones Season 7",
+      "type": "movie",
+      "year": 2017
 	},
 	{
 		"quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
