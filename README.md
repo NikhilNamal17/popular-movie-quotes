@@ -7,7 +7,7 @@
 
 [![NPM](https://nodei.co/npm/popular-movie-quotes.png?compact=true)](https://nodei.co/npm/popular-movie-quotes/)
 
-```
+```bash
 $ npm i popular-movie-quotes --save
 ```
 
@@ -110,6 +110,12 @@ $ npm test
 #### Karan Bhatt [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@KaranBhatt&color=9cf&logo=facebook&style=for-the-badge&logoColor=white&colorA=informational)](https://www.facebook.com/karan.bhatt.7524) [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@KaranBhatt&color=grey&logo=instagram&style=for-the-badge&logoColor=white&colorA=critical)](https://www.instagram.com/karanbhatt/) [![GitHub followers](https://img.shields.io/github/followers/ItachiHyuga.svg?label=Follow&style=for-the-badge&logo=github)](https://github.com/ItachiHyuga/)
 
 #### Rishabh Kanojia [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@RishabhKanojia&color=9cf&logo=facebook&style=for-the-badge&logoColor=white&colorA=informational)](https://www.facebook.com/rishabh.kanojiya.18) [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@RishabhKanojia&color=grey&logo=instagram&style=for-the-badge&logoColor=white&colorA=critical)](https://www.instagram.com/rishabhkanojiya/) [![GitHub followers](https://img.shields.io/github/followers/rishabhkanojiya.svg?label=Follow&style=for-the-badge&logo=github)](https://github.com/rishabhkanojiya/)
+
+## Support me on [Buy Me A Coffee](https://www.buymeacoffee.com/nikhilnamal)
+Hey! Help me out with a couple of coffee!
+
+
+<a href="https://www.buymeacoffee.com/nikhilnamal" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 <hr>
 
