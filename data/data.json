@@ -2690,5 +2690,11 @@
 		"movie": "Maleficent:The Mistress of Evil",
 		"type": "movie",
 		"year": 2019
-	}
+	},
+	{
+		"quote":"You can’t buy love, but you can rent it for three minutes!",
+		"movie": "Deadpool",
+		"type": "movie",
+		"year": 2016
+	},
 ]
