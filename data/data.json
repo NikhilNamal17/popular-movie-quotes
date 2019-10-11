@@ -2839,5 +2839,17 @@
       "movie": "It Chapter Two",
       "type": "movie",
       "year": 2019
+   },
+   {
+      "quote": "I used to use this little gun when I was a prostitute.",
+      "movie": "Pineapple Express",
+      "type": "movie",
+      "year": 2008
+   },
+   {
+      "quote": "Fuck them kids",
+      "movie": "Soul men",
+      "type": "moveie",
+      "year": 2008
    }
 ]
