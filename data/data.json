@@ -691,6 +691,12 @@
 		"year": 1994
 	},
 	{
+		"quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+		"movie": "Dumb and Dumber",
+		"type": "movie/comedy",
+		"year": 1994
+	},
+	{
 		"quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
 		"movie": "Forrest Gump",
 		"year": 1994
@@ -1634,6 +1640,12 @@
 	{
 		"quote": "If you ain't first, you're last.",
 		"movie": "Taladega Nights",
+		"type": "movie",
+		"year": 2006
+	},
+	{
+		"quote": "The world is your oyester. It's up to you to find the pearls.",
+		"movie": "The Pursuit of Happyness",
 		"type": "movie",
 		"year": 2006
 	},
@@ -2708,5 +2720,47 @@
       "movie": "500 Days of Summer",
       "type": "movie",
       "year": 2009
-   }
+	},
+	{
+		"quote": "When you want something in life, you just gotta reach out and grab it.",
+		"movie": "Into the Wild",
+		"type": "movie",
+		"year": 2007
+	},
+	{
+		"quote": "...And I also know how important it is in life not necessarily to be strong but to feel strong. To measure yourself at least once. To find yourself at least once in the most ancient of human conditions. Facing the blind death stone alone, with nothing to help you but your hands and your own head",
+		"movie": "Into the Wild",
+		"type": "movie",
+		"year": 2007
+	},
+	{
+		"quote": "But when you forgive, you love. And when you love, God's light shines through you.",
+		"movie": "Into the Wild",
+		"type": "movie",
+		"year": 2007
+},
+	{
+		"quote": "And you'd better deliver, Miss Bell, or no amount of clapping will bring you back from where I will send you.",
+		"movie": "Hook",
+		"type": "movie",
+		"year": 1991
+	},
+	{
+		"quote": "You're a... you're a complex Freudian hallucination having something to do with my mother and I don't know why you have wings, but you have very lovely legs and you're a very nice tiny person and what am I saying? I don't know who my mother was. I'm an orphan and I've never taken drugs because I missed the sixties; I was an accountant.",
+		"movie": "Hook",
+		"type": "movie",
+		"year": 1991
+	},
+	{
+		"quote": "Hook, you let those kids out of that net in less than one minute or you better get an attorney and hope to God he's better than me.",
+		"movie": "Hook",
+		"type": "movie",
+		"year": 1991
+},
+	{
+		"quote":"You can’t buy love, but you can rent it for three minutes!",
+		"movie": "Deadpool",
+		"type": "movie",
+		"year": 2016
+	}
 ]
