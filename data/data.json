@@ -311,6 +311,18 @@
       "year": 1987
    },
    {
+      "quote": "Inconcievable!",
+      "movie": "The Princess Bride",
+      "type": "movie",
+      "year": 1987
+   },
+   {
+      "quote": "As you wish...",
+      "movie": "The Princess Bride",
+      "type": "movie",
+      "year": 1987
+   },
+   {
       "quote": "Snap out of it!",
       "movie": "Moonstruck",
       "type": "movie",
@@ -1910,5 +1922,11 @@
       "movie": "The Simpsons Movie",
       "type": "movie",
       "year": 2007
+  },
+   {
+      "quote": "I'm your Huckleberry.",
+      "movie": "Tombstone",
+      "type": "movie",
+      "year": 1993
    }
 ]

@@ -77,9 +77,13 @@ $ npm i popular-movie-quotes --save
 ]
 ```
 
--   **getRandomQuote()** method returns a random **movie** quote : _`I used to think that my life was a tragedy. But now I realize, it’s a comedy.`_
+-   **getRandomQuote()** method returns a random **movie** quote :
 
-*   **getQuotesByMovie("MovieName")** method returns an array with all quotes of MovieName movie, else returns empty.
+```javascript
+I used to think that my life was a tragedy. But now I realize, it’s a comedy.
+```
+
+-   **getQuotesByMovie("MovieName")** method returns an array with all quotes of MovieName movie, else returns empty.
 
 ```json
 [
@@ -101,10 +105,11 @@ console.log(movieQuote.getSomeRandom(10)); // returns an object of 10 random quo
 
 console.log(movieQuote.getRandomQuote()); // returns a random quote
 
-console.log(movieQuote.getQuoteByYear(2000, 2019)); // returns a sorted object within the range of year 2000 -2019
+console.log(movieQuote.getQuoteByYear(2000, 2019)); // returns a sorted object within
+// the range of year 2000-2019
 
-console.log(movieQuote.getQuotesByMovie("Joker")); //If present returns and array with all quotes of joker movie,
-//else returns empty.
+console.log(movieQuote.getQuotesByMovie("Joker")); //If present returns and array
+// with all quotes of joker movie, else returns empty.
 ```
 
 ## Testing
