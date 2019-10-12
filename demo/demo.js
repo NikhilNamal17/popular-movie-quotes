@@ -7,3 +7,6 @@ console.log(movieQuote.getSomeRandom(10)); // returns an object of 10 random quo
 console.log(movieQuote.getRandomQuote()); // returns a random quote
 
 console.log(movieQuote.getQuoteByYear(2000, 2019)); // returns a sorted object within the range of year 2000 -2019
+
+console.log(movieQuote.getQuotesByMovie("Joker")); //If present returns and array with all quotes of joker movie,
+//else returns empty.
