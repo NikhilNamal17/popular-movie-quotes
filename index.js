@@ -33,7 +33,7 @@ const getSomeRandom = count => {
     return randomQuotesArray;
 };
 
-const getQuoteByMovie = quote => {
+const getQuotesByMovie = quote => {
     let resultArray = [];
     quote = quote.toLowerCase();
     array.forEach(item => {
@@ -55,7 +55,5 @@ module.exports = {
     getRandomQuote,
     getSomeRandom,
     getQuoteByYear,
-    getQuoteByMovie
+    getQuotesByMovie
 };
-
-console.log(getQuoteByMovie("Joker"));
