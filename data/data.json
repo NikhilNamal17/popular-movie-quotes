@@ -1905,5 +1905,11 @@
       "movie": "Joker",
       "type": "movie",
       "year": 2019
+   },
+   {
+      "quote": "I'm your Huckleberry.",
+      "movie": "Tombstone",
+      "type": "movie",
+      "year": 1993
    }
 ]
