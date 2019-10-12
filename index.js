@@ -18,7 +18,6 @@ const getQuoteByYear = (start, end) => {
 
 const getRandomQuote = () => {
     let randNum = randomNum();
-
     return array[randNum].quote;
 };
 
@@ -34,6 +33,19 @@ const getSomeRandom = count => {
     return randomQuotesArray;
 };
 
+const getQuoteByMovie = quote => {
+    let resultArray = [];
+    quote = quote.toLowerCase();
+    array.forEach(item => {
+        item.movie = item.movie.toLowerCase();
+        if (item.movie && item.movie === quote) {
+            resultArray.push(item);
+        }
+    });
+
+    return resultArray;
+};
+
 const getAll = () => {
     return array;
 };
@@ -42,5 +54,8 @@ module.exports = {
     getAll,
     getRandomQuote,
     getSomeRandom,
-    getQuoteByYear
+    getQuoteByYear,
+    getQuoteByMovie
 };
+
+console.log(getQuoteByMovie("Joker"));
