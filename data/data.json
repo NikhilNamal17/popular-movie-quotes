@@ -2839,11 +2839,17 @@
       "movie": "It Chapter Two",
       "type": "movie",
       "year": 2019
-   }
+   },
    {
       "quote": "No, no. I'm fine. Just wish I were dead, that's all.",
       "movie": "Gentleman's Agreement",
       "type": "movie",
       "year": 1947
+   },
+   {
+      "quote": "I just hope my death makes more cents than my life.",
+      "movie": "Joker",
+      "type": "movie",
+      "year": 2019
    }
 ]
