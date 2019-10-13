@@ -35,6 +35,7 @@
     },
     "author": "Nikhil N Namal <nikhilnamal16@mail.com>",
     "license": "MIT",
+     "homepage": "https://nikhilnamal17.github.io/popular-movie-quotes/",
     "devDependencies": {
         "chai": "^4.2.0",
         "lodash": "^4.17.15",
