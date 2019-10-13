@@ -23,7 +23,7 @@ describe("data.json", () => {
         assert.equal(prevArrayLen, newArray.length);
     });
 
-    it.only('check if quotes have desired formats', () => {
+    it('check if quotes have desired formats', () => {
         data.forEach(function(item) {
             item.quote && assert.typeOf(item.quote, 'string');
             item.movie && assert.typeOf(item.movie, 'string');
