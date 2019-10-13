@@ -1,4 +1,4 @@
-const data = require("../data/data.json");
+let data = require("../data/data.json");
 const _ = require("lodash");
 
 const assert = require("chai").assert;
@@ -18,10 +18,9 @@ describe("data.json", () => {
             });
             return cleaned;
         }
-        var output = arrUnique(data);
-        var prevArray = data.length;
-
-        assert.equal(prevArray, output.length);
+        var prevArrayLen = data.length;
+        var newArray = arrUnique(data);
+        assert.equal(prevArrayLen, newArray.length);
     });
 
     it.only('check if quotes have desired formats', () => {
