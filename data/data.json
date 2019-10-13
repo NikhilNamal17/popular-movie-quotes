@@ -1927,8 +1927,16 @@
    {
       "quote": " Spider-Pig, Spider-Pig. Does whatever a Spider-Pig does. Can he swing from a web? No he can't, he's a pig. Look out! He is a Spider-Pig!",
       "movie": "The Simpsons Movie",
-      "type": "movie",
-      "year": 2007
+      "type":,
+      "year": 2019
+   },
+{
+
+       "quote" : "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+       "movie" : "X-men",
+       "type" : "movie",
+        "year" : 2000
+
   },
    {
       "quote": "I'm your Huckleberry.",
