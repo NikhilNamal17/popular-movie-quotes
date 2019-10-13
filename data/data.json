@@ -1929,5 +1929,11 @@
       "movie": "Tombstone",
       "type": "movie",
       "year": 1993
+   },
+   {
+      "quote": "Once in a while when I wake up. I find myself crying.",
+      "movie": "Kimi No Nawa",
+      "type": "movie",
+      "year": 2016
    }
 ]
