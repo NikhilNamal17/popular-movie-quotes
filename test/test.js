@@ -22,4 +22,13 @@ describe("data.json", () => {
         var newArray = arrUnique(data);
         assert.equal(prevArrayLen, newArray.length);
     });
+
+    it('check if quotes have desired formats', () => {
+        data.forEach(function(item) {
+            item.quote && assert.typeOf(item.quote, 'string');
+            item.movie && assert.typeOf(item.movie, 'string');
+            item.type && assert.typeOf(item.type, 'string');
+            item.year && assert.typeOf(item.year, 'number');
+        });
+    });
 });
