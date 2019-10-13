@@ -1,4 +1,4 @@
-const data = require("../data/data.json");
+let data = require("../data/data.json");
 const _ = require("lodash");
 
 const assert = require("chai").assert;
@@ -18,9 +18,17 @@ describe("data.json", () => {
             });
             return cleaned;
         }
-        var output = arrUnique(data);
-        var prevArray = data.length;
+        var prevArrayLen = data.length;
+        var newArray = arrUnique(data);
+        assert.equal(prevArrayLen, newArray.length);
+    });
 
-        assert.equal(prevArray, output.length);
+    it('check if quotes have desired formats', () => {
+        data.forEach(function(item) {
+            item.quote && assert.typeOf(item.quote, 'string');
+            item.movie && assert.typeOf(item.movie, 'string');
+            item.type && assert.typeOf(item.type, 'string');
+            item.year && assert.typeOf(item.year, 'number');
+        });
     });
 });
