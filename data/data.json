@@ -68,6 +68,18 @@
    {
       "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
       "movie": "8 1⁄2 ",
+      "year": 1963,
+      "director": "Federico Fellini"
+   },
+   {
+     "quote":  "May the Force be with you.", 
+      "movie": "Star Wars",
+      "type": "movie",
+      "year": 1977,
+   },
+   {
+      "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+      "movie": "8 1⁄2 ",
       "type": "movie",
       "year": 1963
    },
