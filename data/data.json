@@ -2093,11 +2093,6 @@
     "year": 2014
   },
   {
-    "quote": "Walk that walk and go forward all the time. Don't just talk that talk, walk it and go forward. Also, the walk didn't have to be long strides; baby steps counted too. Go forward.",
-    "movie": "The Pursuit of Happyness",
-    "type": "Movie",
-    "year": 2006
-  }
     "quote": " I feel the need!!!! The need for speed!!!!",
     "movie":"Top Gun",
     "type": "movie",
@@ -2109,5 +2104,10 @@
       "type": "movie",
       "year": 2005
   },
-
+  {
+      "quote": "It’s just a flesh wound.",
+      "movie": "Monty Python and the Holy Grail",
+      "type": "movie",
+      "year": 1975
+  },
 ]
