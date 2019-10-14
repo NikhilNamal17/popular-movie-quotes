@@ -2210,5 +2210,12 @@
     "movie": "Mean Girls",
     "type": "movie",
     "year": 2004
+  },
+ 
+  {
+    "quote": "Frankly, my dear, I don't give a damn.",
+    "movie": "Gone with the wind",
+    "type": "movie",
+    "year": "1939",
   }
 ]
