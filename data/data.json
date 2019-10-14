@@ -1679,6 +1679,12 @@
     "year": 2015
   },
   {
+    "quote": "Like the oldman said, together",
+    "movie": "Avengers - Age of Ultron",
+    "type": "movie",
+    "year": 2015
+  },
+  {
     "quote": "You can’t buy love, but you can rent it for three minutes!",
     "movie": "Deadpool",
     "type": "movie",
@@ -2068,6 +2074,11 @@
     "type": "movie",
     "year": 2019
   },
+  {
+    "quote": "That's MotherF****** street poetic justice",
+    "movie": "Shaft",
+    "type": "movie",
+    "year": 2019
   {
     "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
     "movie": "Juno",
