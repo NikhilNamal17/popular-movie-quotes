@@ -2134,7 +2134,7 @@
     "type": "movie",
     "year": "2012"
   },
-  
+
   {
     "quote": "Never rat on your friends and always keep your mouth shut",
     "movie": "Goodfellas",
@@ -2190,6 +2190,13 @@
     "type": "movie",
     "year": "2000"
   },
+
+  {
+    "quote": "Yeah. Well, you’re right. I thought it was more important to be somebody out there than the damn failure I was here at my own home. Anyway, for what it’s worth, I’m here now.",
+    "movie": "The Mule",
+    "type": "movie",
+    "year": "2018"
+  }
 
 
 
