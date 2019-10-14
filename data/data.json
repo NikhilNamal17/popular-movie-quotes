@@ -926,6 +926,12 @@
     "year": 2003
   },
   {
+    "quote": "Just keep swimming.",
+    "movie": "Finding Nemo",
+    "type": "movie",
+    "year": 2003
+  },
+  {
     "quote": "I want to play a game.",
     "movie": "Saw",
     "type": "movie",
@@ -2092,4 +2098,16 @@
     "type": "Movie",
     "year": 2006
   }
+    "quote": " I feel the need!!!! The need for speed!!!!",
+    "movie":"Top Gun",
+    "type": "movie",
+    "year": 1986,
+  },
+  {
+      "quote": "And a hero is a person who resigns to be forgotten as we forget the dead for revolution.",
+      "movie": "Gie",
+      "type": "movie",
+      "year": 2005
+  },
+
 ]
