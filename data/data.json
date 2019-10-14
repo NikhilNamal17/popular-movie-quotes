@@ -2115,5 +2115,72 @@
       "movie": "Monty Python and the Holy Grail",
       "type": "movie",
       "year": 1975
-  }
+  },
+
+  {
+    "quote": "Ah you think darkness is your ally? You merely adopted the dark. I was born in it, molded by it. I didn't see the light until I was already a man, by then it was nothing to me but blinding",
+    "movie": "Dark Knight Rises",
+    "type": "movie",
+    "year": "2012"
+  },
+  
+  {
+    "quote": "Never rat on your friends and always keep your mouth shut",
+    "movie": "Goodfellas",
+    "type": "movie",
+    "year": "1990"
+  },
+
+  {
+    "quote": "I’m funny how?  Funny, like, I’m a clown?  I amuse you?",
+    "movie": "Goodfellas",
+    "type": "movie",
+    "year": "1990"
+  },
+
+  {
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "movie": "Magic Mike",
+    "type": "movie",
+    "year": "2012"
+  },
+
+  {
+    "quote": "You had my curiosity. But now you have my attention.",
+    "movie": "Django Unchained",
+    "type": "movie",
+    "year": "2012"
+  },
+
+  {
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "movie": "Talledega Nights: The Ballad of Ricky Bobby",
+    "type": "movie",
+    "year": "2006"
+  },
+
+  {
+    "quote": "Is this your king?",
+    "movie": "Black Panther",
+    "type": "movie",
+    "year": "2018"
+  },
+
+  {
+    "quote": "You shall not pass",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "type": "movie",
+    "year": "2001"
+  },
+
+  {
+    "quote": "Are you not entertained?",
+    "movie": "Gladiator",
+    "type": "movie",
+    "year": "2000"
+  },
+
+
+
+
 ]
