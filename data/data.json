@@ -2061,5 +2061,23 @@
     "movie": "Dragon Ball Super: Broly",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "movie": "Juno",
+    "type": "movie",
+    "year": 2007
+  },
+  {
+    "quote": "Hodor",
+    "movie": "Game of Thrones",
+    "type": "movie",
+    "year": 2011
+  },
+  {
+    "quote": "A Lannister always pays his debts",
+    "movie": "Game of Thrones",
+    "type": "movie",
+    "year": 2011
   }
 ]
