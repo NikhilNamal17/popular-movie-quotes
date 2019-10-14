@@ -2092,5 +2092,11 @@
     "type": "movie",
     "year": 1986,
   },
+  {  
+      "quote": "And a hero is a person who resigns to be forgotten as we forget the dead for revolution.",
+      "movie": "Gie",
+      "type": "movie",
+      "year": 2005
+  },
   
 ]
