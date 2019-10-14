@@ -2211,11 +2211,18 @@
     "type": "movie",
     "year": 2004
   },
- 
+
   {
     "quote": "Frankly, my dear, I don't give a damn.",
     "movie": "Gone with the wind",
     "type": "movie",
     "year": "1939",
+  },
+
+  {
+    "quote": "What we've got here is a failure to communicate.",
+    "movie": "Cool Hand Luke",
+    "type": "movie",
+    "year": "1967",
   }
 ]
