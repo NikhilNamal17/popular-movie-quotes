@@ -2295,5 +2295,17 @@
       "movie": "The Snatch",
       "type": "movie",
       "year": 2001
+   },
+   {
+      "quote": "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain.",
+      "movie": "Blade Runner",
+      "type": "movie",
+      "year": 1982
+   },
+   {
+      "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+      "movie": "The Lord of The Rings - The Fellowship of the Ring",
+      "type": "movie",
+      "year": 2001
    }
 ]
