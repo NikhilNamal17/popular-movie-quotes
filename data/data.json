@@ -2397,5 +2397,11 @@
     "movie": "Ironman 3",
     "type": "movie",
     "year": 2013
-  }
+  },
+  {
+   "quote": "People who can’t throw something important away, can never hope to change anything.",
+   "movie": "Attack on Titan",
+   "type": "Anime",
+   "year": 2013
+ }
 ]
