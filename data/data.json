@@ -2343,5 +2343,59 @@
       "movie": "The Lord of The Rings - The Fellowship of the Ring",
       "type": "movie",
       "year": 2001
-   }
+   },
+   {
+      "quote": "You're really lucky, you know that? You didn't have to wait your whole life to do something special.",
+      "movie": "El Camino",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "Dude, you are on fire.",
+      "movie": "El Camino",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "So many times in my life I screwed up: I've talked when I should've listened, I've been harsh when I should've been tender.",
+      "movie": "Ad Astra",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "Well, how carefully should I tread? Because apparently I just killed two people, and you were about to let me walk right out that door! How MISGUIDED are you? I feed you a couple of bullshit legal precedents, and there you go - you jump on it like a bitch in heat.",
+      "movie": "Law Abiding Citizen",
+      "type": "movie",
+      "year": 2009
+   },
+   {
+      "quote": "You've ever been to Del Frisco's? They cater, so for lunch I would love a twenty ounce porterhouse steak, medium maybe a little charred, with all the trimmings pommes frites, asparagus, and butter squash.",
+      "movie": "Law Abiding Citizen",
+      "type": "movie",
+      "year": 2009
+   },
+   {
+      "quote": "No, I shot him. Bullets and the fall killed him.",
+      "movie": "Collateral",
+      "type": "movie",
+      "year": 2004
+   },
+   {
+      "quote": "That's not how the force works!",
+      "movie": "Star Wars: Episode VII - The Force Awakens",
+      "type": "movie",
+      "year": 2015
+   },
+   {
+    "quote": "Following's not really my style.",
+    "movie": "Marvel's The Avengers",
+    "type": "movie",
+    "year": 2012
+  },
+  {
+    "quote": "Sometimes you gotta run before you can walk",
+    "movie": "Ironman 3",
+    "type": "movie",
+    "year": 2013
+  }
 ]
