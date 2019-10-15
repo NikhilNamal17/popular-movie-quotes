@@ -2333,6 +2333,12 @@
       "year": 2001
    },
    {
+      "quote": "Father Dyer: My idea of Heaven is a solid white nightclub with me as a headliner for all eternity, and they LOVE me!!",
+      "movie": "The Exorcist",
+      "type": "movie",
+      "year": 1973
+ },
+ {
       "quote": "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain.",
       "movie": "Blade Runner",
       "type": "movie",
@@ -2429,6 +2435,12 @@
    "year": 2019
  },
  {
+   "quote": "I solemnly swear that I am up to no good.",
+   "movie": "Harry Potter and the Prisoner of Azkaban",
+   "type": "movie",
+   "year": 2004
+ },
+ {
    "quote": "There is no punchline.",
    "movie": "Joker",
    "type": "movie",
@@ -2451,5 +2463,11 @@
    "movie": "Rick and Morty Season 1",
    "type": "TV",
    "year": 2014
- }
+ },
+ {
+   "quote": "If we admit that human life can be ruled by reason, then all possibility of life is destroyed.",
+   "movie": "Into the Wild",
+   "type": "movie",
+   "year": 2007
+}
 ]
