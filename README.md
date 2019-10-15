@@ -149,8 +149,3 @@ Hey! Help me out with a couple of coffee!
 <hr>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/NikhilNamal17/popular-movie-quotes/badge.svg?style=beer-square)](https://beerpay.io/NikhilNamal17/popular-movie-quotes)  [![Beerpay](https://beerpay.io/NikhilNamal17/popular-movie-quotes/make-wish.svg?style=flat-square)](https://beerpay.io/NikhilNamal17/popular-movie-quotes?focus=wish)
