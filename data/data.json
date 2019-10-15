@@ -2403,5 +2403,17 @@
     "movie": "Rick and Morty Season 1",
     "type": "TV",
     "year": 2014
-  }
+  },
+  {
+   "quote": "You must unlearn what you have learned",
+   "movie": "Star Wars: Episode V - The Empire Strikes Back",
+   "type": "movie",
+   "year": 1980
+ },
+ {
+   "quote": "Is it just me, or is it getting crazier out there?’",
+   "movie": "Joker",
+   "type": "movie",
+   "year": 2019
+ }
 ]
