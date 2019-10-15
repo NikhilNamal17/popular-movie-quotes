@@ -2307,5 +2307,17 @@
       "movie": "The Lord of The Rings - The Fellowship of the Ring",
       "type": "movie",
       "year": 2001
+   },
+   {
+      "quote": "You're really lucky, you know that? You didn't have to wait your whole life to do something special.",
+      "movie": "El Camino",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "Dude, you are on fire.",
+      "movie": "El Camino",
+      "type": "movie",
+      "year": 2019
    }
 ]
