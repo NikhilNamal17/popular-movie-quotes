@@ -2343,5 +2343,11 @@
       "movie": "Collateral",
       "type": "movie",
       "year": 2004
+   },
+   {
+      "quote": "That's not how the force works!",
+      "movie": "Star Wars: Episode VII - The Force Awakens",
+      "type": "movie",
+      "year": 2015
    }
 ]
