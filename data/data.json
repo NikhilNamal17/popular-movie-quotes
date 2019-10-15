@@ -2217,5 +2217,18 @@
     "movie": "Casablanca",
     "type": "movie",
     "year": 1942
+  },
+  {
+    "quote": "Some infinities are bigger than other infinities.",
+    "movie": "The Fault in our stars",
+    "type" : "movie",
+    "year" : 2014
+  },
+  {
+    "quote": "I'm on a Roller-coaster that only goes up, My friend",
+    "movie": "The Fault in our stars",
+    "type" : "movie",
+    "year" : 2014
   }
+
 ]
