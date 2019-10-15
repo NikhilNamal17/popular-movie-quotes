@@ -2451,5 +2451,11 @@
    "movie": "The Matrix",
    "type": "movie",
    "year": 1999
- }
+ },
+ {
+   "quote": "If we admit that human life can be ruled by reason, then all possibility of life is destroyed.",
+   "movie": "Into the Wild",
+   "type": "movie",
+   "year": 2007
+}
 ]
