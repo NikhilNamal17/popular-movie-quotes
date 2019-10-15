@@ -18,6 +18,12 @@
       "year": 2012
    },
    {
+      "quote": "There is no such thing as magic, just illusion. Things only change when we change them. But you have to do it skillfully, in secret. Then it seems like magic.",
+      "movie": "Dark",
+      "type": "tv",
+      "year": 2018
+   },
+   {
       "quote": "I'm a huge fan of the way you lose control and turn into an enormous green rage monster.",
       "movie": "The Avengers",
       "type": "movie",
@@ -2451,18 +2457,6 @@
    "movie": "The Matrix",
    "type": "movie",
    "year": 1999
- },
- {
-   "quote": "I'm Pickle Rick!",
-   "movie": "Rick and Morty Season 3",
-   "type": "TV",
-   "year": 2017
- },
- {
-   "quote": "Hey, I'm Mr. Meeseeks. Look at me!",
-   "movie": "Rick and Morty Season 1",
-   "type": "TV",
-   "year": 2014
  },
  {
    "quote": "If we admit that human life can be ruled by reason, then all possibility of life is destroyed.",
