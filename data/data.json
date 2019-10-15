@@ -2349,5 +2349,17 @@
       "movie": "Star Wars: Episode VII - The Force Awakens",
       "type": "movie",
       "year": 2015
-   }
+   },
+   {
+    "quote": "Following's not really my style.",
+    "movie": "Marvel's The Avengers",
+    "type": "movie",
+    "year": 2012
+  },
+  {
+    "quote": "Sometimes you gotta run before you can walk",
+    "movie": "Ironman 3",
+    "type": "movie",
+    "year": 2013
+  }
 ]
