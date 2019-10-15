@@ -2453,6 +2453,18 @@
    "year": 1999
  },
  {
+   "quote": "I'm Pickle Rick!",
+   "movie": "Rick and Morty Season 3",
+   "type": "TV",
+   "year": 2017
+ },
+ {
+   "quote": "Hey, I'm Mr. Meeseeks. Look at me!",
+   "movie": "Rick and Morty Season 1",
+   "type": "TV",
+   "year": 2014
+ },
+ {
    "quote": "If we admit that human life can be ruled by reason, then all possibility of life is destroyed.",
    "movie": "Into the Wild",
    "type": "movie",
