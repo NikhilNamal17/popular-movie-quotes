@@ -2229,6 +2229,17 @@
     "movie": "The Fault in our stars",
     "type" : "movie",
     "year" : 2014
+  },
+  {
+    "quote": "You don't turn your back on family, Even when they do",
+    "movie": "The Fast and The Furious 8",
+    "type" : "movie",
+    "year" : 2013
+  },
+  {
+    "quote": "No amount of money ever bought a second of time",
+    "movie": "Avengers Endgame",
+    "type" : "movie",
+    "year" : 2019
   }
-
 ]
