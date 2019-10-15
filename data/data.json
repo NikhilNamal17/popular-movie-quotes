@@ -2411,9 +2411,15 @@
    "year": 1980
  },
  {
+    "quote": "Bright day uh, Bright Boy?",
+    "movie": "Django Unchained",
+    "type": "movie",
+    "year": 2012
+ },
+ {
    "quote": "Is it just me, or is it getting crazier out there?’",
    "movie": "Joker",
    "type": "movie",
-   "year": 2019
+   "year": 201
  }
 ]
