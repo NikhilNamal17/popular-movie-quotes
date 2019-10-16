@@ -2493,12 +2493,18 @@
    "movie": "Up",
    "type": "movie",
    "year": 2009
-}
+},
 {
    "quote": "It's only after we've lost everything that we're free to do anything.",
    "movie": "Fight Club",
    "type": "movie",
    "year": 1999
+},
+{
+   "quote": "We've all got both light and darkness inside us. What matters is the part we choose to act on. That's who we really are.",
+   "movie": "Harry Potter and the Order of the Phoenix",
+   "type": "movie",
+   "year": 2007
 }
 {
    "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am."
