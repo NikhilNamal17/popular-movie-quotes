@@ -1,4 +1,4 @@
-[
+﻿[
    {
       "quote": "Listen to them. Children of the night. What music they make.",
       "movie": "Dracula",
@@ -2505,5 +2505,11 @@
       "movie": "Us",
       "type": "movie",
       "year": 2019
+   },
+    {
+      "quote": " That's what i do, i drink and i know things.",
+      "movie": "Game of thrones ",
+      "type": "tv",
+      "year": 2012-2019
    }
 ]
