@@ -2463,5 +2463,35 @@
    "movie": "Into the Wild",
    "type": "movie",
    "year": 2007
+},
+{
+   "quote": "There's a benefit to losing: You get to learn from your mistakes.",
+   "movie": "Megamind",
+   "type": "movie",
+   "year": 2010
+},
+{
+   "quote": "Your identity is your most valuable possession. Protect it.",
+   "movie": "The Incredibles",
+   "type": "movie",
+   "year": 2004
+},
+{
+   "quote": "There is no secret ingredient. It’s just you.",
+   "movie": "Kung Fu Panda",
+   "type": "movie",
+   "year": 2008
+},
+{
+   "quote": "Float like a cadillac sting like a beemer.",
+   "movie": "Cars",
+   "type": "movie",
+   "year": 2006
+},
+{
+   "quote": "Adventure is out there",
+   "movie": "Up",
+   "type": "movie",
+   "year": 2009
 }
 ]
