@@ -2499,6 +2499,12 @@
    "movie": "Fight Club",
    "type": "movie",
    "year": 1999
-}
+},
+{
+   "quote": "Rosebud",
+   "movie": "Citizen Kane"
+   "type": "movie"
+   "year": 1941
+}  
 ]
 
