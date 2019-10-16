@@ -2505,5 +2505,11 @@
       "movie": "Us",
       "type": "movie",
       "year": 2019
+   },
+   {  
+      "quote": "Mama says stupid is as stupid does",
+      "movie": "Forrest Gump",
+      "type": "movie",
+      "year": 1994
    }
 ]
