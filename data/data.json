@@ -2439,5 +2439,11 @@
    "movie": "The Matrix",
    "type": "movie",
    "year": 1999
+ },
+ {
+   "quote": "The battle of Helm's Deep is over; the battle for Middle Earth is about to begin. ",
+   "movie": "The lord of the rings: the two towers",
+   "type": "movie",
+   "year": 2002
  }
 ]
