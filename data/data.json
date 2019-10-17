@@ -2505,5 +2505,17 @@
       "movie": "Us",
       "type": "movie",
       "year": 2019
+   },
+   {
+      "quote": "You never would have come here unless you believed you were going to save them. Evolution has yet to transcend that simple barrier. We can care deeply - selflessly - about those we know, but that empathy rarely extends beyond our line of sight.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "A machine doesn't improvise well because you cannot program a fear of death. Our survival instinct is our greatest source of inspiration.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
    }
 ]
