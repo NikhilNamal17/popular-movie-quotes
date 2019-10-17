@@ -2645,6 +2645,72 @@
       "year": 2019
    },
    {
+    "quote": "Following's not really my style.",
+    "movie": "Marvel's The Avengers",
+    "type": "movie",
+    "year": 2012
+  },
+  {
+    "quote": "Sometimes you gotta run before you can walk",
+    "movie": "Ironman 3",
+    "type": "movie",
+    "year": 2013
+  },
+  {
+   "quote": "People who can’t throw something important away, can never hope to change anything.",
+   "movie": "Attack on Titan",
+   "type": "Anime",
+   "year": 2013
+  },
+  {
+    "quote": "Having a family doesn’t mean that you stop being an individual. You know the best thing you can do for the people that depend on you? Be honest with them, even if it means setting them free.",
+    "movie": "Rick and Morty Season 1",
+    "type": "TV",
+    "year": 2014
+  },
+  {
+   "quote": "You must unlearn what you have learned",
+   "movie": "Star Wars: Episode V - The Empire Strikes Back",
+   "type": "movie",
+   "year": 1980
+ },
+ {
+    "quote": "Bright day uh, Bright Boy?",
+    "movie": "Django Unchained",
+    "type": "movie",
+    "year": 2012
+ },
+ {
+   "quote": "There is no punchline.",
+   "movie": "Joker",
+   "type": "movie",
+   "year": 2019
+ },
+ {
+   "quote": "Unfortunately, no one can be told what the Matrix is. You have to see it for yourself.",
+   "movie": "The Matrix",
+   "type": "movie",
+   "year": 1999
+ },
+ {
+   "quote": "The battle of Helm's Deep is over; the battle for Middle Earth is about to begin. ",
+   "movie": "The lord of the rings: the two towers",
+   "type": "movie",
+   "year": 2002
+ },
+ {
+   "quote": "That light saber was luke's, and his father's before him, and now it calls to you!",
+   "movie": "Star Wars: The Force Awakens",
+   "type": "movie",
+   "year": 2015
+ },
+ {
+   "quote": "Of the days that I have lived, only those I spent with you seemed real",
+   "movie": "Cowboy Bebop: The Movie",
+   "type": "movie",
+   "year":2001
+ },
+   {
       "quote": "Well, I’ve got no leashes, or fences. With me, every day could be an adventure.",
       "movie": "The Lady and the Tramp",
       "type": "movie",
