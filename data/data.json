@@ -1,63 +1,9 @@
-[
+﻿[
    {
-      "quote": "Don't do anything I would do, and definitely don't do anything I wouldn't do...",
-      "movie": "Spider-Man: Homecoming",
-      "type": "movie",
-      "year": 2017
-   },
-   {
-      "quote": "Better clench up, Legolas.",
-      "movie": "The Avengers",
-      "type": "movie",
-      "year": 2012
-   },
-   {
-      "quote": "Genius, billionaire, playboy, philanthropist.",
-      "movie": "The Avengers",
-      "type": "movie",
-      "year": 2012
-   },
-   {
-      "quote": "I'm a huge fan of the way you lose control and turn into an enormous green rage monster.",
-      "movie": "The Avengers",
-      "type": "movie",
-      "year": 2012
-   },
-   {
-      "quote": "That person who helps others simply because it should or must be done, and because it is the right thing to do, is indeed without a doubt, a real superhero.",
-      "movie": "Spider-Man: Into the Spider-Verse",
-      "type": "movie",
-      "year": 2018
-   },
-   {
-      "quote": "Everything you see exists together in a delicate balance. As king, you need to understand that balance and respect all the creatures, from the crawling ant to the leaping antelope.",
-      "movie": "The Lion King",
+      "quote": "Salvation lies within.",
+      "movie": "Shawshank Redemption",
       "type": "movie",
       "year": 1994
-   },
-   {
-      "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
-      "movie": "Once Upon a Time in Hollywood",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I'm as real as a donut, motherfucker.",
-      "movie": "Once Upon a Time in Hollywood",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I used to think that my life was a tragedy. But now I realize, it’s a comedy.",
-      "movie": "Joker",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "It's alive! It's alive!",
-      "movie": "Frankenstein",
-      "type": "movie",
-      "year": 1931
    },
    {
       "quote": "Listen to them. Children of the night. What music they make.",
@@ -66,10 +12,10 @@
       "year": 1931
    },
    {
-      "quote": "Nobody ever lies about being lonely.",
-      "movie": "Here to Eternity",
+      "quote": "It's alive! It's alive!",
+      "movie": "Frankenstein",
       "type": "movie",
-      "year": 1953
+      "year": 1931
    },
    {
       "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
@@ -78,16 +24,16 @@
       "year": 1933
    },
    {
+      "quote": "Why are you trying so hard to fit in when you were born to stand out",
+      "movie": "What a girl wants",
+      "type": "movie",
+      "year": 2003
+   },
+   {
       "quote": "Magic Mirror on the wall, who is the fairest one of all?",
       "movie": "Snow White and the Seven Dwarves",
       "type": "movie",
       "year": 1937
-   },
-   {
-      "quote": "After all, tomorrow is another day!",
-      "movie": "Gone With the Wind",
-      "type": "movie",
-      "year": 1939
    },
    {
       "quote": "Toto, I've got a feeling we're not in Kansas anymore.",
@@ -96,8 +42,14 @@
       "year": 1939
    },
    {
-      "quote": "There's no place like home.",
-      "movie": "The Wizard of Oz",
+      "quote": "Elsa, the past is not what it seems. You must find the truth.",
+      "movie": "Frozen II",
+      "type": "movie",
+      "year": 1939
+   },
+   {
+      "quote": "After all, tomorrow is another day!",
+      "movie": "Gone With the Wind",
       "type": "movie",
       "year": 1939
    },
@@ -108,10 +60,28 @@
       "year": 1939
    },
    {
-      "quote": "Elsa, the past is not what it seems. You must find the truth.",
-      "movie": "Frozen II",
+      "quote": "There's no place like home.",
+      "movie": "The Wizard of Oz",
       "type": "movie",
       "year": 1939
+   },
+   {
+      "quote": "When it comes to women, you’re a true democrat.",
+      "movie": "Casablanca",
+      "type": "movie",
+      "year": 1942
+   },
+   {
+      "quote": "Nobody ever lies about being lonely.",
+      "movie": "Here to Eternity",
+      "type": "movie",
+      "year": 1953
+   },
+   {
+      "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
+      "movie": "On The Waterfront",
+      "type": "movie",
+      "year": 1954
    },
    {
       "quote": "Life is a banquet, and most poor suckers are starving to death!",
@@ -204,13 +174,25 @@
       "year": 1971
    },
    {
-      "quote": "I'm going to make him an offer he can't refuse.",
+      "quote": "Great men are not born great, they grow great.",
       "movie": "The Godfather",
       "type": "movie",
       "year": 1972
    },
    {
-      "quote": "Great men are not born great, they grow great.",
+      "quote": "A man who doesn't spend time with his family can never be a real man.",
+      "movie": "The Godfather",
+      "type": "movie",
+      "year": 1972
+   },
+   {
+      "quote": "I'm gonna make him an offer he can't refuse",
+      "movie": "THE GODFATHER",
+      "type": "movie",
+      "year": 1972
+   },
+   {
+      "quote": "I'm going to make him an offer he can't refuse.",
       "movie": "The Godfather",
       "type": "movie",
       "year": 1972
@@ -222,10 +204,10 @@
       "year": 1972
    },
    {
-      "quote": "A man who doesn't spend time with his family can never be a real man.",
-      "movie": "The Godfather",
+      "quote": "Father Dyer: My idea of Heaven is a solid white nightclub with me as a headliner for all eternity, and they LOVE me!!",
+      "movie": "The Exorcist",
       "type": "movie",
-      "year": 1972
+      "year": 1973
    },
    {
       "quote": "Keep your friends close, but your enemies closer.",
@@ -270,7 +252,13 @@
       "year": 1976
    },
    {
-      "quote": "May the force be with you",
+      "quote": "That’s no moon…it’s a space station",
+      "movie": "Star Wars Episode IV - A New Hope",
+      "type": "movie",
+      "year": 1977
+   },
+   {
+      "quote": "If you strike me down, I shall become more powerful than you could possibly imagine.",
       "movie": "Star Wars",
       "type": "movie",
       "year": 1977
@@ -282,10 +270,16 @@
       "year": 1977
    },
    {
-      "quote": "If you strike me down, I shall become more powerful than you could possibly imagine.",
+      "quote": "May the force be with you",
       "movie": "Star Wars",
       "type": "movie",
       "year": 1977
+   },
+   {
+      "quote": "You must unlearn what you have learned",
+      "movie": "Star Wars: Episode V - The Empire Strikes Back",
+      "type": "movie",
+      "year": 1980
    },
    {
       "quote": "Luke, I am your father.",
@@ -318,6 +312,12 @@
       "year": 1980
    },
    {
+      "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+      "movie": "Pink Floyd: The Wall",
+      "type": "movie",
+      "year": 1982
+   },
+   {
       "quote": "The sun will come out tomorrow.",
       "movie": "Annie",
       "type": "Annie",
@@ -329,8 +329,8 @@
       "year": 1982
    },
    {
-      "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
-      "movie": "Pink Floyd: The Wall",
+      "quote": "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain.",
+      "movie": "Blade Runner",
       "type": "movie",
       "year": 1982
    },
@@ -353,26 +353,26 @@
       "year": 1983
    },
    {
-      "quote": "I always tell tell the truth, even when i lie.",
-      "movie": "Scarface",
-      "type": "movie",
-      "year": 1983
-   },
-   {
       "quote": "I am a Jedi, like my father before me.",
       "movie": "Star Wars Episode 6 : Return Of The Jedi",
       "type": "movie",
       "year": 1983
    },
    {
-      "quote": "Hasta la Vista, baby.",
-      "movie": "The Terminator",
+      "quote": "I always tell tell the truth, even when i lie.",
+      "movie": "Scarface",
       "type": "movie",
-      "year": 1984
+      "year": 1983
    },
    {
       "quote": "I can’t believe I just gave my panties to a geek.",
       "movie": "Sixteen Candles",
+      "type": "movie",
+      "year": 1984
+   },
+   {
+      "quote": "Hasta la Vista, baby.",
+      "movie": "The Terminator",
       "type": "movie",
       "year": 1984
    },
@@ -389,12 +389,6 @@
       "year": 1985
    },
    {
-      "quote": "I feel the need - the need for speed!.",
-      "movie": "Top Gun",
-      "type": "movie",
-      "year": 1986
-   },
-   {
       "quote": "Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.",
       "movie": "Ferris Bueller's Day Off",
       "type": "movie",
@@ -407,14 +401,14 @@
       "year": 1986
    },
    {
-      "quote": "Nobody puts Baby in a corner.",
-      "movie": "Dirty Dancing",
+      "quote": "I feel the need - the need for speed!.",
+      "movie": "Top Gun",
       "type": "movie",
-      "year": 1987
+      "year": 1986
    },
    {
-      "quote": "As you wish...",
-      "movie": "The Princess Bride",
+      "quote": "Nobody puts Baby in a corner.",
+      "movie": "Dirty Dancing",
       "type": "movie",
       "year": 1987
    },
@@ -449,6 +443,12 @@
       "year": 1987
    },
    {
+      "quote": "As you wish...",
+      "movie": "The Princess Bride",
+      "type": "movie",
+      "year": 1987
+   },
+   {
       "quote": "Yippie-ki-yay, motherf—er!",
       "movie": "Die Hard",
       "type": "movie",
@@ -473,12 +473,6 @@
       "year": 1989
    },
    {
-      "quote": "Why don't you make like a tree and get out of here.",
-      "movie": "Back to the Future Part II",
-      "type": "movie",
-      "year": 1989
-   },
-   {
       "quote": "Carpe diem. Seize the day. boys. Make your lives extraordinary.",
       "movie": "Dead Poets Society",
       "type": "movie",
@@ -493,6 +487,12 @@
    {
       "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
       "movie": "Dead Poets Society",
+      "type": "movie",
+      "year": 1989
+   },
+   {
+      "quote": "Why don't you make like a tree and get out of here.",
+      "movie": "Back to the Future Part II",
       "type": "movie",
       "year": 1989
    },
@@ -581,6 +581,24 @@
       "year": 1992
    },
    {
+      "quote": "You bred raptors?",
+      "movie": "Jurassic Park",
+      "type": "movie",
+      "year": 1993
+   },
+   {
+      "quote": "Life, uh, finds a way.",
+      "movie": "Jurassic Park",
+      "type": "movie",
+      "year": 1993
+   },
+   {
+      "quote": "I'm your Huckleberry.",
+      "movie": "Tombstone",
+      "type": "movie",
+      "year": 1993
+   },
+   {
       "quote": "You're killing me, smalls!",
       "movie": "The Sandlot",
       "type": "movie",
@@ -593,22 +611,10 @@
       "year": 1993
    },
    {
-      "quote": "I'm your Huckleberry.",
-      "movie": "Tombstone",
+      "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+      "movie": "Street Fighter",
       "type": "movie",
-      "year": 1993
-   },
-   {
-      "quote": "You bred raptors?",
-      "movie": "Jurassic Park",
-      "type": "movie",
-      "year": 1993
-   },
-   {
-      "quote": "Life, uh, finds a way.",
-      "movie": "Jurassic Park",
-      "type": "movie",
-      "year": 1993
+      "year": 1994
    },
    {
       "quote": "Hakuna matata",
@@ -635,12 +641,6 @@
       "year": 1994
    },
    {
-      "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
-      "movie": "Street Fighter",
-      "type": "movie",
-      "year": 1994
-   },
-   {
       "quote": "Life Is Like A Box Of Chocolates, You Never Know What You're Gonna Get",
       "movie": "Forrest Gump",
       "type": "movie",
@@ -649,6 +649,12 @@
    {
       "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
       "movie": "Dumb and Dumber",
+      "type": "movie",
+      "year": 1994
+   },
+   {
+      "quote": "Everything you see exists together in a delicate balance. As king, you need to understand that balance and respect all the creatures, from the crawling ant to the leaping antelope.",
+      "movie": "The Lion King",
       "type": "movie",
       "year": 1994
    },
@@ -662,6 +668,12 @@
       "quote": "Hack the planet.",
       "movie": "Hackers",
       "type": "movie",
+      "year": 1995
+   },
+   {
+      "quote": "Bye Felicia!",
+      "movie": "Friday",
+      "type": "movie", 
       "year": 1995
    },
    {
@@ -754,6 +766,18 @@
       "year": 1998
    },
    {
+      "quote": "There is a difference between knowing the path and walking the path.",
+      "movie": "The Matrix",
+      "type": "movie",
+      "year": 1999
+   },
+   {
+      "quote": "Unfortunately, no one can be told what the Matrix is. You have to see it for yourself.",
+      "movie": "The Matrix",
+      "type": "movie",
+      "year": 1999
+   },
+   {
       "quote": "Ignorance Is Bliss",
       "movie": "The Matrix",
       "type": "movie",
@@ -801,24 +825,6 @@
       "year": 1999
    },
    {
-      "quote": "There is a difference between knowing the path and walking the path.",
-      "movie": "The Matrix",
-      "type": "movie",
-      "year": 1999
-   },
-   {
-      "quote": "Dude, where's my car?",
-      "movie": "Dude, Where's My Car?",
-      "type": "movie",
-      "year": 2000
-   },
-   {
-      "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
-      "movie": "X-men",
-      "type": "movie",
-      "year": 2000
-   },
-   {
       "quote": "Are you not entertained?",
       "movie": "Gladiator",
       "type": "movie",
@@ -855,8 +861,20 @@
       "year": 2000
    },
    {
-      "quote": "What is this? A center for ants?",
-      "movie": "Zoolander",
+      "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+      "movie": "X-men",
+      "type": "movie",
+      "year": 2000
+   },
+   {
+      "quote": "Dude, where's my car?",
+      "movie": "Dude, Where's My Car?",
+      "type": "movie",
+      "year": 2000
+   },
+   {
+      "quote": "One can never have enough socks.",
+      "movie": "Harry Potter and the Philosopher's Stone",
       "type": "movie",
       "year": 2001
    },
@@ -891,14 +909,14 @@
       "year": 2001
    },
    {
-      "quote": "One can never have enough socks.",
-      "movie": "Harry Potter and the Philosopher's Stone",
-      "type": "movie",
+      "quote": "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.",
+      "movie": "The Lord of the Rings: The Fellowship of the Ring",
       "year": 2001
    },
    {
-      "quote": "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.",
-      "movie": "The Lord of the Rings: The Fellowship of the Ring",
+      "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+      "movie": "The Lord of The Rings - The Fellowship of the Ring",
+      "type": "movie",
       "year": 2001
    },
    {
@@ -956,16 +974,22 @@
       "year": 2001
    },
    {
-      "quote": "It is not our abilities that show what we truly are… it is our choices.",
-      "movie": "Harry Potter and the Chamber of Secrets",
+      "quote": "What is this? A center for ants?",
+      "movie": "Zoolander",
       "type": "movie",
-      "year": 2002
+      "year": 2001
    },
    {
-      "quote": "Dark have been my dreams of late.",
-      "movie": "Lord of the Rings: The Tow Towers",
+      "quote": "Do you like dags?",
+      "movie": "The Snatch",
       "type": "movie",
-      "year": 2002
+      "year": 2001
+   },
+   {
+      "quote": "Just what do you think you're doing, Dave?",
+      "movie": "A Space Odyssey",
+      "type": "movie",
+      "year": 2001
    },
    {
       "quote": "There’s some good in this world, and it’s worth fighting for.",
@@ -1010,26 +1034,20 @@
       "year": 2002
    },
    {
-      "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
-      "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "quote": "It is not our abilities that show what we truly are… it is our choices.",
+      "movie": "Harry Potter and the Chamber of Secrets",
       "type": "movie",
-      "year": 2003
+      "year": 2002
    },
    {
-      "quote": "Ye best start believin' in ghost stories, Miss Turner. Yer in one.",
-      "movie": "Pirates of the Carribean",
+      "quote": "Dark have been my dreams of late.",
+      "movie": "Lord of the Rings: The Tow Towers",
       "type": "movie",
-      "year": 2003
+      "year": 2002
    },
    {
       "quote": "The problem is not the problem. The problem is your attitude about the problem. Do you understand?",
       "movie": "Pirates of the Carribean",
-      "type": "movie",
-      "year": 2003
-   },
-   {
-      "quote": "Just keep swimming.",
-      "movie": "Finding Nemo",
       "type": "movie",
       "year": 2003
    },
@@ -1052,16 +1070,22 @@
       "year": 2003
    },
    {
-      "quote": "That's why her hair is so big.  It's full of secrets",
-      "movie": "Mean Girls",
+      "quote": "Just keep swimming.",
+      "movie": "Finding Nemo",
       "type": "movie",
-      "year": 2004
+      "year": 2003
    },
    {
-      "quote": "I am gonna kill Bill.",
-      "movie": "Kill Bill",
+      "quote": "Ye best start believin' in ghost stories, Miss Turner. Yer in one.",
+      "movie": "Pirates of the Carribean",
       "type": "movie",
-      "year": 2004
+      "year": 2003
+   },
+   {
+      "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+      "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "type": "movie",
+      "year": 2003
    },
    {
       "quote": "You gonna eat your tots?",
@@ -1112,8 +1136,8 @@
       "year": 2004
    },
    {
-      "quote": "Four for you, Glen Coco! You go, Glen Coco!",
-      "movie": "Mean Girls",
+      "quote": "No, I shot him. Bullets and the fall killed him.",
+      "movie": "Collateral",
       "type": "movie",
       "year": 2004
    },
@@ -1171,28 +1195,34 @@
       "year": 2004
    },
    {
-      "quote": "I wish I knew how to quit you.",
-      "movie": "Brokeback Mountain",
+      "quote": "That's why her hair is so big.  It's full of secrets",
+      "movie": "Mean Girls",
       "type": "movie",
-      "year": 2005
+      "year": 2004
    },
    {
-      "quote": "Happiness is the most insidious prison of all, Evey.",
-      "movie": "V for Vendetta",
+      "quote": "I am gonna kill Bill.",
+      "movie": "Kill Bill",
       "type": "movie",
-      "year": 2005
+      "year": 2004
    },
    {
-      "quote": "Why do we fall sir? So that we can learn to pick ourselves up.",
-      "movie": "Batman Begins",
+      "quote": "I solemnly swear that I am up to no good.",
+      "movie": "Harry Potter and the Prisoner of Azkaban",
       "type": "movie",
-      "year": 2005
+      "year": 2004
    },
    {
-      "quote": "I am the senate!",
-      "movie": "Star Wars: Episode III – Revenge of the Sith",
+      "quote": "Your identity is your most valuable possession. Protect it.",
+      "movie": "The Incredibles",
       "type": "movie",
-      "year": 2005
+      "year": 2004
+   },
+   {
+      "quote": "Four for you, Glen Coco! You go, Glen Coco!",
+      "movie": "Mean Girls",
+      "type": "movie",
+      "year": 2004
    },
    {
       "quote": "That's what she said.",
@@ -1243,28 +1273,28 @@
       "year": 2005
    },
    {
-      "quote": "This is Sparta!",
-      "movie": "300",
+      "quote": "I wish I knew how to quit you.",
+      "movie": "Brokeback Mountain",
       "type": "movie",
-      "year": 2006
+      "year": 2005
    },
    {
-      "quote": "I'm just one stomach flu away from my goal weight.",
-      "movie": "Devil wears Prada",
+      "quote": "Happiness is the most insidious prison of all, Evey.",
+      "movie": "V for Vendetta",
       "type": "movie",
-      "year": 2006
+      "year": 2005
    },
    {
-      "quote": "The world is your oyester. It's up to you to find the pearls.",
-      "movie": "The Pursuit of Happyness",
+      "quote": "Why do we fall sir? So that we can learn to pick ourselves up.",
+      "movie": "Batman Begins",
       "type": "movie",
-      "year": 2006
+      "year": 2005
    },
    {
-      "quote": "Walk that walk and go forward all the time. Don't just talk that talk, walk it and go forward. Also, the walk didn't have to be long strides; baby steps counted too. Go forward.",
-      "movie": "The Pursuit of Happyness",
+      "quote": "I am the senate!",
+      "movie": "Star Wars: Episode III – Revenge of the Sith",
       "type": "movie",
-      "year": 2006
+      "year": 2005
    },
    {
       "quote": "TIA This is Africa",
@@ -1273,13 +1303,8 @@
       "year": 2006
    },
    {
-      "quote": "Nobody is gonna hit as hard as life, but it ain’t how hard you can hit. It’s how hard you can get hit and keep moving forward. It’s how much you can take, and keep moving forward. That’s how winning is done.",
-      "movie": "Rocky Balboa",
-      "year": 2006
-   },
-   {
-      "quote": "Dreams remind us what reality is.",
-      "movie": "A Scanner Darkly",
+      "quote": "Walk that walk and go forward all the time. Don't just talk that talk, walk it and go forward. Also, the walk didn't have to be long strides; baby steps counted too. Go forward.",
+      "movie": "The Pursuit of Happyness",
       "type": "movie",
       "year": 2006
    },
@@ -1344,26 +1369,43 @@
       "year": 2006
    },
    {
-      "quote": " Spider-Pig, Spider-Pig. Does whatever a Spider-Pig does. Can he swing from a web? No he can't, he's a pig. Look out! He is a Spider-Pig!",
-      "movie": "The Simpsons movie",
+      "quote": "The world is your oyester. It's up to you to find the pearls.",
+      "movie": "The Pursuit of Happyness",
       "type": "movie",
-      "year": 2007
+      "year": 2006
    },
    {
-      "quote": "Anyway, my mum always said things we lose have a way of coming back to us in the end, if not always in the way we expect.",
-      "movie": "Harry potter and the Order of the Phoenix",
+      "quote": "I'm just one stomach flu away from my goal weight.",
+      "movie": "Devil wears Prada",
       "type": "movie",
-      "year": 2007
+      "year": 2006
    },
    {
-      "quote": "...And I also know how important it is in life not necessarily to be strong but to feel strong. To measure yourself at least once. To find yourself at least once in the most ancient of human conditions. Facing the blind death stone alone, with nothing to help you but your hands and your own head",
+      "quote": "This is Sparta!",
+      "movie": "300",
+      "type": "movie",
+      "year": 2006
+   },
+   {
+      "quote": "Float like a cadillac sting like a beemer.",
+      "movie": "Cars",
+      "type": "movie",
+      "year": 2006
+   },
+   {
+      "quote": "Nobody is gonna hit as hard as life, but it ain’t how hard you can hit. It’s how hard you can get hit and keep moving forward. It’s how much you can take, and keep moving forward. That’s how winning is done.",
+      "movie": "Rocky Balboa",
+      "year": 2006
+   },
+   {
+      "quote": "Dreams remind us what reality is.",
+      "movie": "A Scanner Darkly",
+      "type": "movie",
+      "year": 2006
+   },
+   {
+      "quote": "But when you forgive, you love. And when you love, God's light shines through you.",
       "movie": "Into the Wild",
-      "type": "movie",
-      "year": 2007
-   },
-   {
-      "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
-      "movie": "Juno",
       "type": "movie",
       "year": 2007
    },
@@ -1374,13 +1416,19 @@
       "year": 2007
    },
    {
-      "quote": "They all deserve to die. Even you, Mrs. Lovett. Even I. Because the lives of the wicked should be made brief. For the rest of us death would be relief.",
-      "movie": "Sweeney Todd: The Demon Barber of Fleet Street ",
+      "quote": "We've all got both light and darkness inside us. What matters is the part we choose to act on. That's who we really are.",
+      "movie": "Harry Potter and the Order of the Phoenix",
       "type": "movie",
       "year": 2007
    },
    {
-      "quote": "But when you forgive, you love. And when you love, God's light shines through you.",
+      "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+      "movie": "Juno",
+      "type": "movie",
+      "year": 2007
+   },
+   {
+      "quote": "If we admit that human life can be ruled by reason, then all possibility of life is destroyed.",
       "movie": "Into the Wild",
       "type": "movie",
       "year": 2007
@@ -1392,80 +1440,44 @@
       "year": 2007
    },
    {
+      "quote": "...And I also know how important it is in life not necessarily to be strong but to feel strong. To measure yourself at least once. To find yourself at least once in the most ancient of human conditions. Facing the blind death stone alone, with nothing to help you but your hands and your own head",
+      "movie": "Into the Wild",
+      "type": "movie",
+      "year": 2007
+   },
+   {
+      "quote": "Anyway, my mum always said things we lose have a way of coming back to us in the end, if not always in the way we expect.",
+      "movie": "Harry potter and the Order of the Phoenix",
+      "type": "movie",
+      "year": 2007
+   },
+   {
+      "quote": " Spider-Pig, Spider-Pig. Does whatever a Spider-Pig does. Can he swing from a web? No he can't, he's a pig. Look out! He is a Spider-Pig!",
+      "movie": "The Simpsons movie",
+      "type": "movie",
+      "year": 2007
+   },
+   {
+      "quote": "They all deserve to die. Even you, Mrs. Lovett. Even I. Because the lives of the wicked should be made brief. For the rest of us death would be relief.",
+      "movie": "Sweeney Todd: The Demon Barber of Fleet Street ",
+      "type": "movie",
+      "year": 2007
+   },
+   {
       "quote": "We’ve all got both light and darkness inside us. What matters is the part we choose to act on. That’s who we really are.",
       "movie": "Harry Potter and the Order of the Phoenix",
       "type": "movie",
       "year": 2007
    },
    {
-      "quote": "Some men just want to watch the world burn.",
+      "quote": "If you’re good at something, never do it for free.",
       "movie": "The Dark Knight",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": "Sometimes the truth isn’t good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded    ",
-      "movie": "The Dark Knight",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": "Some men just want to watch the world burn. ",
-      "movie": "The Dark Knight",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": "Let's put a smile on that face!",
-      "movie": "The Dark Knight",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": "You see, in their last moments people show you who they really are.",
-      "movie": "The Dark Knight",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": "Our lives are defined by opportunities, even the ones we miss.",
-      "movie": "Benjamin Button",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": "Don't talk like you're one of them",
-      "movie": "The dark knight",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": " It's not about what I want. It's about what's fair!",
-      "movie": "The Dark Knight",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": "I'm not a big fat panda.I'm THE big fat panda.",
-      "movie": "Kung Fu Panda",
       "type": "movie",
       "year": 2008
    },
    {
       "quote": "Nobody panics when things go “according to plan”. Even if the plan is horrifying!",
       "movie": "The Dark Knight",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": "Does it depress you? To know just how alone you really are?",
-      "movie": "The Dark Knight",
-      "type": "movie",
-      "year": 2008
-   },
-   {
-      "quote": " About three things I was absolutely certain. First, Edward was a vampire. Second, there was part of him-and I didn't know how potent that part might be- that thirsted for my blood. and third, I was unconditionally and irrevocably in love with him.",
-      "movie": "Twilight",
       "type": "movie",
       "year": 2008
    },
@@ -1530,28 +1542,76 @@
       "year": 2008
    },
    {
-      "quote": "If you’re good at something, never do it for free.",
+      "quote": " About three things I was absolutely certain. First, Edward was a vampire. Second, there was part of him-and I didn't know how potent that part might be- that thirsted for my blood. and third, I was unconditionally and irrevocably in love with him.",
+      "movie": "Twilight",
+      "type": "movie",
+      "year": 2008
+   },
+   {
+      "quote": "I'm not a big fat panda.I'm THE big fat panda.",
+      "movie": "Kung Fu Panda",
+      "type": "movie",
+      "year": 2008
+   },
+   {
+      "quote": "Does it depress you? To know just how alone you really are?",
       "movie": "The Dark Knight",
       "type": "movie",
       "year": 2008
    },
    {
-      "quote": "It was my bad. I was never a very good practical joker.",
-      "movie": "Zombieland",
+      "quote": "Some men just want to watch the world burn.",
+      "movie": "The Dark Knight",
       "type": "movie",
-      "year": 2009
+      "year": 2008
    },
    {
-      "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
-      "movie": "Obsessed",
+      "quote": "Sometimes the truth isn’t good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded    ",
+      "movie": "The Dark Knight",
       "type": "movie",
-      "year": 2009
+      "year": 2008
    },
    {
-      "quote": "This weapon seems made to order for the Brothers Grimm downstairs.",
-      "movie": "Pulp Fiction",
+      "quote": "There is no secret ingredient. It’s just you.",
+      "movie": "Kung Fu Panda",
       "type": "movie",
-      "year": 2009
+      "year": 2008
+   },
+   {
+      "quote": "Some men just want to watch the world burn. ",
+      "movie": "The Dark Knight",
+      "type": "movie",
+      "year": 2008
+   },
+   {
+      "quote": "Let's put a smile on that face!",
+      "movie": "The Dark Knight",
+      "type": "movie",
+      "year": 2008
+   },
+   {
+      "quote": " It's not about what I want. It's about what's fair!",
+      "movie": "The Dark Knight",
+      "type": "movie",
+      "year": 2008
+   },
+   {
+      "quote": "Don't talk like you're one of them",
+      "movie": "The dark knight",
+      "type": "movie",
+      "year": 2008
+   },
+   {
+      "quote": "Our lives are defined by opportunities, even the ones we miss.",
+      "movie": "Benjamin Button",
+      "type": "movie",
+      "year": 2008
+   },
+   {
+      "quote": "You see, in their last moments people show you who they really are.",
+      "movie": "The Dark Knight",
+      "type": "movie",
+      "year": 2008
    },
    {
       "quote": "It is impossible to manufacture or imitate love",
@@ -1572,20 +1632,50 @@
       "year": 2009
    },
    {
+      "quote": "It was my bad. I was never a very good practical joker.",
+      "movie": "Zombieland",
+      "type": "movie",
+      "year": 2009
+   },
+   {
+      "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+      "movie": "Obsessed",
+      "type": "movie",
+      "year": 2009
+   },
+   {
+      "quote": "Adventure is out there",
+      "movie": "Up",
+      "type": "movie",
+      "year": 2009
+   },
+   {
+      "quote": "This weapon seems made to order for the Brothers Grimm downstairs.",
+      "movie": "Pulp Fiction",
+      "type": "movie",
+      "year": 2009
+   },
+   {
+      "quote": "Well, how carefully should I tread? Because apparently I just killed two people, and you were about to let me walk right out that door! How MISGUIDED are you? I feed you a couple of bullshit legal precedents, and there you go - you jump on it like a bitch in heat.",
+      "movie": "Law Abiding Citizen",
+      "type": "movie",
+      "year": 2009
+   },
+   {
+      "quote": "You've ever been to Del Frisco's? They cater, so for lunch I would love a twenty ounce porterhouse steak, medium maybe a little charred, with all the trimmings pommes frites, asparagus, and butter squash.",
+      "movie": "Law Abiding Citizen",
+      "type": "movie",
+      "year": 2009
+   },
+   {
       "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
       "movie": "500 Days of Summer",
       "type": "movie",
       "year": 2009
    },
    {
-      "quote": "A million dollars isn't cool. You know what's cool?",
-      "movie": "The Social Network",
-      "type": "movie",
-      "year": 2010
-   },
-   {
-      "quote": "Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange.",
-      "movie": "Inception",
+      "quote": "There's a benefit to losing: You get to learn from your mistakes.",
+      "movie": "Megamind",
       "type": "movie",
       "year": 2010
    },
@@ -1596,10 +1686,28 @@
       "year": 2010
    },
    {
-      "quote": "For a guy with a four digit IQ, I must have missed something.",
-      "movie": "Limitless",
+      "quote": "Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange.",
+      "movie": "Inception",
+      "type": "movie",
+      "year": 2010
+   },
+   {
+      "quote": "A million dollars isn't cool. You know what's cool?",
+      "movie": "The Social Network",
+      "type": "movie",
+      "year": 2010
+   },
+   {
+      "quote": "A Lannister always pays his debts",
+      "movie": "Game of Thrones",
       "type": "movie",
       "year": 2011
+   },
+   {
+      "quote": "We're all traveling through time, together, everyday of our lives... All we can do is do our best to relish this remarkable life.",
+      "movie": "About Time",
+      "type": "movie",
+      "year": 2013
    },
    {
       "quote": "Hodor",
@@ -1608,10 +1716,64 @@
       "year": 2011
    },
    {
-      "quote": "A Lannister always pays his debts",
-      "movie": "Game of Thrones",
+      "quote": "For a guy with a four digit IQ, I must have missed something.",
+      "movie": "Limitless",
       "type": "movie",
       "year": 2011
+   },
+   {
+      "quote": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
+      "movie": "Harry Potter and the Deathly Hallows",
+      "type": "movie",
+      "year": 2011
+   },
+   {
+      "quote": "Following's not really my style.",
+      "movie": "Marvel's The Avengers",
+      "type": "movie",
+      "year": 2012
+   },
+   {
+      "quote": "There was an idea to bring together a group of remarkable people, to see if we could become something more",
+      "movie": "The Avengers",
+      "type": "movie",
+      "year": 2012
+   },
+   {
+      "quote": "I'm a huge fan of the way you lose control and turn into an enormous green rage monster.",
+      "movie": "The Avengers",
+      "type": "movie",
+      "year": 2012
+   },
+   {
+      "quote": "Bright day uh, Bright Boy?",
+      "movie": "Django Unchained",
+      "type": "movie",
+      "year": 2012
+   },
+   {
+      "quote": "Genius, billionaire, playboy, philanthropist.",
+      "movie": "The Avengers",
+      "type": "movie",
+      "year": 2012
+   },
+   {
+      "quote": "There are those who say fate is something beyond our command, that destiny is not our own. But I know better. Our fate lives within us. You only have to be brave enough to see it.",
+      "movie": "Brave",
+      "type": "movie",
+      "year": 2012
+   },
+   {
+      "quote": "That’s my secret, Captain. I’m always angry.",
+      "movie": "The Avengers ",
+      "type": "movie",
+      "year": 2012
+   },
+   {
+      "quote": "Better clench up, Legolas.",
+      "movie": "The Avengers",
+      "type": "movie",
+      "year": 2012
    },
    {
       "quote": "Cause if we can't protect the Earth, you can be damn sure we'll avenge it",
@@ -1644,22 +1806,16 @@
       "year": 2012
    },
    {
-      "quote": "There was an idea to bring together a group of remarkable people, to see if we could become something more",
-      "movie": "The Avengers",
+      "quote": "There's no nobility in poverty.",
+      "movie": "The Wolf of Wall Street",
       "type": "movie",
-      "year": 2012
+      "year": 2013
    },
    {
-      "quote": "There are those who say fate is something beyond our command, that destiny is not our own. But I know better. Our fate lives within us. You only have to be brave enough to see it.",
-      "movie": "Brave",
+      "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+      "movie": "The Great Gatsby",
       "type": "movie",
-      "year": 2012
-   },
-   {
-      "quote": "That’s my secret, Captain. I’m always angry.",
-      "movie": "The Avengers ",
-      "type": "movie",
-      "year": 2012
+      "year": 2013
    },
    {
       "quote": "People don’t buy stock; it gets sold to them. Don’t ever forget that.",
@@ -1680,8 +1836,8 @@
       "year": 2013
    },
    {
-      "quote": "There's no nobility in poverty.",
-      "movie": "The Wolf of Wall Street",
+      "quote": "You don't turn your back on family, Even when they do",
+      "movie": "The Fast and The Furious 8",
       "type": "movie",
       "year": 2013
    },
@@ -1697,8 +1853,8 @@
       "year": 2013
    },
    {
-      "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
-      "movie": "The Great Gatsby",
+      "quote": "Sometimes you gotta run before you can walk",
+      "movie": "Ironman 3",
       "type": "movie",
       "year": 2013
    },
@@ -1709,82 +1865,10 @@
       "year": 2013
    },
    {
-      "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
-      "movie": "Interstellar",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "There are no two words in the English language more harmful than good job.",
-      "movie": "Whiplash",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "Were you rushing or were you dragging?",
-      "movie": "Whiplash",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.",
-      "movie": "Interstellar",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "No system is safe.",
-      "movie": "Who Am I",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can/'t achieve it.",
-      "movie": "Wolf of the Wall Street",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "Hardest time to lie to somebody is when they're expecting to be lied to.",
-      "movie": "The Imitation Game",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "People keep asking if I'm back and I haven't really had an answer, but yeah, I'm thinking I'm back.",
-      "movie": "John Wick",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "Don't wait for things to get easier, simpler, better. Life will always be complicated. Learn to be happy right now. Otherwise, you'll run out of time.",
-      "movie": "The Intouchables",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "The truth is a matter of circumstances, it’s not all things to all people all the time.",
-      "movie": "Captain America: The Winter Soldier",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "Not quite my tempo.",
-      "movie": "Whiplash",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "They never see you coming, do they Bob?",
-      "movie": "The Drop",
-      "type": "movie",
-      "year": 2014
-   },
-   {
-      "quote": "I am Groot.",
-      "movie": "Guardians of the Galaxy",
-      "type": "movie",
-      "year": 2014
+      "quote": "People who can’t throw something important away, can never hope to change anything.",
+      "movie": "Attack on Titan",
+      "type": "Anime",
+      "year": 2013
    },
    {
       "quote": "Even a broken clock is right twice a day.",
@@ -1811,44 +1895,110 @@
       "year": 2014
    },
    {
-      "quote": "Power belongs to those who take it.",
-      "movie": "Mr. Robot",
-      "type": "TV series",
-      "year": 2015
-   },
-   {
-      "quote": "Like the oldman said, together",
-      "movie": "Avengers - Age of Ultron",
+      "quote": "Some infinities are bigger than other infinities.",
+      "movie": "The Fault in our stars",
       "type": "movie",
-      "year": 2015
+      "year": 2014
    },
    {
-      "quote": "I don't have friends. I got family.",
-      "movie": "Furious 7",
+      "quote": "I'm on a Roller-coaster that only goes up, My friend",
+      "movie": "The Fault in our stars",
       "type": "movie",
-      "year": 2015
+      "year": 2014
    },
    {
-      "quote": "You become responsible, forever, for everything you tamed.",
+      "quote": "The truth is a matter of circumstances, it’s not all things to all people all the time.",
+      "movie": "Captain America: The Winter Soldier",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Don't wait for things to get easier, simpler, better. Life will always be complicated. Learn to be happy right now. Otherwise, you'll run out of time.",
+      "movie": "The Intouchables",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "People keep asking if I'm back and I haven't really had an answer, but yeah, I'm thinking I'm back.",
+      "movie": "John Wick",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Hardest time to lie to somebody is when they're expecting to be lied to.",
+      "movie": "The Imitation Game",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "They never see you coming, do they Bob?",
+      "movie": "The Drop",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "No system is safe.",
+      "movie": "Who Am I",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Were you rushing or were you dragging?",
+      "movie": "Whiplash",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "There are no two words in the English language more harmful than good job.",
+      "movie": "Whiplash",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Not quite my tempo.",
+      "movie": "Whiplash",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Having a family doesn’t mean that you stop being an individual. You know the best thing you can do for the people that depend on you? Be honest with them, even if it means setting them free.",
+      "movie": "Rick and Morty Season 1",
+      "type": "TV",
+      "year": 2014
+   },
+   {
+      "quote": "I am Groot.",
+      "movie": "Guardians of the Galaxy",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can/'t achieve it.",
+      "movie": "Wolf of the Wall Street",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "But if you tame me, then we shall need each other, to me you shall be unique in all the world, to you i shall be unique.",
       "movie": "The Little Prince",
       "type": "movie",
       "year": 2015
    },
    {
-      "quote": "My tastes are very singular.",
-      "movie": "Fifty Shades of Grey ",
-      "type": "movie",
-      "year": 2015
-   },
-   {
-      "quote": "Just because someone stumbles and loses their path, doesn’t mean they’re lost forever.",
-      "movie": "X-Men: Days of Future Past",
-      "type": "movie",
-      "year": 2015
-   },
-   {
-      "quote": "I'm going to have to science the s*** out of this.",
-      "movie": "The Martian",
+      "quote": "That's not how the force works!",
+      "movie": "Star Wars: Episode VII - The Force Awakens",
       "type": "movie",
       "year": 2015
    },
@@ -1859,14 +2009,50 @@
       "year": 2015
    },
    {
+      "quote": "I'm going to have to science the s*** out of this.",
+      "movie": "The Martian",
+      "type": "movie",
+      "year": 2015
+   },
+   {
+      "quote": "Just because someone stumbles and loses their path, doesn’t mean they’re lost forever.",
+      "movie": "X-Men: Days of Future Past",
+      "type": "movie",
+      "year": 2015
+   },
+   {
       "quote": "Manners maketh man",
       "movie": "KINGSMAN: The Secret Service",
       "type": "movie",
       "year": 2015
    },
    {
-      "quote": "But if you tame me, then we shall need each other, to me you shall be unique in all the world, to you i shall be unique.",
+      "quote": "You become responsible, forever, for everything you tamed.",
       "movie": "The Little Prince",
+      "type": "movie",
+      "year": 2015
+   },
+   {
+      "quote": "I don't have friends. I got family.",
+      "movie": "Furious 7",
+      "type": "movie",
+      "year": 2015
+   },
+   {
+      "quote": "Like the oldman said, together",
+      "movie": "Avengers - Age of Ultron",
+      "type": "movie",
+      "year": 2015
+   },
+   {
+      "quote": "Power belongs to those who take it.",
+      "movie": "Mr. Robot",
+      "type": "TV series",
+      "year": 2015
+   },
+   {
+      "quote": "My tastes are very singular.",
+      "movie": "Fifty Shades of Grey ",
       "type": "movie",
       "year": 2015
    },
@@ -1887,6 +2073,12 @@
       "movie": "Kimi No Nawa",
       "type": "movie",
       "year": 2016
+   },
+   {
+      "quote": "Don't do anything I would do, and definitely don't do anything I wouldn't do...",
+      "movie": "Spider-Man: Homecoming",
+      "type": "movie",
+      "year": 2017
    },
    {
       "quote": "There’s no hiding from this, son.",
@@ -1937,20 +2129,8 @@
       "year": 2018
    },
    {
-      "quote": "That’s one small step for man, one giant leap for mankind.",
-      "movie": "First man",
-      "type": "movie",
-      "year": 2018
-   },
-   {
-      "quote": "If we didn’t do what we loved, we wouldn’t exist.",
-      "movie": "Adonis, Creed II",
-      "type": "movie",
-      "year": 2018
-   },
-   {
-      "quote": "Yeah. Well, you’re right. I thought it was more important to be somebody out there than the damn failure I was here at my own home. Anyway, for what it’s worth, I’m here now.",
-      "movie": "The Mule",
+      "quote": "Being a hero doesn't mean you are invincible. It just means you're brave enough to stand up, and do what's needed.",
+      "movie": "Two Heroes",
       "type": "movie",
       "year": 2018
    },
@@ -1961,20 +2141,44 @@
       "year": 2018
    },
    {
+      "quote": "Sometimes we think we have to do it all on our own. But we don’t.",
+      "movie": "Creed 2",
+      "type": "movie",
+      "year": 2018
+   },
+   {
+      "quote": "If we didn’t do what we loved, we wouldn’t exist.",
+      "movie": "Adonis, Creed II",
+      "type": "movie",
+      "year": 2018
+   },
+   {
+      "quote": "That’s one small step for man, one giant leap for mankind.",
+      "movie": "First man",
+      "type": "movie",
+      "year": 2018
+   },
+   {
+      "quote": "There is no such thing as magic, just illusion. Things only change when we change them. But you have to do it skillfully, in secret. Then it seems like magic.",
+      "movie": "Dark",
+      "type": "tv",
+      "year": 2018
+   },
+   {
       "quote": "Just because something works doesn’t mean it can’t be improved.",
       "movie": "Black Panther",
       "type": "movie",
       "year": 2018
    },
    {
-      "quote": "Being a hero doesn't mean you are invincible. It just means you're brave enough to stand up, and do what's needed.",
-      "movie": "Two Heroes",
+      "quote": "If you want to change things in a big way, then you gotta make some big changes.",
+      "movie": "Creed 2",
       "type": "movie",
       "year": 2018
    },
    {
-      "quote": "If you want to change things in a big way, then you gotta make some big changes.",
-      "movie": "Creed 2",
+      "quote": "That person who helps others simply because it should or must be done, and because it is the right thing to do, is indeed without a doubt, a real superhero.",
+      "movie": "Spider-Man: Into the Spider-Verse",
       "type": "movie",
       "year": 2018
    },
@@ -2003,178 +2207,10 @@
       "year": 2018
    },
    {
-      "quote": "Sometimes we think we have to do it all on our own. But we don’t.",
-      "movie": "Creed 2",
+      "quote": "Yeah. Well, you’re right. I thought it was more important to be somebody out there than the damn failure I was here at my own home. Anyway, for what it’s worth, I’m here now.",
+      "movie": "The Mule",
       "type": "movie",
       "year": 2018
-   },
-   {
-      "quote": "The end is in the beginning and yet you go on.",
-      "movie": "Endgame",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "This meeting of The Losers Club has officially begun.",
-      "movie": "It Chapter Two",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I just hope my death makes more cents than my life.",
-      "movie": "Joker",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": " Spider-Pig, Spider-Pig. Does whatever a Spider-Pig does. Can he swing from a web? No he can't, he's a pig. Look out! He is a Spider-Pig!",
-      "movie": "The Simpsons movie",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I used to think that my life was a tragedy. But now I realize, it’s a comedy.",
-      "movie": "Joker",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "My mother always tells me to smile and put on a happy face. She told me I had a purpose to bring laughter and joy to the world.",
-      "movie": "Joker",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "You are my lighting rod",
-      "movie": "Endgame",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I used to use this little gun when I was a prostitude.",
-      "movie": "Pineapple Express",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I use the words you taught me. If they don't mean anything any more, teach me others. Or let me be silent.",
-      "movie": "Endgame",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I love you 3000.",
-      "movie": "Endgame",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "You've got a lot to learn. Here on Earth, we like …have to listen to what the others tell you to do.",
-      "movie": "Dragon Ball Super: Broly",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
-      "movie": "Maleficent:The Mistress of Evil",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I do what I do because of my dad. He was a hero. He gave his life for the pursuit of knowledge.",
-      "movie": "Ad Astra",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I can do this all day",
-      "movie": "Endgame",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "You give me your loyalty, and I’ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
-      "movie": "The Kill Team",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "Even if we do ignore the previous data, Broly's latent abilities are quite remarkable.",
-      "movie": "Dragon Ball Super: Broly",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "These barbarians pretend to be submissive, but the…a sleeping beast down, before it can be awakened.",
-      "movie": "Dragon Ball Super: Broly",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "Maybe it's because I'm constantly fighting, destro…d to be a lower-class warrior... like my Kakarot.",
-      "movie": "Dragon Ball Super: Broly",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "This guy's awesome! He's holding his own while still in his base form!",
-      "movie": "Dragon Ball Super: Broly",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "It looks as though he's managed to transform someh… his human form, retaining his speed and agility.",
-      "movie": "Dragon Ball Super: Broly",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "Today the impossible becomes the possible. ",
-      "movie": "The Current War",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I was so sure my strength was getting close to it'…on this planet... Then who would I train against.",
-      "movie": "Dragon Ball Super: Broly",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "How truly magnificent! I think this battle is about to come to a rousing finale!",
-      "movie": "Dragon Ball Super: Broly",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "That's MotherF****** street poetic justice",
-      "movie": "Shaft",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I am Iron Man",
-      "movie": "Endgame",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "I didn't know if you were lost. Stick with me. I'll keep you safe.",
-      "movie": "Us",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "Lord knows, I’ve held onto way too much hate in my life. But all we have is now. All we have is now.",
-      "movie": "Waves",
-      "type": "movie",
-      "year": 2019
-   },
-   {
-      "quote": "This is me. This is how I win.",
-      "movie": "Uncut Gems",
-      "type": "movie",
-      "year": 2019
    },
    {
       "quote": "The worst part of having a mental illness is people expect you to behave as if you don't",
@@ -2267,34 +2303,34 @@
       "year": 2019
    },
    {
-      "quote": "If you want to get crazy. We can get crazy.",
-      "movie": "Us",
+      "quote": "You are my lighting rod",
+      "movie": "Endgame",
       "type": "movie",
       "year": 2019
    },
    {
-      "quote": "When it comes to women, you’re a true democrat.",
-      "movie": "Casablanca",
+      "quote": " Spider-Pig, Spider-Pig. Does whatever a Spider-Pig does. Can he swing from a web? No he can't, he's a pig. Look out! He is a Spider-Pig!",
+      "movie": "The Simpsons movie",
       "type": "movie",
-      "year": 1942
+      "year": 2019
    },
    {
-      "quote": "Some infinities are bigger than other infinities.",
-      "movie": "The Fault in our stars",
+      "quote": "I just hope my death makes more cents than my life.",
+      "movie": "Joker",
       "type": "movie",
-      "year": 2014
+      "year": 2019
    },
    {
-      "quote": "I'm on a Roller-coaster that only goes up, My friend",
-      "movie": "The Fault in our stars",
+      "quote": "This meeting of The Losers Club has officially begun.",
+      "movie": "It Chapter Two",
       "type": "movie",
-      "year": 2014
+      "year": 2019
    },
    {
-      "quote": "You don't turn your back on family, Even when they do",
-      "movie": "The Fast and The Furious 8",
+      "quote": "The end is in the beginning and yet you go on.",
+      "movie": "Endgame",
       "type": "movie",
-      "year": 2013
+      "year": 2019
    },
    {
       "quote": "No amount of money ever bought a second of time",
@@ -2315,34 +2351,40 @@
       "year": 2019
    },
    {
-      "quote": "I'm gonna make him an offer he can't refuse",
-      "movie": "THE GODFATHER",
+      "quote": "My mother always tells me to smile and put on a happy face. She told me I had a purpose to bring laughter and joy to the world.",
+      "movie": "Joker",
       "type": "movie",
-      "year": 1972
+      "year": 2019
    },
    {
-      "quote": "That’s no moon…it’s a space station",
-      "movie": "Star Wars Episode IV - A New Hope",
+      "quote": "I used to use this little gun when I was a prostitude.",
+      "movie": "Pineapple Express",
       "type": "movie",
-      "year": 1977
+      "year": 2019
    },
    {
-      "quote": "Do you like dags?",
-      "movie": "The Snatch",
+      "quote": "I use the words you taught me. If they don't mean anything any more, teach me others. Or let me be silent.",
+      "movie": "Endgame",
       "type": "movie",
-      "year": 2001
+      "year": 2019
    },
    {
-      "quote": "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain.",
-      "movie": "Blade Runner",
+      "quote": "I used to think that my life was a tragedy. But now I realize, it’s a comedy.",
+      "movie": "Joker",
       "type": "movie",
-      "year": 1982
+      "year": 2019
    },
    {
-      "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
-      "movie": "The Lord of The Rings - The Fellowship of the Ring",
+      "quote": "I'm as real as a donut, motherfucker.",
+      "movie": "Once Upon a Time in Hollywood",
       "type": "movie",
-      "year": 2001
+      "year": 2019
+   },
+   {
+      "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+      "movie": "Once Upon a Time in Hollywood",
+      "type": "movie",
+      "year": 2019
    },
    {
       "quote": "You're really lucky, you know that? You didn't have to wait your whole life to do something special.",
@@ -2363,26 +2405,177 @@
       "year": 2019
    },
    {
-      "quote": "Well, how carefully should I tread? Because apparently I just killed two people, and you were about to let me walk right out that door! How MISGUIDED are you? I feed you a couple of bullshit legal precedents, and there you go - you jump on it like a bitch in heat.",
-      "movie": "Law Abiding Citizen",
+      "quote": "I love you 3000.",
+      "movie": "Endgame",
       "type": "movie",
-      "year": 2009
+      "year": 2019
    },
    {
-      "quote": "You've ever been to Del Frisco's? They cater, so for lunch I would love a twenty ounce porterhouse steak, medium maybe a little charred, with all the trimmings pommes frites, asparagus, and butter squash.",
-      "movie": "Law Abiding Citizen",
+      "quote": "You've got a lot to learn. Here on Earth, we like …have to listen to what the others tell you to do.",
+      "movie": "Dragon Ball Super: Broly",
       "type": "movie",
-      "year": 2009
+      "year": 2019
    },
    {
-      "quote": "No, I shot him. Bullets and the fall killed him.",
-      "movie": "Collateral",
+      "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+      "movie": "Maleficent:The Mistress of Evil",
       "type": "movie",
-      "year": 2004
+      "year": 2019
    },
    {
-      "quote": "That's not how the force works!",
-      "movie": "Star Wars: Episode VII - The Force Awakens",
+      "quote": "I do what I do because of my dad. He was a hero. He gave his life for the pursuit of knowledge.",
+      "movie": "Ad Astra",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "I can do this all day",
+      "movie": "Endgame",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "You give me your loyalty, and I’ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+      "movie": "The Kill Team",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "Even if we do ignore the previous data, Broly's latent abilities are quite remarkable.",
+      "movie": "Dragon Ball Super: Broly",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "These barbarians pretend to be submissive, but the…a sleeping beast down, before it can be awakened.",
+      "movie": "Dragon Ball Super: Broly",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "Maybe it's because I'm constantly fighting, destro…d to be a lower-class warrior... like my Kakarot.",
+      "movie": "Dragon Ball Super: Broly",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "This guy's awesome! He's holding his own while still in his base form!",
+      "movie": "Dragon Ball Super: Broly",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "Is it just me, or is it getting crazier out there?’",
+      "movie": "Joker",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "It looks as though he's managed to transform someh… his human form, retaining his speed and agility.",
+      "movie": "Dragon Ball Super: Broly",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "There is no punchline.",
+      "movie": "Joker",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "Today the impossible becomes the possible. ",
+      "movie": "The Current War",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "I was so sure my strength was getting close to it'…on this planet... Then who would I train against.",
+      "movie": "Dragon Ball Super: Broly",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "How truly magnificent! I think this battle is about to come to a rousing finale!",
+      "movie": "Dragon Ball Super: Broly",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "That's MotherF****** street poetic justice",
+      "movie": "Shaft",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "I am Iron Man",
+      "movie": "Endgame",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "I didn't know if you were lost. Stick with me. I'll keep you safe.",
+      "movie": "Us",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "Lord knows, I’ve held onto way too much hate in my life. But all we have is now. All we have is now.",
+      "movie": "Waves",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "This is me. This is how I win.",
+      "movie": "Uncut Gems",
+      "type": "movie",
+      "year": 2019
+   },
+   {
+      "quote": "If you want to get crazy. We can get crazy.",
+      "movie": "Us",
+      "type": "movie",
+      "year": 2019
+   },
+    {
+      "quote": " That's what i do, i drink and i know things.",
+      "movie": "Game of thrones ",
+      "type": "tv",
+      "year": 2012-2019
+  },
+   {  
+      "quote": "They don't know that we know they know we know.",
+      "movie": "Friends",
+      "type": "tv",
+      "year": 2005
+    
+   },
+   {
+      "quote": "Mama says stupid is as stupid does",
+      "movie": "Forrest Gump",
+      "type": "movie",
+      "year": 1994
+   },
+   {
+      "quote": "You never would have come here unless you believed you were going to save them. Evolution has yet to transcend that simple barrier. We can care deeply - selflessly - about those we know, but that empathy rarely extends beyond our line of sight.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "A machine doesn't improvise well because you cannot program a fear of death. Our survival instinct is our greatest source of inspiration.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Mankind was born on Earth. It was never meant to die here.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Mark Watney, Space Pirate.",
+      "movie": "The Martian",
       "type": "movie",
       "year": 2015
    },
@@ -2399,6 +2592,12 @@
     "year": 2013
   },
   {
+   "quote": "People who can’t throw something important away, can never hope to change anything.",
+   "movie": "Attack on Titan",
+   "type": "Anime",
+   "year": 2013
+  },
+  {
     "quote": "Having a family doesn’t mean that you stop being an individual. You know the best thing you can do for the people that depend on you? Be honest with them, even if it means setting them free.",
     "movie": "Rick and Morty Season 1",
     "type": "TV",
@@ -2412,9 +2611,28 @@
  },
  {
    "quote": "Is it just me, or is it getting crazier out there?",
+    "quote": "Bright day uh, Bright Boy?",
+    "movie": "Django Unchained",
+    "type": "movie",
+    "year": 2012
+ },
+ {
+   "quote": "There is no punchline.",
    "movie": "Joker",
    "type": "movie",
    "year": 2019
+ },
+ {
+   "quote": "Unfortunately, no one can be told what the Matrix is. You have to see it for yourself.",
+   "movie": "The Matrix",
+   "type": "movie",
+   "year": 1999
+ },
+ {
+   "quote": "The battle of Helm's Deep is over; the battle for Middle Earth is about to begin. ",
+   "movie": "The lord of the rings: the two towers",
+   "type": "movie",
+   "year": 2002
  },
  {
    "quote": "That light saber was luke's, and his father's before him, and now it calls to you!",
@@ -2426,6 +2644,6 @@
    "quote": "Of the days that I have lived, only those I spent with you seemed real",
    "movie": "Cowboy Bebop: The Movie",
    "type": "movie",
-   "year":2001 
+   "year":2001
  }
 ]
