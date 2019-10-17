@@ -2663,9 +2663,16 @@
       "year": 2019
    },
    {
+      "quote": "Even the smallest person can change the course of the future.",
+      "movie": "The Lord of the Rings: The Fellowship of the Ring",
+      "type": "movie",
+      "year": 2001   
+ },
+   {
       "quote": "The people who are crazy enough to think that they can change the world, are the one's who do",
       "movie": "Jobs",
       "type": "movie",
       "year": 2013
    }
+    
 ]
