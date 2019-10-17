@@ -2411,9 +2411,21 @@
    "year": 1980
  },
  {
-   "quote": "Is it just me, or is it getting crazier out there?’",
+   "quote": "Is it just me, or is it getting crazier out there?",
    "movie": "Joker",
    "type": "movie",
    "year": 2019
+ },
+ {
+   "quote": "That light saber was luke's, and his father's before him, and now it calls to you!",
+   "movie": "Star Wars: The Force Awakens",
+   "type": "movie",
+   "year": 2015
+ },
+ {
+   "quote": "Of the days that I have lived, only those I spent with you seemed real",
+   "movie": "Cowboy Bebop: The Movie",
+   "type": "movie",
+   "year":2001 
  }
 ]
