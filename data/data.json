@@ -1,5 +1,11 @@
 [
    {
+      "quote": "Salvation lies within.",
+      "movie": "Shawshank Redemption",
+      "type": "movie",
+      "year": 1994
+   },
+   {
       "quote": "Listen to them. Children of the night. What music they make.",
       "movie": "Dracula",
       "type": "movie",
@@ -16,6 +22,12 @@
       "movie": "King Kong",
       "type": "movie",
       "year": 1933
+   },
+   {
+      "quote": "Why are you trying so hard to fit in when you were born to stand out",
+      "movie": "What a girl wants",
+      "type": "movie",
+      "year": 2003
    },
    {
       "quote": "Magic Mirror on the wall, who is the fairest one of all?",
@@ -656,6 +668,12 @@
       "quote": "Hack the planet.",
       "movie": "Hackers",
       "type": "movie",
+      "year": 1995
+   },
+   {
+      "quote": "Bye Felicia!",
+      "movie": "Friday",
+      "type": "movie", 
       "year": 1995
    },
    {
@@ -1686,6 +1704,12 @@
       "year": 2011
    },
    {
+      "quote": "We're all traveling through time, together, everyday of our lives... All we can do is do our best to relish this remarkable life.",
+      "movie": "About Time",
+      "type": "movie",
+      "year": 2013
+   },
+   {
       "quote": "Hodor",
       "movie": "Game of Thrones",
       "type": "movie",
@@ -1694,6 +1718,12 @@
    {
       "quote": "For a guy with a four digit IQ, I must have missed something.",
       "movie": "Limitless",
+      "type": "movie",
+      "year": 2011
+   },
+   {
+      "quote": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
+      "movie": "Harry Potter and the Deathly Hallows",
       "type": "movie",
       "year": 2011
    },
@@ -2511,5 +2541,29 @@
       "movie": "Friends",
       "type": "tv",
       "year": 1994
+   },
+   {
+      "quote": "You never would have come here unless you believed you were going to save them. Evolution has yet to transcend that simple barrier. We can care deeply - selflessly - about those we know, but that empathy rarely extends beyond our line of sight.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "A machine doesn't improvise well because you cannot program a fear of death. Our survival instinct is our greatest source of inspiration.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Mankind was born on Earth. It was never meant to die here.",
+      "movie": "Interstellar",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Mark Watney, Space Pirate.",
+      "movie": "The Martian",
+      "type": "movie",
+      "year": 2015
    }
 ]
