@@ -842,6 +842,7 @@
       "type": "movie",
       "year": 2000
    },
+   
    {
       "quote": "Snnnnnooooooooooow!!!!!!!!!",
       "movie": "Snow Day",
@@ -1961,6 +1962,12 @@
       "year": 2013
    },
    {
+      "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+      "movie": "Rebel of the sands",
+      "type": "movie",
+      "year": 2015
+   },
+   {
       "quote": "People keep asking if I'm back and I haven't really had an answer, but yeah, I'm thinking I'm back.",
       "movie": "John Wick",
       "type": "movie",
@@ -1972,6 +1979,13 @@
       "type": "movie",
       "year": 2017
    },
+   {
+      "quote": "Break hearts not promises",
+      "movie": "Turtles all the way down",
+      "type": "movie",
+      "year": 2017
+   },
+  
    {
       "quote": "Guns, lots of guns",
       "movie": "John Wick 3: Parabellum",
@@ -1987,6 +2001,12 @@
    {
       "quote": "There are no two words in the English language more harmful than good job.",
       "movie": "Whiplash",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+      "movie": "Fault in our stars",
       "type": "movie",
       "year": 2014
    },
@@ -2101,6 +2121,12 @@
    {
       "quote": "We are all different. However bad life may seem, there is always something you can do, and succeed at. While there's life, there is hope.",
       "movie": "The Theory of Everything",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "Pain demands to be felt",
+      "movie": "Fault in our stars",
       "type": "movie",
       "year": 2014
    },
