@@ -5614,5 +5614,12 @@
       "movie": "Back to the future",
       "type": "movie",
       "year": 1958
+   },
+   {
+      "quote": "Ideals are peaceful, History is violent",
+      "movie": "Fury",
+      "type": "war",
+      "year": 2014
    }
+	
 ]
