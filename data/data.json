@@ -5524,13 +5524,31 @@
       "movie": "The Lord of the Rings: The Fellowship of the Ring",
       "type": "movie",
       "year": 2001   
- },
+   },
    {
       "quote": "The people who are crazy enough to think that they can change the world, are the one's who do",
       "movie": "Jobs",
       "type": "movie",
       "year": 2013
    },
+   {
+      "quote": "Everyone’s a whore, Grace. We just sell different parts of ourselves.",
+      "movie":"Peaky Blinders",
+      "type":"TV",
+      "year": 2014
+   },
+   {
+      "quote": "People live their lives bound by what they accept as correct and true. That's how they define \"reality\". But what does it mean to be \"correct\" or \"true\"? Merely vague concepts... Their \"reality\" may all be a mirage. Can we consider them to simply be living in their own world, shaped by their beliefs?",
+      "movie": "Naruto",
+      "type": "Anime",
+      "year": 1997
+   },
+   {
+      "quote": "If you can only do one thing, hone it to perfection. Hone it to the utmost limit!",
+      "movie": "Kimetsu no Yaiba",
+      "type": "Anime",
+      "year": 2019
+  },
    {
       "quote": "Where we're going, we don't need roads",
       "movie": "Back to the future",
