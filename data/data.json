@@ -17,6 +17,7 @@
     "type": "movie",
     "year": 1933
   },
+
   {
     "quote": "Magic Mirror on the wall, who is the fairest one of all?",
     "movie": "Snow White and the Seven Dwarves",
@@ -5243,6 +5244,12 @@
       "type": "movie",
       "year": 2019
    },
+   {
+    "quote": "For I am a Sinner in the hands of an angry God, Bloody Mary, Full of Vodka, Blessed are you among cocktails, pray for me now, at the hour of my death, which I hope is soon.",
+    "movie": "Archer",
+    "type": "TV Series",
+    "year": "2018"
+    },
    {
       "quote": "I am Iron Man",
       "movie": "Endgame",
