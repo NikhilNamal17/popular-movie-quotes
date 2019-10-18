@@ -2751,6 +2751,12 @@
       "movie": "Jobs",
       "type": "movie",
       "year": 2013
+   },
+   {
+      "quote": "You either die a hero, or you live long enough to see yourself become the villain.",
+      "movie": "Batman: The Dark Knight",
+      "type": "movie",
+      "year": 2008
    }
     
 ]
