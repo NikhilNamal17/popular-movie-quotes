@@ -842,6 +842,7 @@
       "type": "movie",
       "year": 2000
    },
+   
    {
       "quote": "Snnnnnooooooooooow!!!!!!!!!",
       "movie": "Snow Day",
@@ -1961,6 +1962,12 @@
       "year": 2013
    },
    {
+      "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+      "movie": "Rebel of the sands",
+      "type": "movie",
+      "year": 2015
+   },
+   {
       "quote": "People keep asking if I'm back and I haven't really had an answer, but yeah, I'm thinking I'm back.",
       "movie": "John Wick",
       "type": "movie",
@@ -1972,6 +1979,13 @@
       "type": "movie",
       "year": 2017
    },
+   {
+      "quote": "Break hearts not promises",
+      "movie": "Turtles all the way down",
+      "type": "movie",
+      "year": 2017
+   },
+  
    {
       "quote": "Guns, lots of guns",
       "movie": "John Wick 3: Parabellum",
@@ -1987,6 +2001,12 @@
    {
       "quote": "There are no two words in the English language more harmful than good job.",
       "movie": "Whiplash",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+      "movie": "Fault in our stars",
       "type": "movie",
       "year": 2014
    },
@@ -2105,10 +2125,22 @@
       "year": 2014
    },
    {
+      "quote": "Pain demands to be felt",
+      "movie": "Fault in our stars",
+      "type": "movie",
+      "year": 2014
+   },
+   {
       "quote": "Having a family doesn’t mean that you stop being an individual. You know the best thing you can do for the people that depend on you? Be honest with them, even if it means setting them free.",
       "movie": "Rick and Morty Season 1",
       "type": "TV",
       "year": 2014
+   },
+   {
+      "quote": "The price of freedom is high, and it's the price I am willing to pay",
+      "movie": "Captain America: The Winter Soldier",
+      "type": "movie",
+      "year" : 2014
    },
    {
       "quote": "I'm going to have to science the s*** out of this.",
@@ -2203,6 +2235,12 @@
    {
       "quote": "You can’t buy love, but you can rent it for three minutes!",
       "movie": "Deadpool",
+      "type": "movie",
+      "year": 2016
+   },
+   {
+      "quote": "I can do this all day",
+      "movie": "Captain America: Civil War",
       "type": "movie",
       "year": 2016
    },
@@ -2769,6 +2807,11 @@
       "movie": "Kimetsu no Yaiba",
       "type": "Anime",
       "year": 2019
+  },
+   {
+      "quote": "Where we're going, we don't need roads",
+      "movie": "Back to the future",
+      "type": "movie",
+      "year": 1958
    }
-    
 ]
