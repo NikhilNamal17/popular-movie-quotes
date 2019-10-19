@@ -5627,6 +5627,12 @@
       "type": "movie",
       "year": 1958
    },
+   { 
+      "quote": "whatever it takes",
+      "movie": "avengers the infinity war",
+      "type": "movie",
+      "year": 2018
+ },
    {
 
       "quote": "Ideals are peaceful, History is violent",
@@ -5646,5 +5652,4 @@
     "type": "movie",
     "year": 2000
    }
-	
 ]
