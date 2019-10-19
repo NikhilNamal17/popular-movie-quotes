@@ -5634,11 +5634,17 @@
       "type": "Anime",
       "year": 2019
   },
-   {
+  {
       "quote": "Where we're going, we don't need roads",
       "movie": "Back to the future",
       "type": "movie",
       "year": 1958
+  },
+  {
+      "quote": "Miracles only happen to those who never give up",
+      "movie": "One Piece",
+      "type": "Anime",
+      "year": 1999
    },
    {
       "quote": "What a treacherous thing to believe that a person is more than a person",
@@ -5701,5 +5707,4 @@
       "type": "movie",
       "year": 1999
    }
-
 ]
