@@ -5614,5 +5614,11 @@
       "movie": "Back to the future",
       "type": "movie",
       "year": 1958
+   },
+   {
+    "quote": "This is your life and it's ending one minute at a time",
+    "movie": "Fight Club",
+    "type": "movie",
+    "year": 1999
    }
 ]
