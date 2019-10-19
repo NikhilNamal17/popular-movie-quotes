@@ -4740,8 +4740,14 @@
       "year": 2014
    },
    {
-      "quote": "Some infinities are bigger than other infinities.",
-      "movie": "The Fault in our stars",
+      "quote": "Machines can never think as humans do but just because something thinks differently from you, does it mean it's not thinking?",
+      "movie": "The Imitation Game",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "I know it's not ordinary. But who ever loved ordinary?",
+      "movie": "The Imitation Game",
       "type": "movie",
       "year": 2014
    },
@@ -5616,10 +5622,23 @@
       "year": 1958
    },
    {
+
       "quote": "Ideals are peaceful, History is violent",
       "movie": "Fury",
       "type": "war",
       "year": 2014
+ },
+   {
+    "quote": "Não sei, só sei que foi assim",
+    "movie": "O Auto da Compadecida",
+    "type": "movie",
+    "year": 2000
+   },
+   {
+    "quote": "Matar padre dá um azar danado. Sobretudo para o padre.",
+    "movie": "O Auto da Compadecida",
+    "type": "movie",
+    "year": 2000
    }
 	
 ]
