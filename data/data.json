@@ -5677,4 +5677,10 @@
     "type": "movie",
     "year": 2000
    }
+  {
+      "quote": "By Grabthar's hammer...what a savings.",
+      "movie": "Galaxy Quest",
+      "type": "movie",
+      "year": 1999
+   }
 ]
