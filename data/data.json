@@ -5718,11 +5718,17 @@
     "movie": "O Auto da Compadecida",
     "type": "movie",
     "year": 2000
-   }
+   },
   {
       "quote": "By Grabthar's hammer...what a savings.",
       "movie": "Galaxy Quest",
       "type": "movie",
       "year": 1999
+   },
+	{
+      "quote": "It'll be just like Beggar's Canyon, back home",
+      "movie": "Star Wars",
+      "type": "movie",
+      "year": 1977
    }
 ]
