@@ -5718,11 +5718,17 @@
     "movie": "O Auto da Compadecida",
     "type": "movie",
     "year": 2000
-   }
+   },
   {
       "quote": "By Grabthar's hammer...what a savings.",
       "movie": "Galaxy Quest",
       "type": "movie",
       "year": 1999
+   },
+	{
+      "quote": "I am big! It's the pictures that got small.",
+      "movie": "Sunset Blvd.",
+      "type": "movie",
+      "year": 1950
    }
 ]
