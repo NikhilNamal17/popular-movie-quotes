@@ -5718,11 +5718,17 @@
     "movie": "O Auto da Compadecida",
     "type": "movie",
     "year": 2000
-   }
-  {
+   },
+   {
       "quote": "By Grabthar's hammer...what a savings.",
       "movie": "Galaxy Quest",
       "type": "movie",
       "year": 1999
+   },
+   {
+        "quote": "It's gone forever, that funny young, lost look I loved won't ever come back. I killed that when I told you about Rebecca. It's gone. In a few hours, you've grown so much older.",
+	"movie": "Rebecca",
+	"type": "movie",
+	"year": 1940
    }
 ]
