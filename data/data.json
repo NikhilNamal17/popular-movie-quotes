@@ -5628,6 +5628,13 @@
       "year": 1958
    },
    {
+
+      "quote": "Ideals are peaceful, History is violent",
+      "movie": "Fury",
+      "type": "war",
+      "year": 2014
+ },
+   {
     "quote": "Não sei, só sei que foi assim",
     "movie": "O Auto da Compadecida",
     "type": "movie",
@@ -5639,4 +5646,5 @@
     "type": "movie",
     "year": 2000
    }
+	
 ]
