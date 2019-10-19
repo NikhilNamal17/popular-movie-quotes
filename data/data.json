@@ -5718,11 +5718,18 @@
     "movie": "O Auto da Compadecida",
     "type": "movie",
     "year": 2000
-   }
+   },
   {
       "quote": "By Grabthar's hammer...what a savings.",
       "movie": "Galaxy Quest",
       "type": "movie",
       "year": 1999
-   }
+   },
+  {
+      "quote": "Vai ficar todo mundo quietinho aí... Não vai subir ninguém!",
+      "movie": "Tropa de Elite",
+      "type": "movie",
+      "year": 2007
+   },
+    
 ]
