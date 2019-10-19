@@ -17,6 +17,7 @@
     "type": "movie",
     "year": 1933
   },
+
   {
     "quote": "Magic Mirror on the wall, who is the fairest one of all?",
     "movie": "Snow White and the Seven Dwarves",
@@ -617,6 +618,12 @@
     "year": 1994
   },
   {
+    "quote": "When I got tired, I slept. When I got hungry, I ate. When I had to go, you know, I went.",
+    "movie": "Forrest Gump",
+    "type": "movie",
+    "year": 1994
+  },
+  {
     "quote": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness. For he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay my vengeance upon you.",
     "movie": "Pulp Fiction",
     "type": "movie",
@@ -1000,6 +1007,12 @@
   {
     "quote": "You know, I'm something of a scientist myself.",
     "movie": "Spiderman",
+    "type": "movie",
+    "year": 2002
+  },
+  {
+    "quote": "Li'l dice my ass, my name is now Li'l Zé now",
+    "movie": "City of God",
     "type": "movie",
     "year": 2002
   },
@@ -4740,8 +4753,14 @@
       "year": 2014
    },
    {
-      "quote": "Some infinities are bigger than other infinities.",
-      "movie": "The Fault in our stars",
+      "quote": "Machines can never think as humans do but just because something thinks differently from you, does it mean it's not thinking?",
+      "movie": "The Imitation Game",
+      "type": "movie",
+      "year": 2014
+   },
+   {
+      "quote": "I know it's not ordinary. But who ever loved ordinary?",
+      "movie": "The Imitation Game",
       "type": "movie",
       "year": 2014
    },
@@ -5244,6 +5263,12 @@
       "year": 2019
    },
    {
+    "quote": "For I am a Sinner in the hands of an angry God, Bloody Mary, Full of Vodka, Blessed are you among cocktails, pray for me now, at the hour of my death, which I hope is soon. Amen",
+    "movie": "Archer",
+    "type": "TV Series",
+    "year": 2018
+    },
+   {
       "quote": "I am Iron Man",
       "movie": "Endgame",
       "type": "movie",
@@ -5620,5 +5645,61 @@
       "movie": "Paper towns",
       "type": "movie",
       "year": 2015
+ },
+   { 
+    "quote": "Never Stop Looking for What's Not There.",
+    "movie": "The Magic of Belle Isle",
+    "type": "movie",
+    "year": 2012
+ },
+   {
+	"quote": "Don't touch my nakama(friend) anymore! ",
+	"movie": "One Piece",
+	"type": "anime",
+	"year": 1999
+ },
+   {
+      "quote": "Life’s a little bit messy. We all make mistakes. No matter what type of animal you are, change starts with you.",
+      "movie": "Zootopia",
+      "type": "Anime",
+      "year": 2016
+ },
+   {
+    "quote": "We'll always have Paris",
+    "movie": "Casablanca",
+    "type": "movie",
+    "year": 1942
+ },
+   {
+      "quote": "whatever it takes",
+      "movie": "avengers the infinity war",
+      "type": "movie",
+      "year": 2018
+ },
+   {
+
+      "quote": "Ideals are peaceful, History is violent",
+      "movie": "Fury",
+      "type": "war",
+      "year": 2014
+ },
+   {
+    "quote": "Não sei, só sei que foi assim",
+    "movie": "O Auto da Compadecida",
+    "type": "movie",
+    "year": 2000
+   },
+   {
+    "quote": "Matar padre dá um azar danado. Sobretudo para o padre.",
+    "movie": "O Auto da Compadecida",
+    "type": "movie",
+    "year": 2000
    }
+  {
+      "quote": "By Grabthar's hammer...what a savings.",
+      "movie": "Galaxy Quest",
+      "type": "movie",
+      "year": 1999
+   }
+
 ]
