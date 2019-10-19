@@ -5614,5 +5614,11 @@
       "movie": "Back to the future",
       "type": "movie",
       "year": 1958
+   },
+   {
+     "quote": "I want to change things. I want to believe that anything can be changed. The moment I met you, a new world opened up for me. You see, after wandering in the darkness for so long, a light brought me happiness. It’s all thanks to you.",
+     "movie": "Chrono Crusade",
+     "type": "Anime",
+     "year": 2003
    }
 ]
