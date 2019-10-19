@@ -54,6 +54,12 @@
     "year": 1939
   },
   {
+    "quote": "Elementary, my dear Watson.",
+    "movie": "The Adventures of Sherlock Holmes",
+    "type": "movie",
+    "year": 1939
+  },
+  {
     "quote": "When it comes to women, you’re a true democrat.",
     "movie": "Casablanca",
     "type": "movie",
@@ -714,6 +720,12 @@
   {
     "quote": "To infinity and beyond",
     "movie": "Toy Story",
+    "type:": "movie",
+    "year": 1995
+  },
+  {
+    "quote": "That'll do, pig. That'll do.",
+    "movie": "Babe",
     "type:": "movie",
     "year": 1995
   },
