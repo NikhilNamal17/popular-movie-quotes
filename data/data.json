@@ -5640,7 +5640,13 @@
       "type": "movie",
       "year": 1958
    },
- {
+  {  
+    "quote": "Never Stop Looking for What's Not There.",
+    "movie": "The Magic of Belle Isle",
+    "type": "movie",
+    "year": 2012
+ },
+   {
 	"quote": "Don't touch my nakama(friend) anymore! ",
 	"movie": "One Piece",
 	"type": "anime",
@@ -5689,4 +5695,5 @@
       "type": "movie",
       "year": 1999
    }
+
 ]
