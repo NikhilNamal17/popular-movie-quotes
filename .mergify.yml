@@ -3,6 +3,7 @@ pull_request_rules:
     conditions:
       - status-success=Travis CI - Pull Request
       - base=master
+      - "#approved-reviews-by>=1"
     actions:
       merge:
         method: merge
