@@ -5826,9 +5826,16 @@
       "movie": "Sunset Blvd.",
       "type": "movie",
       "year": 1950
-   },
+ },
 	{
-   "quote": "When you stop trying to force the solution, it'll happen on its own.",
+   "quote": "It's gone forever, that funny young, lost look I loved won't ever come back. I killed that when I told you about Rebecca. It's gone. In a few hours, you've grown so much older.",
+	"movie": "Rebecca",
+	"type": "movie",
+	"year": 1940
+ },
+	{
+      "quote": "When you stop trying to force the solution, it'll happen on its own.",
+
       "movie": "The Flash",
       "type": "series",
       "year": 2012
