@@ -3044,5 +3044,11 @@
     "movie": "Men in Black",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "Nobody knows this mall better than I do.",
+    "movie": "Paul Blart: Mall Cop",
+    "type": "movie",
+    "year": 2009
   }
 ]
