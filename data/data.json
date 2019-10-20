@@ -5097,7 +5097,7 @@
    {
       "quote": "Power belongs to those who take it.",
       "movie": "Mr. Robot",
-      "type": "TV series",
+      "type": "tv",
       "year": 2015
    },
    {
@@ -5163,7 +5163,7 @@
    {
       "quote": "Having a family doesn’t mean that you stop being an individual. You know the best thing you can do for the people that depend on you? Be honest with them, even if it means setting them free.",
       "movie": "Rick and Morty",
-      "type": "TV Series",
+      "type": "tv",
       "year": 2017
    },
    {
@@ -5181,13 +5181,13 @@
    {
       "quote": "Life is a big trap, made up of little traps... If you listen hard... sometimes you could hear them snap shut.",
       "movie": "Sense8",
-      "type": "TV Series",
+      "type": "tv",
       "year": 2017
    },
    {
       "quote": "Unfortunately, we’re all human. Except me, of course.",
       "movie": "Mr.Robot",
-      "type": "TV series",
+      "type": "tv",
       "year": 2017
    },
    {
@@ -5499,7 +5499,7 @@
    {
     "quote": "For I am a Sinner in the hands of an angry God, Bloody Mary, Full of Vodka, Blessed are you among cocktails, pray for me now, at the hour of my death, which I hope is soon. Amen",
     "movie": "Archer",
-    "type": "TV Series",
+    "type":  "tv",
     "year": 2018
     },
    {
@@ -5848,7 +5848,7 @@
    {
      "quote":"There are No Accidents. No Coincidences. No Escapes. YOU CAN'T CHEAT DEATH.",
      "movie": "Final Destination",
-     "type": "TV Series",
+     "type":  "tv",
      "year": 2000
    },
    {
@@ -5878,19 +5878,19 @@
    {
      "quote": "When we lose our principles, we invite chaos.",
      "movie": "Mr. Robot",
-     "type": "TV Series",
+     "type":  "tv",
      "year": 2017
    },
    {
     "quote": "People walk around, act like they know what hate means. Nah, no one does, until you hate yourself. I mean truly hate yourself. That’s power.",
     "movie": "Mr. Robot",
-    "type": "TV Series",
+    "type":  "tv",
     "year": 2017
    },
    {
     "quote": "I have burrowed underneath your brain. I am nested there. I am the scream in your mind. You will cooperate.",
     "movie": "Mr. Robot",
-    "type": "TV Series",
+    "type":  "tv",
     "year": 2017
    },
    {
@@ -5920,7 +5920,7 @@
 	{
       "quote": "When you stop trying to force the solution, it'll happen on its own.",
       "movie": "The Flash",
-      "type": "series",
+      "type": "tv",
       "year": 2012
  },
 	{
