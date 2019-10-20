@@ -2994,6 +2994,12 @@
       "type": "movie",
       "year": 1999
    },
+{
+      "quote": "I am not in danger, I am the danger",
+      "movie": "Breaking Bad",
+      "type": "movie",
+      "year": 2008
+  },
 	{
       "quote": "It'll be just like Beggar's Canyon, back home",
       "movie": "Star Wars",
@@ -3006,5 +3012,4 @@
      "type": "movie", 
      "year": 1994 
     }
-
 ]
