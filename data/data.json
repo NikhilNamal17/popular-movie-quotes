@@ -5718,11 +5718,77 @@
     "movie": "O Auto da Compadecida",
     "type": "movie",
     "year": 2000
-   }
+   },
   {
       "quote": "By Grabthar's hammer...what a savings.",
       "movie": "Galaxy Quest",
       "type": "movie",
       "year": 1999
-   }
+   },
+   {
+     "quote": "Secrecy is security and security is victory.",
+     "movie": "Snowden",
+     "type": "movie",
+     "year": 2016
+   },
+   {
+     "quote":"There are No Accidents. No Coincidences. No Escapes. YOU CAN'T CHEAT DEATH.",
+     "movie": "Final Destination",
+     "type": "Series",
+     "year": 2000
+   },
+   {
+     "quote": " When I get back home, I want all the praise to go towards me.",
+     "movie": "The Martian",
+     "type": "movie",
+     "year": 2015
+   },
+   {
+     "quote": "Bombs won't stop terrorism, brains will, and we don't have nearly enough of those.",
+     "movie": "Snowden",
+     "type": "movie",
+     "year": 2016
+   },
+   {
+     "quote": "My dad used to say, 'If you live an ordinary life, all you'll have are ordinary stories. You have to live a life of adventure.'",
+     "movie": "Passengers",
+     "type": "movie",
+     "year": 2016
+   },
+   {
+    "quote": "You're right, Aurora. But the drowning man will always try and drag somebody down with him. It ain't right, but the man's drowning.",
+    "movie": "Passengers",
+    "type": "movie",
+    "year": 2016
+   },
+   {
+     "quote": "When we lose our principles, we invite chaos.",
+     "movie": "Mr. Robot",
+     "type": "TV Series",
+     "year": 2017
+   },
+   {
+    "quote": "People walk around, act like they know what hate means. Nah, no one does, until you hate yourself. I mean truly hate yourself. That’s power.",
+    "movie": "Mr. Robot",
+    "type": "TV Series",
+    "year": 2017
+   },
+   {
+    "quote": "I have burrowed underneath your brain. I am nested there. I am the scream in your mind. You will cooperate.",
+    "movie": "Mr. Robot",
+    "type": "TV Series",
+    "year": 2017
+   },
+   {
+    "quote": "You get what you f***ing deserve !!",
+    "movie": "Joker",
+    "type": "movie",
+    "year": 2019
+  },
+  {
+    "quote": "You don't listen, Do you?",
+    "movie": "Joker",
+    "type": "movie",
+    "year": 2019
+  }
 ]
