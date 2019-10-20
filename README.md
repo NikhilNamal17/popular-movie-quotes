@@ -32,18 +32,18 @@ $ npm i popular-movie-quotes --save
 
 [![usage](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/NikhilNamal17/popular-movie-quotes)
 
--   **getAll()** method returns an array of objects, each containing **quote** and **movie**.
+- **getAll()** method returns an array of objects, each containing **quote** and **movie**.
 
 ```json
 {
-    "quote": "Frankly, my dear, I don't give a damn.",
-    "movie": "Gone with the Wind",
-    "type": "movie",
-    "year": 1939
+  "quote": "Frankly, my dear, I don't give a damn.",
+  "movie": "Gone with the Wind",
+  "type": "movie",
+  "year": 1939
 }
 ```
 
--   **getQuoteByYear(startYear, endYear)** method returns a sorted object within the range of year startYear -endYear\*\*
+- **getQuoteByYear(startYear, endYear)** method returns a sorted object within the range of year startYear -endYear\*\*
 
 ```json
 [
@@ -64,36 +64,57 @@ $ npm i popular-movie-quotes --save
 ]
 ```
 
--   **getSomeRandom(count)** method returns an array (of length 'count') of non-duplicate random objects containing **quote** and **movie**.
+- **getSomeRandom(count)** method returns an array (of length 'count') of non-duplicate random objects containing **quote** and **movie**.
 
 ```json
 [
-    {
-        "quote": "Frankly, my dear, I don't give a damn.",
-        "movie": "Gone with the Wind",
-        "type": "movie",
-        "year": 1939
-    }
-    // with 'count' number of quote objects.
+  {
+    "quote": "Frankly, my dear, I don't give a damn.",
+    "movie": "Gone with the Wind",
+    "type": "movie",
+    "year": 1939
+  }
+  // with 'count' number of quote objects.
 ]
 ```
 
--   **getRandomQuote()** method returns a random **movie** quote :
+- **getRandomQuote()** method returns a random **movie** quote :
 
 ```javascript
 I used to think that my life was a tragedy. But now I realize, it’s a comedy.
 ```
 
--   **getQuotesByMovie("MovieName")** method returns an array with all quotes of MovieName movie, else returns empty.
+- **getQuotesByMovie("MovieName")** method returns an array with all quotes of MovieName movie, else returns empty.
 
 ```json
 [
-    {
+  {
+    "quote": "Frankly, my dear, I don't give a damn.",
+    "movie": "Gone with the Wind",
+    "type": "movie",
+    "year": 1939
+  }
+]
+```
+
+- **getQuotesByType("movie/anime/tv")** method returns an array with all quotes of type movie/anime/tv, else returns empty.
+
+```json
+[
+   {
         "quote": "Frankly, my dear, I don't give a damn.",
         "movie": "Gone with the Wind",
         "type": "movie",
         "year": 1939
     }
+    ...
+    .....
+    {
+        "quote": "You all love twisting the knife into one another.",
+        "movie": "Knives Out",
+        "type": "movie",
+        "year": 2019
+  }
 ]
 ```
 
@@ -111,11 +132,14 @@ console.log(movieQuote.getQuoteByYear(2000, 2019)); // returns a sorted object w
 
 console.log(movieQuote.getQuotesByMovie("Joker")); //If present returns and array
 // with all quotes of joker movie, else returns empty.
+
+console.log(movieQuote.getQuotesByType("anime")); //If present returns and array
+// with all quotes of type anime, else returns empty.
 ```
 
 ## Testing
 
--   Check if quote is duplicate/already present.
+- Check if quote is duplicate/already present.
 
 ```bash
 $ npm test
@@ -147,6 +171,7 @@ Hey! Help me out with a couple of coffee!
 
 <a href="https://www.buymeacoffee.com/nikhilnamal" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I215TEM)
+
 <hr>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)

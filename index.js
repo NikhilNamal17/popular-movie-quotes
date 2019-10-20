@@ -1,59 +1,69 @@
 let array = require("./data/data.json");
 
 const randomNum = () => {
-    return Math.floor(Math.random() * array.length);
+  return Math.floor(Math.random() * array.length);
 };
 
 const getQuoteByYear = (start, end) => {
-    let quotes = [];
-    array.forEach(item => {
-        if (item.year && item.year > start && item.year < end) {
-            quotes.push(item);
-        }
-    });
-    return quotes.sort((a, b) =>
-        a.year > b.year ? 1 : b.year > a.year ? -1 : 0
-    );
+  let quotes = [];
+  array.forEach(item => {
+    if (item.year && item.year >= start && item.year <= end) {
+      quotes.push(item);
+    }
+  });
+  return quotes.sort((a, b) =>
+    a.year > b.year ? 1 : b.year > a.year ? -1 : 0
+  );
 };
 
 const getRandomQuote = () => {
-    let randNum = randomNum();
-    return array[randNum].quote;
+  let randNum = randomNum();
+  return array[randNum].quote;
 };
 
 const getSomeRandom = count => {
-    let randomQuotesArray = [];
-    let randomQuotesSet = new Set(); // to prevent duplicate quotes
-    while (randomQuotesArray.length < count) {
-        let quote = array[randomNum()];
-        if (!randomQuotesSet.has(quote)) {
-            randomQuotesArray.push(quote);
-        }
+  let randomQuotesArray = [];
+  let randomQuotesSet = new Set(); // to prevent duplicate quotes
+  while (randomQuotesArray.length < count) {
+    let quote = array[randomNum()];
+    if (!randomQuotesSet.has(quote)) {
+      randomQuotesArray.push(quote);
     }
-    return randomQuotesArray;
+  }
+  return randomQuotesArray;
+};
+
+const getQuotesByObject = (quote, obj) => {
+  let resultArray = [];
+  quote = quote.toLowerCase();
+  object = obj;
+  array.forEach(item => {
+    item[object] = item[object].toLowerCase();
+    if (item[object] && item[object] === quote) {
+      resultArray.push(item);
+    }
+  });
+
+  return resultArray;
 };
 
 const getQuotesByMovie = quote => {
-    let resultArray = [];
-    quote = quote.toLowerCase();
-    array.forEach(item => {
-        item.movie = item.movie.toLowerCase();
-        if (item.movie && item.movie === quote) {
-            resultArray.push(item);
-        }
-    });
+  return getQuotesByObject(quote, "movie");
+};
 
-    return resultArray;
+const getQuotesByType = quote => {
+  return getQuotesByObject(quote, "type");
 };
 
 const getAll = () => {
-    return array;
+  return array;
 };
 
 module.exports = {
-    getAll,
-    getRandomQuote,
-    getSomeRandom,
-    getQuoteByYear,
-    getQuotesByMovie
+  getAll,
+  getRandomQuote,
+  getSomeRandom,
+  getQuoteByYear,
+  getQuotesByMovie,
+  getQuotesByType
 };
