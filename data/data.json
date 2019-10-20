@@ -541,7 +541,7 @@
     "year": 1990
   },
   {
-    "quote":"As far back as I can remember, I always wanted to be a gangster.",
+    "quote": "As far back as I can remember, I always wanted to be a gangster.",
     "movie": "Goodfellas",
     "type": "movie",
     "year": 1990
@@ -3044,5 +3044,29 @@
     "movie": "Men in Black",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "Winter is coming!",
+    "movie": "Game of Thrones",
+    "type": "series",
+    "year": 2011
+  },
+  {
+    "quote": "Zaldrīzes buzdari iksos daor! (A dragon is not a slave!)",
+    "movie": "Game of Thrones",
+    "type": "series",
+    "year": 2011
+  },
+  {
+    "quote": "When you play game of thrones, you win or you die, there is no middle ground!",
+    "movie": "Game of Thrones",
+    "type": "series",
+    "year": 2011
+  },
+  {
+    "quote": "Chaos is a ladder!",
+    "movie": "Game of Thrones",
+    "type": "series",
+    "year": 2011
   }
 ]
