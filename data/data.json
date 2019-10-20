@@ -2940,9 +2940,71 @@
       "year": 1999
    },
    { 
+    "quote": "Never Stop Looking for What's Not There.",
+    "movie": "The Magic of Belle Isle",
+    "type": "movie",
+    "year": 2012
+ },
+   {
+	"quote": "Don't touch my nakama(friend) anymore! ",
+	"movie": "One Piece",
+	"type": "anime",
+	"year": 1999
+ },
+   {
+      "quote": "Life’s a little bit messy. We all make mistakes. No matter what type of animal you are, change starts with you.",
+      "movie": "Zootopia",
+      "type": "Anime",
+      "year": 2016
+ },
+   {
+    "quote": "We'll always have Paris",
+    "movie": "Casablanca",
+    "type": "movie",
+    "year": 1942
+ },
+   {
+      "quote": "whatever it takes",
+      "movie": "avengers the infinity war",
+      "type": "movie",
+      "year": 2018
+ },
+   {
+
+      "quote": "Ideals are peaceful, History is violent",
+      "movie": "Fury",
+      "type": "war",
+      "year": 2014
+ },
+   {
+    "quote": "Não sei, só sei que foi assim",
+    "movie": "O Auto da Compadecida",
+    "type": "movie",
+    "year": 2000
+   },
+   {
+    "quote": "Matar padre dá um azar danado. Sobretudo para o padre.",
+    "movie": "O Auto da Compadecida",
+    "type": "movie",
+    "year": 2000
+   },
+  {
+      "quote": "By Grabthar's hammer...what a savings.",
+      "movie": "Galaxy Quest",
+      "type": "movie",
+      "year": 1999
+   },
+	{
+      "quote": "It'll be just like Beggar's Canyon, back home",
+      "movie": "Star Wars",
+      "type": "movie",
+      "year": 1977
+ },
+	{
      "quote": "Everything the light touches is our kingdom", 
      "movie": "The Lion King", 
      "type": "movie", 
      "year": 1994 
     }
+
 ]
