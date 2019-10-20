@@ -2927,4 +2927,16 @@
     "type": "movie",
     "year": 2019
   }
+  {
+      "quote": "By Grabthar's hammer...what a savings.",
+      "movie": "Galaxy Quest",
+      "type": "movie",
+      "year": 1999
+   },
+   { 
+     "quote": "Everything the light touches is our kingdom", 
+     "movie": "The Lion King", 
+     "type": "movie", 
+     "year": 1994 
+    }
 ]
