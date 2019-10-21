@@ -1,43 +1,59 @@
 {
-    "name": "popular-movie-quotes",
-    "version": "1.0.7",
-    "description": "A simple NPM package to get popular movie quotes",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/NikhilNamal17/popular-movie-quotes.git"
-    },
-    "keywords": [
-        "word",
-        "words",
-        "list",
-        "array",
-        "random",
-        "rand",
-        "movies",
-        "quote",
-        "quotes",
-        "cinema",
-        "popular",
-        "movie-quotes",
-        "popular-movie-quotes"
-    ],
-    "bugs": {
-        "url": "https://github.com/NikhilNamal17/popular-movie-quotes/issues"
-    },
-    "directories": {
-        "demo": "demo",
-        "data": "data",
-        "test": "test"
-    },
-    "scripts": {
-        "test": "mocha || exit 0"
-    },
-    "author": "Nikhil N Namal <nikhilnamal16@mail.com>",
-    "license": "MIT",
-    "devDependencies": {
-        "chai": "^4.2.0",
-        "lodash": "^4.17.15",
-        "mocha": "^6.2.1"
+  "name": "popular-movie-quotes",
+  "version": "1.1.5",
+  "description": "A simple NPM package to get popular movie quotes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhilNamal17/popular-movie-quotes.git"
+  },
+  "keywords": [
+    "word",
+    "words",
+    "list",
+    "array",
+    "random",
+    "rand",
+    "movies",
+    "quote",
+    "quotes",
+    "cinema",
+    "popular",
+    "movie-quotes",
+    "popular-movie-quotes"
+  ],
+  "bugs": {
+    "url": "https://github.com/NikhilNamal17/popular-movie-quotes/issues"
+  },
+  "directories": {
+    "demo": "demo",
+    "data": "data",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha || exit 0"
+  },
+  "author": "Nikhil N Namal <nikhilnamal16@mail.com>",
+  "license": "MIT",
+  "homepage": "https://nikhilnamal17.github.io/popular-movie-quotes/",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "husky": "^3.0.4",
+    "lint-staged": "^9.2.5",
+    "lodash": "^4.17.15",
+    "mocha": "^6.2.1",
+    "prettier": "^1.18.2",
+    "pretty-quick": "^2.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
     }
+  },
+  "lint-staged": {
+    "data/**/*.{json}": [
+      "pretty-quick --staged",
+      "git add"
+    ]
+  }
 }
