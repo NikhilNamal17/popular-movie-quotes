@@ -2362,6 +2362,12 @@
     "year": 2015
   },
   {
+    "quote": "People keeps secret computers don't",
+    "movie": "Arrow",
+    "type": "tv",
+    "year": 2015
+  },
+  {
     "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
     "movie": "Rebel of the sands",
     "type": "movie",
@@ -2446,6 +2452,12 @@
     "year": 2015
   },
   {
+    "quote": "Sometimes it's people closest to us who lie to us best",
+    "movie": "Arrow",
+    "type": "tv",
+    "year": 2015
+  },
+  {
     "quote": "Examined from another angle, your faults and weaknesses can be weapons",
     "movie": "Assassination classroom",
     "type": "anime",
@@ -2520,6 +2532,12 @@
   {
     "quote": "Unfortunately, we’re all human. Except me, of course.",
     "movie": "Mr.Robot",
+    "type": "tv",
+    "year": 2017
+  },
+  {
+    "quote": "Love's the most powerful emotion and that makes it the most dangerous",
+    "movie": "Arrow",
     "type": "tv",
     "year": 2017
   },
@@ -3048,25 +3066,31 @@
   {
     "quote": "Winter is coming!",
     "movie": "Game of Thrones",
-    "type": "series",
+    "type": "tv",
     "year": 2011
   },
   {
     "quote": "Zaldrīzes buzdari iksos daor! (A dragon is not a slave!)",
     "movie": "Game of Thrones",
-    "type": "series",
+    "type": "tv",
     "year": 2011
   },
   {
     "quote": "When you play game of thrones, you win or you die, there is no middle ground!",
     "movie": "Game of Thrones",
-    "type": "series",
+    "type": "tv",
     "year": 2011
   },
   {
     "quote": "Chaos is a ladder!",
     "movie": "Game of Thrones",
-    "type": "series",
+    "type": "tv",
     "year": 2011
+ },
+  {
+    "quote": "Some people can’t believe in themselves until someone else believes in them first ",
+    "movie" :"Good will hunting",
+    "type" : "movie",
+    "year" : 1997
   }
 ]
