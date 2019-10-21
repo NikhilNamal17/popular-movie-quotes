@@ -3243,5 +3243,11 @@
     "movie":"Ad Astra",
     "type":"movie",
     "year":2019
+  },
+  {
+    "quote":"I am the Jewish James Bond!",
+    "movie":"Munich",
+    "type":"movie",
+    "year":2005
   }
 ]
