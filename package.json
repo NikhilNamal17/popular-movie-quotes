@@ -1,6 +1,6 @@
 {
   "name": "popular-movie-quotes",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "A simple NPM package to get popular movie quotes",
   "main": "index.js",
   "repository": {
