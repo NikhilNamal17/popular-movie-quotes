@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "quote":"Listen to them. Children of the night. What music they make.",
     "movie":"Dracula",
@@ -16,6 +16,12 @@
     "movie":"King Kong",
     "type":"movie",
     "year":1933
+  },
+  {
+    "quote":"Give me a scotch",
+    "movie":"Iron Man",
+    "type":"movie",
+    "year":2008 
   },
   {
     "quote":"Magic Mirror on the wall, who is the fairest one of all?",
