@@ -3128,5 +3128,17 @@
     "movie" :"Good will hunting",
     "type" : "movie",
     "year" : 1997
-  }
+  },
+  {
+    "quote": "Não vai subir ninguém.",
+    "movie": "Tropa de Elite",
+    "type": "movie",
+    "year": 2007
+   },
+   {
+    "quote": "Na cara não para não estragar o velório.",
+    "movie": "Tropa de Elite",
+    "type": "movie",
+    "year": 2007
+   }
 ]
