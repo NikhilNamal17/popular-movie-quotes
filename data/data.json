@@ -3044,5 +3044,11 @@
     "movie": "Men in Black",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it.",
+    "movie": "Harry Potter and the Deathly Hallows",
+    "type": "movie",
+    "year": 2010
   }
 ]
