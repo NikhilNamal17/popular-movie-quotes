@@ -3255,5 +3255,11 @@
     "movie":"Munich",
     "type":"movie",
     "year":2005
-  }
+  },
+  {
+    "quote":"Life is a banquet, and most poor suckers are starving to death!",
+    "movie":"Auntie Mame",
+    "type":"movie",
+    "year":1958
+  } 
 ]
