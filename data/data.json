@@ -1,4 +1,5 @@
-[{
+[
+  {
     "quote": "Listen to them. Children of the night. What music they make.",
     "movie": "Dracula",
     "type": "movie",
@@ -730,10 +731,10 @@
     "year": 1994
   },
   {
-    "quote":"Mama always said life was like a box of chocolates. You never know what you're gonna get.",
-    "movie":"Forrest Gump",
-    "type":"movie",
-    "year":1994
+    "quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "movie": "Forrest Gump",
+    "type": "movie",
+    "year": 1994
   },
   {
     "quote": "Oh yes, the past can hurt. But you can either run from it, or learn from it.",
@@ -2058,6 +2059,12 @@
   },
   {
     "quote": "Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange.",
+    "movie": "Inception",
+    "type": "movie",
+    "year": 2010
+  },
+  {
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
     "movie": "Inception",
     "type": "movie",
     "year": 2010
