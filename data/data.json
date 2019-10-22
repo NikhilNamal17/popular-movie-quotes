@@ -2064,12 +2064,6 @@
     "year": 2010
   },
   {
-    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
-    "movie": "Inception",
-    "type": "movie",
-    "year": 2010
-  },
-  {
     "quote": "A million dollars isn't cool. You know what's cool?",
     "movie": "The Social Network",
     "type": "movie",
@@ -3285,5 +3279,11 @@
     "movie": "Now You See Me",
     "type": "movie",
     "year": 2013
+  },
+  {
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "movie": "Inception",
+    "type": "movie",
+    "year": 2010
   }
 ]
