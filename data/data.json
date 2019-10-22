@@ -252,6 +252,18 @@
     "year":1975
   },
   {
+    "quote": "Run Away!",
+    "movie": "Monty Python and the Holy Grail",
+    "type": "movie",
+    "year": 1975
+  },
+  {
+    "quote": "We are the Knights who say... Ni!",
+    "movie": "Monty Python and the Holy Grail",
+    "type": "movie",
+    "year": 1975
+  },
+  {
     "quote":"Yo, Adrian!!.",
     "movie":"Rocky",
     "type":"movie",
