@@ -719,6 +719,24 @@
     "year": 1994
   },
   {
+    "quote": "I mean, seriously, how often do you really look at a mans shoes?",
+    "movie": "Shawshank Redemption",
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "quote": "Lord, it's a miracle! Man up and vanished like a fart in the wind!",
+    "movie": "Shawshank Redemption",
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "movie": "Forrest Gump",
+    "type": "movie",
+    "year": 1994
+  },
+  {
     "quote": "Oh yes, the past can hurt. But you can either run from it, or learn from it.",
     "movie": "The Lion King",
     "type": "movie",
@@ -3255,6 +3273,12 @@
     "movie": "Munich",
     "type": "movie",
     "year": 2005
+  },
+  {
+    "quote": "Look closer because the closer you think you are the less you actually see",
+    "movie": "Now You See Me",
+    "type": "movie",
+    "year": 2013
   },
   {
     "quote": "No one should be immortal, if even one person has to die.",
