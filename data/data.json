@@ -1,4 +1,5 @@
-[{
+[
+  {
     "quote": "Listen to them. Children of the night. What music they make.",
     "movie": "Dracula",
     "type": "movie",
@@ -730,10 +731,10 @@
     "year": 1994
   },
   {
-    "quote":"Mama always said life was like a box of chocolates. You never know what you're gonna get.",
-    "movie":"Forrest Gump",
-    "type":"movie",
-    "year":1994
+    "quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "movie": "Forrest Gump",
+    "type": "movie",
+    "year": 1994
   },
   {
     "quote": "Oh yes, the past can hurt. But you can either run from it, or learn from it.",
@@ -3273,22 +3274,29 @@
     "type": "movie",
     "year": 2005
   },
- {
-    "quote":"I am the Jewish James Bond!",
-    "movie":"Munich",
-    "type":"movie",
-    "year":2005
+  {
+    "quote": "I am the Jewish James Bond!",
+    "movie": "Munich",
+    "type": "movie",
+    "year": 2005
   },
   {
-    "quote":"The heart is not like a box that gets filled up; it expands in size the more you love. I'm different from you. This doesn't make me love you any less. It actually makes me love you more.",
-    "movie":"Her",
-    "type":"movie",
-    "year":2013
- }, 
- {
+    "quote": "The heart is not like a box that gets filled up; it expands in size the more you love. I'm different from you. This doesn't make me love you any less. It actually makes me love you more.",
+    "movie": "Her",
+    "type": "movie",
+    "year": 2013
+  },
+  {
     "quote": "Look closer because the closer you think you are the less you actually see",
     "movie": "Now You See Me",
     "type": "movie",
     "year": 2013
+  },
+  {
+    "quote": "In the ninja world, those who break the rules are scum, that's true, but those who abandon their friends are worse than scum",
+    "movie": "Naruto",
+    "type": "movie",
+    "year": 1997
   }
 ]
+
