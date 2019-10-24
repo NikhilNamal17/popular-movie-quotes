@@ -3296,5 +3296,11 @@
     "movie": "Now You See Me",
     "type": "movie",
     "year": 2013
+  },
+  {
+      "quote": "At some point, you gotta decide for yourself who you gonna be. Can't let nobody make that decision for you.",
+      "movie": "Moonlight",
+      "type": "movie",
+      "year": 2016
   }
 ]
