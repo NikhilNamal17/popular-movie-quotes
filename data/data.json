@@ -1,4 +1,6 @@
-[ { "quote":"you can't handle the truth!”,
+
+[
+ { "quote":"you can't handle the truth!”,
     "movie":" A Few Good Men",
     "type":"movie",
     "year":1992
@@ -3317,6 +3319,12 @@
     "year": 2013
   },
   {
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "movie": "Inception",
+    "type": "movie",
+    "year": 2010
+  },
+  {
     "quote": "No one should be immortal, if even one person has to die.",
     "movie": "In Time",
     "type": "movie",
@@ -3371,6 +3379,4 @@
     "type": "movie",
     "year": 2017
  }
-
- 
 ]
