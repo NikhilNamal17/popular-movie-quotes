@@ -3290,5 +3290,23 @@
     "movie": "Now You See Me",
     "type": "movie",
     "year": 2013
+  },
+  {
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "movie": "The Waterboy",
+    "type": "movie",
+    "year": 1998
+  },
+  {
+    "quote": "Damn! We're in a tight spot!",
+    "movie": "O Brother, Where Art Thou?",
+    "type": "movie",
+    "year": 2000
+  },
+  {
+    "quote": "Do not seek the treasure",
+    "movie": "O Brother, Where Art Thou?",
+    "type": "movie",
+    "year": 2000
   }
 ]
