@@ -3296,5 +3296,35 @@
     "movie": "Now You See Me",
     "type": "movie",
     "year": 2013
-  }
+  },
+{
+  "quote": "Fasten your seatbelts. It's going to be a bumpy night.",
+  "movie": "All About Eve",
+  "type": "movie",
+  "year": 1950
+},
+{
+  "quote": "What we've got here is failure to communicate",
+  "movie": "Cool Hand Luke",
+  "type": "movie",
+  "year": 1967
+},
+{
+  "quote": "Show me the money!",
+  "movie": "Jerry Maguire",
+  "type": "movie",
+  "year": 1996
+},
+{
+  "quote": "Greed, for lack of a better word, is good.",
+  "movie": "Wall Street",
+  "type": "movie",
+  "year": 1987
+},
+{
+  "quote": "My precious.",
+  "movie": "The Lord of the Rings: Two Towers",
+  "type": "movie",
+  "year": 2002
+}
 ]
