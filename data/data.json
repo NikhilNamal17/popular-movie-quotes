@@ -3319,12 +3319,18 @@
     "year": 2013
   },
   {
+ 
+  	"quote": "Music's the only thing that makes sense anymore, man. Play it loud enough, it keeps the demons at bay.",
+  	"movie": "Across the Universe",
+  	"type": "movie",
+  	"year": 2007
+},
+  {
     "quote": "People hurt the ones they love. That's how it is all around the world",
     "movie": "The Green Mile",
     "type": "movie",
     "year": 1999
-  },
- 
+ },
   {
     "quote": "You’re killin’ me, Smalls.",
     "movie": "The Sandlot",
@@ -3416,4 +3422,4 @@
     "year": 2017
  }
 ]
-
+ 
