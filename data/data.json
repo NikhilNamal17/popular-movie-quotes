@@ -3296,5 +3296,11 @@
     "movie": "Now You See Me",
     "type": "movie",
     "year": 2013
-  }
+  }, 
+  {
+     "quote": "I dance because dance can change things. One move can set a generation free",
+     "movie": "Step Up Revolution",
+     "type": "movie",
+     "year": 2012
+   }
 ]
