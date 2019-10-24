@@ -3440,6 +3440,24 @@
     "year": 2013
   },
   {
+    "quote": "Never let your wings be stolen for you",
+    "movie": "Maleficent:The Mistress of Evil",
+    "type": "movie",
+    "year": 2019
+  },
+  {
+    "quote": "Some birds aren't meant to be caged. Their feathers are just too bright.",
+    "movie": "Shawshank Redemption",
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "quote": "Dress like a kingsman.",
+    "movie": "KINGSMAN: The Secret Service",
+    "type": "movie",
+    "year": 2014
+},
+  {
     "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
     "movie": "The Waterboy",
     "type": "movie",
@@ -3469,4 +3487,4 @@
     "type": "movie",
     "year": 2017
  }
-]
+] 
