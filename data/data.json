@@ -3319,6 +3319,12 @@
     "year": 2013
   },
   {
+    "quote": "That'll do, pig. That'll do.",
+    "movie": "Babe",
+    "type": "movie",
+    "year": 1995
+  },
+  {
     "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
     "movie": "Inception",
     "type": "movie",
@@ -3341,9 +3347,8 @@
     "movie": "Dragon Ball Super: Broly",
     "type": "movie",
     "year": 2019
-  }
+  },
   {
- 
     "quote":"There's no room for softness... not in Sparta. No place for weakness. Only the hard and strong may call themselves Spartans. Only the hard, only the strong.",
     "movie":"300",
     "type":"movie",
