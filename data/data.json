@@ -3300,9 +3300,17 @@
     "year": 2019
   }
   {
+ 
+    "quote":"There's no room for softness... not in Sparta. No place for weakness. Only the hard and strong may call themselves Spartans. Only the hard, only the strong.",
+    "movie":"300",
+    "type":"movie",
+    "year":2007
+   },
+  {
     "quote":"All's fair in Love and Basketball baby",
     "movie":"Love and Basketball",
     "type":"movie",
     "year":2000
+
   },
 ]
