@@ -3255,5 +3255,23 @@
     "movie":"Munich",
     "type":"movie",
     "year":2005
+  },
+  {
+    "quote":"From now on we are enemies, you and I.",
+    "movie":"Amadeus",
+    "type":"movie",
+    "year":1984
+  },
+  {
+    "quote":"Tonight's forecast, a freeze is coming!",
+    "movie":"Batman & Robin",
+    "type":"movie",
+    "year":1997
+  },
+  {
+    "quote":"Come on... Come on! Do it! Do it! Come on. Come on! Kill me! I'm here! Kill me! I'm here! Kill me! Come on! Kill me! I'm here! Come on! Do it now! Kill me!",
+    "movie":"Predator",
+    "type":"movie",
+    "year":1987
   }
 ]
