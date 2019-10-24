@@ -24,6 +24,12 @@
     "year": 1999
   },
   {
+    "quote": "I live in Notting Hill. You live in Beverly Hills. Everyone in the world knows who you are, my mother has trouble remembering my name.",
+    "movie": "Notting Hill",
+    "type": "movie",
+    "year": 1999
+  },
+  {
     "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
     "movie": "King Kong",
     "type": "movie",
@@ -496,6 +502,12 @@
     "movie": "Moonstruck",
     "type": "movie",
     "year": 1987
+  },
+ {
+    "quote": "I love you. I really love you. Ditto.",
+    "movie": "Ghost",
+    "type": "movie",
+    "year": 1990
   },
   {
     "quote": "Here endeth the lesson.",
