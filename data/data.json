@@ -252,10 +252,29 @@
     "year": 1976
   },
   {
+    "quote": "Run Away!",
+    "movie": "Monty Python and the Holy Grail",
+    "type": "movie",
+    "year": 1975
+  },
+  {
+    "quote": "We are the Knights who say... Ni!",
+    "movie": "Monty Python and the Holy Grail",
+    "type": "movie",
+    "year": 1975
+  },
+  {
+    "quote":"Yo, Adrian!!.",
+    "movie":"Rocky",
+    "type":"movie",
+    "year":1976
+ },
+  {
     "quote": "Yeah, to you, it's Thanksgiving; to me, it's Thursday.",
     "movie": "Rocky",
     "type": "movie",
     "year": 1976
+
   },
   {
     "quote": "You talking to me?",
