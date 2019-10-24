@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "quote": "Listen to them. Children of the night. What music they make.",
     "movie": "Dracula",
@@ -734,6 +734,12 @@
   {
     "quote": "Lord, it's a miracle! Man up and vanished like a fart in the wind!",
     "movie": "Shawshank Redemption",
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "movie": "Forrest Gump",
     "type": "movie",
     "year": 1994
   },
@@ -3304,7 +3310,13 @@
     "quote": "I have nothing to prove to you",
     "movie": "Captain Marvel",
     "type": "movie",
-    "year": 2019
+    "year": 2013
+  },
+  {
+    "quote": "No one should be immortal, if even one person has to die.",
+    "movie": "In Time",
+    "type": "movie",
+    "year": 2011
   },
   {
     "quote": "The end is in the beginning and yet you go on.",
@@ -3349,5 +3361,5 @@
     "type": "movie",
     "year": 2017
  }
- 
+
 ]
