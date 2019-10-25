@@ -6270,7 +6270,13 @@
         "movie": "Braveheart",
         "type": "movie",
         "year": 1995
-    },
+	},
+	{
+	  "quote": "These are desperate times, Mrs Lovett. And desperate measures are called for.",
+	  "movie": "Sweeney Todd: The Demon Barber of Fleet Street",
+	  "type": "movie",
+	  "year": 2007
+	},
     {
         "quote": "At some point, you gotta decide for yourself who you gonna be. Can't let nobody make that decision for you.",
         "movie": "Moonlight",
