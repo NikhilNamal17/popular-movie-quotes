@@ -1175,7 +1175,7 @@
     "movie": "Star Wars Episode IV - A New Hope",
     "type": "movie",
     "year": 1977
-    }
+    },
     {
         "quote": "It'll be just like Beggar's Canyon, back home",
         "movie": "Star Wars",
@@ -6270,5 +6270,11 @@
         "movie": "Braveheart",
         "type": "movie",
         "year": 1995
-  }
+    },
+    {
+        "quote": "At some point, you gotta decide for yourself who you gonna be. Can't let nobody make that decision for you.",
+        "movie": "Moonlight",
+        "type": "movie",
+        "year": 2016
+    }
 ]
