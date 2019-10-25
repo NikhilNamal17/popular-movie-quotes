@@ -6282,5 +6282,29 @@
         "movie": "Moonlight",
         "type": "movie",
         "year": 2016
+    },
+    {
+        "quote": "Stop trying to control everything and just let go! LET GO!",
+        "movie": "Fight Club",
+        "type": "movie",
+        "year": 1999
+    },
+    {
+        "quote": "You met me at a very strange time in my life",
+        "movie": "Fight Club",
+        "type": "movie",
+        "year": 1999
+    },
+    {
+        "quote": "If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.",
+        "movie": "Harry Potter and the Goblet of Fire",
+        "type": "movie",
+        "year": 2005
+    },
+    {
+        "quote": "You is kind. You is smart. You is important.",
+        "movie": "The Help",
+        "type": "movie",
+        "year": 2011
     }
 ]
