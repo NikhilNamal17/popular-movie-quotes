@@ -64,7 +64,13 @@
       "movie": "Mad Max",
       "type": "movie",
       "year": 2015
-   },	 
+   },
+   {
+      "quote": "Witness me!",
+      "movie": "Mad Max",
+      "type": "movie",
+      "year": 2015
+   },		 
    {
       "quote": "After all, tomorrow is another day!",
       "movie": "Gone With the Wind",
