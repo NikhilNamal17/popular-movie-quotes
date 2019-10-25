@@ -1171,10 +1171,10 @@
         "year": 1977
     },
     {
-	"quote": "When I left you I was but the learner. Now I am the master.",
-	"movie": "Star Wars Episode IV - A New Hope",
-	"type": "movie",
-	"year": 1977
+    "quote": "When I left you I was but the learner. Now I am the master.",
+    "movie": "Star Wars Episode IV - A New Hope",
+    "type": "movie",
+    "year": 1977
     }
     {
         "quote": "It'll be just like Beggar's Canyon, back home",
@@ -4990,6 +4990,12 @@
     },
     {
         "quote": "A million dollars isn't cool. You know what's cool?",
+        "movie": "The Social Network",
+        "type": "movie",
+        "year": 2010
+    },
+    {
+        "quote": "Whoops. Broke your 350 year old doorknob",
         "movie": "The Social Network",
         "type": "movie",
         "year": 2010
