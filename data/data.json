@@ -6270,5 +6270,11 @@
         "movie": "Braveheart",
         "type": "movie",
         "year": 1995
-  }
+	},
+	{
+	  "quote": "These are desperate times, Mrs Lovett. And desperate measures are called for.",
+	  "movie": "Sweeney Todd: The Demon Barber of Fleet Street",
+	  "type": "movie",
+	  "year": 2007
+	},
 ]
