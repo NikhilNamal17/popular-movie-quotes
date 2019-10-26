@@ -3699,5 +3699,17 @@
         "movie": "Anna",
         "type": "movie",
         "year": 2019
+    },
+    {
+        "quote": "I laugh in the face of danger",
+        "movie": "The Lion King",
+        "type": "movie",
+        "year": 2019
+    },
+    {
+        "quote": "Being brave doesn’t mean you go looking for trouble.",
+        "movie": "The Lion King",
+        "type": "movie",
+        "year": 2019
     }
 ]
