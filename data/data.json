@@ -3787,6 +3787,13 @@
         "year": 2019
     },
     {
+ 
+        "quote": "It's not magic, it's talent and sweat",
+        "movie": "Silicon Valley HBO",
+        "type": "movie",
+        "year": "2014"
+ },
+    {
         "quote": "I laugh in the face of danger",
         "movie": "The Lion King",
         "type": "movie",
@@ -3827,5 +3834,6 @@
         "movie": "Lord of the Rings: The Fellowship of the Ring",
         "type": "movie",
         "year": 2002
+ 
     }
 ]
