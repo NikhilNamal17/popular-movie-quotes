@@ -3853,5 +3853,26 @@
         "type": "movie",
         "year": 2002
  
-    }
+    },
+    {
+        "quote": "Your eyes are like two big blue eyes.",
+        "movie": "Flintstones in Viva Rock Vegas",
+        "type": "movie",
+        "year": 2000
+ 
+    },
+    {
+        "quote": "“Wilma, whatever you decide to do, I want you to know something. Your daddy will always love you.",
+        "movie": "Flintstones in Viva Rock Vegas",
+        "type": "movie",
+        "year": 2000
+ 
+    },
+    {
+        "quote": "“Oh Fred. That's so sweet.",
+        "movie": "Flintstones in Viva Rock Vegas",
+        "type": "movie",
+        "year": 2000
+ 
+    },
 ]
