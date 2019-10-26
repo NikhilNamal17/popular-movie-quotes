@@ -3773,5 +3773,35 @@
         "movie": "The Lion King",
         "type": "movie",
         "year": 2019
+    },
+    {
+        "quote": "What’s done is done, when we say it’s done.",
+        "movie": "Mission Impossible: fallout",
+        "type": "movie",
+        "year": 2018
+    },
+    {
+        "quote": "That there’s some good in this world, Mr. Frodo… and it’s worth fighting for.",
+        "movie": "The Lord of the Rings: The Two Towers",
+        "type": "movie",
+        "year": 2003
+    },
+    {
+        "quote": "A day may come when the courage of men fails… but it is not THIS day.",
+        "movie": "The Lord of the Rings: Return of the King",
+        "type": "movie",
+        "year": 2004
+    },
+    {
+        "quote": "Your time will come. You will face the same Evil, and you will defeat it.",
+        "movie": "Lord of the Rings: The Fellowship of the Ring",
+        "type": "movie",
+        "year": 2002
+    },
+    {
+        "quote": "Even the smallest person can change the course of the future.",
+        "movie": "Lord of the Rings: The Fellowship of the Ring",
+        "type": "movie",
+        "year": 2002
     }
 ]
