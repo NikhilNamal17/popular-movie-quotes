@@ -1705,6 +1705,12 @@
         "year": 2005
     },
     {
+        "quote": "You gotta hear this one song. It'll change your life, I swear.",
+        "movie": "Golden State",
+        "type": "movie",
+        "year": 2004
+    },
+    {
         "quote": "If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.",
         "movie": "Harry Potter and the Goblet of Fire",
         "type": "movie",
@@ -3262,6 +3268,7 @@
         "type": "movie",
         "year": 2018
     },
+    
     {
         "quote": "For I am a Sinner in the hands of an angry God, Bloody Mary, Full of Vodka, Blessed are you among cocktails, pray for me now, at the hour of my death, which I hope is soon. Amen",
         "movie": "Archer",
