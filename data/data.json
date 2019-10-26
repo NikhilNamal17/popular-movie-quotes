@@ -1514,6 +1514,12 @@
         "year": 2003
     },
     {
+        "quote": "When life gets you down, you know what you gotta do? Just keep swimming.",
+        "movie": "Finding Dory",
+        "type": "movie",
+        "year": 2016
+    },
+    {
         "quote": "Ye best start believin' in ghost stories, Miss Turner. Yer in one.",
         "movie": "Pirates of the Carribean",
         "type": "movie",
@@ -2143,6 +2149,12 @@
     },
     {
         "quote": "Me? I know who I am. I'm a dude playing a dude disguised as another dude.",
+        "movie": "Tropic Thunder",
+        "type": "movie",
+        "year": 2008
+    },
+    {
+        "quote": "I don't know what kind of gun this is. I only know the sound it makes when it kills a man.",
         "movie": "Tropic Thunder",
         "type": "movie",
         "year": 2008
