@@ -3862,17 +3862,38 @@
  
     },
     {
-        "quote": "“Wilma, whatever you decide to do, I want you to know something. Your daddy will always love you.",
+        "quote": "Wilma, whatever you decide to do, I want you to know something. Your daddy will always love you.",
         "movie": "Flintstones in Viva Rock Vegas",
         "type": "movie",
         "year": 2000
  
     },
     {
-        "quote": "“Oh Fred. That's so sweet.",
+        "quote": "Oh Fred. That's so sweet.",
         "movie": "Flintstones in Viva Rock Vegas",
         "type": "movie",
         "year": 2000
  
     },
+    {
+        "quote": "I'm so much better when you're around",
+        "movie": "One Day",
+        "type": "movie",
+        "year": 2011
+ 
+    },
+    {
+        "quote": "The problem is, I pretty much fancy everyone. It's like I've just got out of prison all of the time.",
+        "movie": "One Day",
+        "type": "movie",
+        "year": 2011
+ 
+    },
+    {
+        "quote": "A tortilla is either corn or wheat. But a corn tortilla folded and filled is a taco, whereas a filled wheat tortilla is a burrito. Deep fry a burrito, it's a chimichanga.Toast a tortilla, it's a tostada. Roll it, it's an enchilada.",
+        "movie": "One Day",
+        "type": "movie",
+        "year": 2011
+ 
+    }
 ]
