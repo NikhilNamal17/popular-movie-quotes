@@ -767,6 +767,12 @@
         "year": 1994
     },
     {
+        "quote": "The past can hurt. But the way I see it, you can either run from it or learn from it.",
+        "movie": "The Lion King",
+        "type": "movie",
+        "year": 1994
+    },
+    {
         "quote": "Lord, it's a miracle! Man up and vanished like a fart in the wind!",
         "movie": "Shawshank Redemption",
         "type": "movie",
@@ -1078,6 +1084,12 @@
         "year": 1999
     },
     {
+        "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+        "movie": "The Grinch",
+        "type": "movie",
+        "year": 2000
+    },
+    {
         "quote": "There is a difference between knowing the path and walking the path.",
         "movie": "The Matrix",
         "year": 1999
@@ -1211,6 +1223,12 @@
     {
         "quote": "There are No Accidents. No Coincidences. No Escapes. YOU CAN'T CHEAT DEATH.",
         "movie": "Final Destination",
+        "type": "tv",
+        "year": 2000
+    },
+    {
+        "quote": "I hope he didn’t die. Unless he left a note naming me his successor, then I hope he did die.",
+        "movie": "Futurama",
         "type": "tv",
         "year": 2000
     },
@@ -1508,10 +1526,22 @@
         "year": 2003
     },
     {
+        "quote": "The thing about romance is people only get together right at the very end.",
+        "movie": "Love Actually",
+        "type": "movie",
+        "year": 2003
+    },
+    {
         "quote": "Just keep swimming.",
         "movie": "Finding Nemo",
         "type": "movie",
         "year": 2003
+    },
+    {
+        "quote": "When life gets you down, you know what you gotta do? Just keep swimming.",
+        "movie": "Finding Dory",
+        "type": "movie",
+        "year": 2016
     },
     {
         "quote": "Ye best start believin' in ghost stories, Miss Turner. Yer in one.",
@@ -1703,6 +1733,12 @@
         "movie": "Batman Begins",
         "type": "movie",
         "year": 2005
+    },
+    {
+        "quote": "You gotta hear this one song. It'll change your life, I swear.",
+        "movie": "Golden State",
+        "type": "movie",
+        "year": 2004
     },
     {
         "quote": "If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.",
@@ -2131,6 +2167,18 @@
     },
     {
         "quote": "I don't read the script. The script reads me.",
+        "movie": "Tropic Thunder",
+        "type": "movie",
+        "year": 2008
+    },
+    {
+        "quote": "Me? I know who I am. I'm a dude playing a dude disguised as another dude.",
+        "movie": "Tropic Thunder",
+        "type": "movie",
+        "year": 2008
+    },
+    {
+        "quote": "I don't know what kind of gun this is. I only know the sound it makes when it kills a man.",
         "movie": "Tropic Thunder",
         "type": "movie",
         "year": 2008
@@ -2645,6 +2693,18 @@
         "year": 2013
     },
     {
+        "quotes": "What is a face of a coward? the back of his head when he runs from the battle",
+        "movie": "House of Cards",
+        "type": "TV Show",
+        "year": 2013
+    },
+    {
+        "quote": "Proximity to power deludes some into thinking they wield it.",
+        "movie": "House of Cards",
+        "type": "TV Show",
+        "year": 2013 
+    },
+    {
         "quote": "The only thing we're allowed to believe is that we won't regret the choice we made.",
         "movie": "Attack on Titan",
         "type": "anime",
@@ -2693,9 +2753,27 @@
         "year": 2014
     },
     {
+        "quote": "Rather than a person who hurts others, become the person getting hurt",
+        "movie": "Tokyo Ghoul",
+        "type": "Anime",
+        "year": 2014
+    },
+    {
+        "quote": "It's not because we can't take vengeance that we should feel sorry. The real reason to feel sorry... is when one is hung up on revenge and can't live their own life.",
+        "movie": "Tokyo Ghoul",
+        "type": "Anime",
+        "year": 2014
+    },
+    {
         "quote": "I'm on a Roller-coaster that only goes up, My friend",
         "movie": "The Fault in our stars",
         "type": "movie",
+        "year": 2014
+    },
+    {
+        "quote": "If an angelic being fell from the sky and tried to live in this world of ours I think even they would commit many wrongs.",
+        "movie": "Tokyo Ghoul",
+        "type": "Anime",
         "year": 2014
     },
     {
@@ -3232,6 +3310,7 @@
         "type": "movie",
         "year": 2018
     },
+    
     {
         "quote": "For I am a Sinner in the hands of an angry God, Bloody Mary, Full of Vodka, Blessed are you among cocktails, pray for me now, at the hour of my death, which I hope is soon. Amen",
         "movie": "Archer",
@@ -3689,6 +3768,13 @@
         "year": 1939
     },
     {
+        "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+        "movie": "hidden figures",
+        "type": "movie",
+        "year": 2017
+    },
+    {
+
         "quote": "Where there's life there's hope.",
         "movie": "The Hobbit",
         "type": "movie",
@@ -3701,10 +3787,53 @@
         "year": 2019
     },
     {
+ 
         "quote": "It's not magic, it's talent and sweat",
         "movie": "Silicon Valley HBO",
         "type": "movie",
         "year": "2014"
-
+ },
+    {
+        "quote": "I laugh in the face of danger",
+        "movie": "The Lion King",
+        "type": "movie",
+        "year": 2019
+    },
+    {
+        "quote": "Being brave doesn’t mean you go looking for trouble.",
+        "movie": "The Lion King",
+        "type": "movie",
+        "year": 2019
+    },
+    {
+        "quote": "What’s done is done, when we say it’s done.",
+        "movie": "Mission Impossible: fallout",
+        "type": "movie",
+        "year": 2018
+    },
+    {
+        "quote": "That there’s some good in this world, Mr. Frodo… and it’s worth fighting for.",
+        "movie": "The Lord of the Rings: The Two Towers",
+        "type": "movie",
+        "year": 2003
+    },
+    {
+        "quote": "A day may come when the courage of men fails… but it is not THIS day.",
+        "movie": "The Lord of the Rings: Return of the King",
+        "type": "movie",
+        "year": 2004
+    },
+    {
+        "quote": "Your time will come. You will face the same Evil, and you will defeat it.",
+        "movie": "Lord of the Rings: The Fellowship of the Ring",
+        "type": "movie",
+        "year": 2002
+    },
+    {
+        "quote": "Even the smallest person can change the course of the future.",
+        "movie": "Lord of the Rings: The Fellowship of the Ring",
+        "type": "movie",
+        "year": 2002
+ 
     }
 ]
