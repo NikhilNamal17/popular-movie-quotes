@@ -3681,5 +3681,11 @@
         "movie": "300",
         "type": "movie",
         "year": 2007
+    },
+    {
+        "quote": "I'll get you, my pretty, and your little dog, too!",
+        "movie": "The Wizard of Oz",
+        "type": "movie",
+        "year": 1939
     }
 ]
