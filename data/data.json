@@ -3810,7 +3810,7 @@
         "movie": "Silicon Valley HBO",
         "type": "movie",
         "year": "2014"
- },
+    },
     {
         "quote": "I laugh in the face of danger",
         "movie": "The Lion King",
@@ -3880,20 +3880,47 @@
         "movie": "One Day",
         "type": "movie",
         "year": 2011
- 
     },
     {
         "quote": "The problem is, I pretty much fancy everyone. It's like I've just got out of prison all of the time.",
         "movie": "One Day",
         "type": "movie",
         "year": 2011
- 
     },
     {
         "quote": "A tortilla is either corn or wheat. But a corn tortilla folded and filled is a taco, whereas a filled wheat tortilla is a burrito. Deep fry a burrito, it's a chimichanga.Toast a tortilla, it's a tostada. Roll it, it's an enchilada.",
         "movie": "One Day",
         "type": "movie",
         "year": 2011
- 
+    },
+    {
+        "quote": "Above all, don't lose hope",
+        "movie": "Life of Pi",
+        "type": "movie",
+        "year": 2012
+    },
+    {
+        "quote": "Don't ever let anybody tell you they’re better than you.",
+        "movie": "Forrest Gump",
+        "type": "movie",
+        "year": 1994
+    },
+    {
+        "quote": "I just try to live every day as if it was the final day of my extraordinary, ordinary life.",
+        "movie": "About Time",
+        "type": "movie",
+        "year": 2013
+    },
+    {
+        "quote": "Don’t ever let somebody tell you, you can’t do something. Not even me. Alright?",
+        "movie": "The Pursuit of Happyness",
+        "type": "movie",
+        "year": 2006
+    },
+    {
+        "quote": "You want to know the difference between a master and a beginner? The master has failed more times that the beginner has ever tried.",
+        "movie": "Karate Kid",
+        "type": "movie",
+        "year": 2010
     }
 ]
