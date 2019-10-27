@@ -3940,5 +3940,11 @@
         "movie": "Karate Kid",
         "type": "movie",
         "year": 2010
+    },
+    {
+        "quote": "Some people can’t believe in themselves until someone else believes in them first.",
+        "movie": "Good Will Hunting",
+        "type": "movie",
+        "year": 1997
     }
 ]
