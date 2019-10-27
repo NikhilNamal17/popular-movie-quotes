@@ -3946,5 +3946,11 @@
         "movie": "Good Will Hunting",
         "type": "movie",
         "year": 1997
+    },
+    {
+        "quote": "It’s only after we’ve lost everything that we’re free to do anything.",
+        "movie": "Fight Club",
+        "type": "movie",
+        "year": 1999
     }
 ]
