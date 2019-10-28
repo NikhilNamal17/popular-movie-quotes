@@ -1,7 +1,7 @@
 ﻿[
   {
     "quote": "Do, or do not. There is no try",
-    "movie": "Star Wars",
+    "movie": "Star Wars: Episode V - The Empire Strikes Back",
     "type": "movie",
     "year": 1890
   },
@@ -12,10 +12,10 @@
     "year": 1931
   },
   {
-   "quote": "Time is always against us.",
-   "movie": "The Matrix",
-   "type": "movie",
-   "year": 1999
+    "quote": "Time is always against us.",
+    "movie": "The Matrix",
+    "type": "movie",
+    "year": 1999
   },
   {
     "quote": "It's alive! It's alive!",
@@ -190,6 +190,24 @@
     "movie": "Cool Hand Luke",
     "type": "movie",
     "year": 1967
+  },
+  {
+    "quote": "Oh! It's blessed are the meek! I'm glad they're getting something, they had a hell of a time...",
+    "movie": "Monty Python's Life of Brian",
+    "type": "movie",
+    "year": 1979
+  },
+  {
+    "quote": "Always look on the Bright Side of Life ... Always look on the Light Side of Life.",
+    "movie": "Monty Python's Life of Brian",
+    "type": "movie",
+    "year": 1979
+  },
+  {
+    "quote": "All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?",
+    "movie": "Monty Python's Life of Brian",
+    "type": "movie",
+    "year": 1979
   },
   {
     "quote": "We rob banks.",
@@ -4107,5 +4125,5 @@
     "movie": "Jerry Maguire",
     "type": "movie",
     "year": 1996
-  },
+  }
 ]
