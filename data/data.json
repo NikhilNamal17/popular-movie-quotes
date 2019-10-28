@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "quote": "Do, or do not. There is no try",
     "movie": "Star Wars",
@@ -4077,5 +4077,11 @@
     "movie": "The Lord of the Rings: Return of the King",
     "type": "movie",
     "year": 2003
+  },
+  {
+    "quote": "For Azeroth, For The Alliance!",
+    "movie": "Warcraft",
+    "type": "movie",
+    "year": 2016
   }
 ]
