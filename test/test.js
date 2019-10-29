@@ -9,7 +9,7 @@ describe("data.json", () => {
             var cleaned = [];
             arr.forEach(function(itm) {
                 var unique = true;
-                cleaned.forEach(function(itm2) {
+                cleaned.forEach(function (itm2) {
                     if (_.isEqual(itm, itm2)) unique = false;
                 });
                 if (unique) {
@@ -25,10 +25,10 @@ describe("data.json", () => {
 
     it('check if quotes have desired formats', () => {
         data.forEach(function(item) {
-            item.quote && assert.typeOf(item.quote, 'string');
-            item.movie && assert.typeOf(item.movie, 'string');
-            item.type && assert.typeOf(item.type, 'string');
-            item.year && assert.typeOf(item.year, 'number');
+            assert.isString(item.quote);
+            assert.isString(item.movie);
+            assert.isString(item.type);
+            assert.isNumber(item.year);
         });
     });
 });
