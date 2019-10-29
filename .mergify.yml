@@ -4,6 +4,7 @@ pull_request_rules:
       - status-success=Travis CI - Pull Request
       - base=master
       - files=data/data.json
+      - "#files=1"
     actions:
       merge:
         method: merge
