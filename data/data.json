@@ -1,5 +1,4 @@
-[
- {
+[{
     "quote": "The things you used to own, now they own you",
     "movie": "Fight Club",
     "type": "movie",
@@ -22,6 +21,12 @@
     "movie": "Frankenstein",
     "type": "movie",
     "year": 1931
+  },
+  {
+    "quote": "What's in the box?!",
+    "movie": "Seven",
+    "type": "movie",
+    "year": 1995
   },
   {
     "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
