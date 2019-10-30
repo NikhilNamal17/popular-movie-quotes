@@ -4216,5 +4216,11 @@
     "movie": "The Shawshank Redemption",
     "type": "movie",
     "year": 1994
+  },
+  {
+    "quote": "It’s a trap!",
+    "movie": "Star Wars: Return of Jedi",
+    "type": "movie/fantasy/sci-fi",
+    "year": "1983"
   }
 ]
