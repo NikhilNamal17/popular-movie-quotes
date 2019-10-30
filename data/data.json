@@ -1,4 +1,9 @@
-﻿[
+[{
+    "quote": "The things you used to own, now they own you",
+    "movie": "Fight Club",
+    "type": "movie",
+    "year": 1999
+  },
   {
     "quote": "Do, or do not. There is no try",
     "movie": "Star Wars: Episode V - The Empire Strikes Back",
@@ -18,6 +23,12 @@
     "year": 1931
   },
   {
+    "quote": "What's in the box?!",
+    "movie": "Seven",
+    "type": "movie",
+    "year": 1995
+  },
+  {
     "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
     "movie": "King Kong",
     "type": "movie",
@@ -34,6 +45,12 @@
     "movie": "The Wizard of Oz",
     "type": "movie",
     "year": 1939
+  },
+   {
+    "quote": "And to think I've been telling my friends it's so cool living with an artist. You never once asked to paint me nude!",
+    "movie": "*batteries not included",
+    "type": "movie",
+    "year": 1987
   },
   {
     "quote": "Frankly, my dear, I don't give a damn.",
@@ -444,6 +461,12 @@
     "year": 1980
   },
   {
+    "quote": "It's not the years, honey. It's the mileage.",
+    "movie": "Raiders of the Lost Ark",
+    "type": "movie",
+    "year": 1981
+  },
+  {
     "quote": "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain.",
     "movie": "Blade Runner",
     "type": "movie",
@@ -613,6 +636,12 @@
   },
   {
     "quote": "Yippie-ki-yay, motherf—er!",
+    "movie": "Die Hard",
+    "type": "movie",
+    "year": 1988
+  },
+  {
+    "quote": "Welcome to the party, pal!",
     "movie": "Die Hard",
     "type": "movie",
     "year": 1988
@@ -1148,6 +1177,12 @@
   {
     "quote": "Put the weed in the bag first, then get money.",
     "movie": "Belly",
+    "type": "movie",
+    "year": 1998
+  },
+  {
+    "quote": "Make the money. Don’t let it make you.",
+    "movie": "The Player's Club",
     "type": "movie",
     "year": 1998
   },
@@ -1907,6 +1942,12 @@
     "type": "movie",
     "year": 2005
   },
+   {
+    "quote": "The woods are lovely, dark and deep, and I have promises to keep and miles to go before I sleep. Did you hear me butterfly? Miles to go before you sleep.",
+    "movie": "Death Proof",
+    "type": "movie",
+    "year": 2007
+  },
   {
     "quote": "If you want to know what a man's like,take a good look at how he treats his inferiors.",
     "movie": "Harry Potter and the Goblet of Fire",
@@ -2248,6 +2289,12 @@
     "movie": "Into the Wild",
     "type": "movie",
     "year": 2007
+  },
+   {
+    "quote": "It's only forever, not long at all...",
+    "movie": "Labyrinth",
+    "type": "movie",
+    "year": 1986
   },
   {
     "quote": "Give Them Nothing... But take from Them Everything!",
@@ -3078,12 +3125,6 @@
     "year": 2014
   },
   {
-    "quote": "Having a family doesn’t mean that you stop being an individual. You know the best thing you can do for the people that depend on you? Be honest with them, even if it means setting them free.",
-    "movie": "Rick and Morty Season 1",
-    "type": "TV",
-    "year": 2014
-  },
-  {
     "quote": "We are all different. However bad life may seem, there is always something you can do, and succeed at. While there's life, there is hope.",
     "movie": "The Theory of Everything",
     "type": "movie",
@@ -3504,12 +3545,6 @@
     "year": 2017
   },
   {
-    "quote": "Having a family doesn’t mean that you stop being an individual. You know the best thing you can do for the people that depend on you? Be honest with them, even if it means setting them free.",
-    "movie": "Rick and Morty",
-    "type": "TV Series",
-    "year": 2017
-  },
-  {
     "quote": "Unfortunately, we’re all human. Except me, of course.",
     "movie": "Mr.Robot",
     "type": "tv",
@@ -3549,7 +3584,19 @@
     "quote": "Having a family doesn’t mean that you stop being an individual. You know the best thing you can do for the people that depend on you? Be honest with them, even if it means setting them free.",
     "movie": "Rick and Morty",
     "type": "tv",
-    "year": 2017
+    "year": 2014
+  },
+  {
+    "quote": "Wubba lubba dub dub!",
+    "movie": "Rick and Morty",
+    "type": "tv",
+    "year": 2014
+  },
+  {
+    "quote": "Nobody exists on purpose, nobody belongs anywhere, everybody's gonna die. Come watch TV?",
+    "movie": "Rick and Morty",
+    "type": "tv",
+    "year": 2014
   },
   {
     "quote": "I have burrowed underneath your brain. I am nested there. I am the scream in your mind. You will cooperate.",
@@ -4114,6 +4161,60 @@
     "movie": "Marvel's The Avengers",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "I'm already pregnant. So, what other shenanigans could I get myself into?",
+    "movie": "Juno",
+    "type": "movie",
+    "year": 2007
+  },
+  {
+    "quote": "Exercise gives you endorphins. Endorphins make you happy. Happy people just don't shoot their husbands. They just don't.",
+    "movie": "Legally Blonde",
+    "type": "movie",
+    "year": 2001
+  },
+  {
+    "quote": "I live my life a quarter mile at a time.",
+    "movie": "The Fast and the Furious",
+    "type": "movie",
+    "year": 2001
+  },
+  {
+    "quote": "Say it aint’ so, Joe. Say it ain’t so.",
+    "movie": "Eight Men Out",
+    "type": "movie",
+    "year": 1988
+  },
+  {
+    "quote": "If you build it, he will come.",
+    "movie": "Field of Dreams",
+    "type": "movie",
+    "year": 1989
+  },
+   {
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "movie": "Léon",
+    "type": "movie",
+    "year": 1994
+  },
+   {
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "movie": "8 miles",
+    "type": "movie",
+    "year": 2002
+  },
+   {
+
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "movie": "The Shawshank Redemption",
+    "type": "movie",
+    "year": 1994
+  },
+  {
+    "quote": "It’s a trap!",
+    "movie": "Star Wars: Return of Jedi",
+    "type": "movie/fantasy/sci-fi",
+    "year": "1983"
   }
 ]
-//O Auto da Compadecida
