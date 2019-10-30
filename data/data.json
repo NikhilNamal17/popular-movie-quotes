@@ -4203,5 +4203,12 @@
     "movie": "8 miles",
     "type": "movie",
     "year": 2002
+  },
+   {
+
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "movie": "The Shawshank Redemption",
+    "type": "movie",
+    "year": 1994
   }
 ]
