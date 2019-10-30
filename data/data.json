@@ -1296,18 +1296,6 @@
     "year": 2000
   },
   {
-    "quote": "Matar padre dá um azar danado. Sobretudo para o padre.",
-    "movie": "O Auto da Compadecida",
-    "type": "movie",
-    "year": 2000
-  },
-  {
-    "quote": "Do not seek the treasure",
-    "movie": "O Brother, Where Art Thou?",
-    "type": "movie",
-    "year": 2000
-  },
-  {
     "quote": "Wilsoooooon.",
     "movie": "Cast Away",
     "type": "movie",
@@ -1322,12 +1310,6 @@
   {
     "quote": "I'll take poor assumptions for $800, Alex.",
     "movie": "Finding Forrester",
-    "type": "movie",
-    "year": 2000
-  },
-  {
-    "quote": "Não sei, só sei que foi assim",
-    "movie": "O Auto da Compadecida",
     "type": "movie",
     "year": 2000
   },
@@ -4134,3 +4116,4 @@
     "year": 2019
   }
 ]
+//O Auto da Compadecida
