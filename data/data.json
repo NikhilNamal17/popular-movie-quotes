@@ -5,6 +5,12 @@
     "type": "movie",
     "year": 1890
   },
+    {
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "movie": "Steve jobs",
+    "type": "movie",
+    "year": 2013
+  },
   {
     "quote": "It's alive! It's alive!",
     "movie": "Frankenstein",
