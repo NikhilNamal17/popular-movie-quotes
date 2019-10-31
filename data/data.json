@@ -156,6 +156,12 @@
     "year": 1963
   },
   {
+    "quote": "The winter is coming",
+    "movie": "Game of Thrones",
+    "type": "tv",
+    "year": 2011
+  },
+  {
     "quote": "A martini. Shaken, not stirred",
     "movie": "Goldfinger ",
     "type": "movie",
@@ -250,6 +256,12 @@
     "movie": "The Godfather",
     "type": "movie",
     "year": 1972
+  },
+  {
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "movie": "The Graduate",
+    "type": "movie",
+    "year": 1967
   },
   {
     "quote": "Father Dyer: My idea of Heaven is a solid white nightclub with me as a headliner for all eternity, and they LOVE me!!",
@@ -598,6 +610,12 @@
     "movie": "Wall Street",
     "type": "movie",
     "year": 1987
+  },
+  {
+    "quote": "I love the smell of napalm in the morning",
+    "movie": "Apocalypse Now",
+    "type": "movie",
+    "year": 1979
   },
   {
     "quote": "As you wish...",
@@ -1086,6 +1104,12 @@
     "year": 1997
   },
   {
+    "quote": "I'll have what she's having.",
+    "movie": "When Harry Met Sally",
+    "type": "movie",
+    "year": 1989
+  },
+  {
     "quote": "Draw me like one of your French girls",
     "movie": "Titanic",
     "type": "movie",
@@ -1228,6 +1252,12 @@
     "movie": "Fight Club",
     "type": "movie",
     "year": 1999
+  },
+  {
+    "quote": "Bazinga!",
+    "movie": "The Big Bang theory",
+    "type": "tv",
+    "year": 2007
   },
   {
     "quote": "I see dead people.",
@@ -1764,6 +1794,12 @@
     "year": 2003
   },
   {
+    "quote": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+    "movie": "Moulin Rouge",
+    "type": "movie",
+    "year": 2001
+  },
+  {
     "quote": "I want to change things. I want to believe that anything can be changed. The moment I met you, a new world opened up for me. You see, after wandering in the darkness for so long, a light brought me happiness. It’s all thanks to you.",
     "movie": "Chrono Crusade",
     "type": "anime",
@@ -2152,6 +2188,12 @@
     "movie": "A Scanner Darkly",
     "type": "movie",
     "year": 2006
+  },
+  {
+    "quote": "Elementary, my dear Watson.",
+    "movie": "The Adventures of Sherlock Holmes",
+    "type": "movie",
+    "year": 1939
   },
   {
     "quote": "When you're looking for a cancer kid, he should be hopeless. He should have a wheelchair, he should have trouble talking, he should have a little pet goldfish in a Zip-lock bag, hopeless.",
@@ -2604,6 +2646,12 @@
     "year": 2009
   },
   {
+    "quote": "I feel the need for speed",
+    "movie": "Top Gun",
+    "type": "movie",
+    "year": 1986
+  },
+  {
     "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
     "movie": "500 Days of Summer",
     "type": "movie",
@@ -2914,6 +2962,12 @@
     "movie": "The Hobbit",
     "type": "movie",
     "year": 2012
+  },
+  {
+    "quote": "Here's looking at you, kid.",
+    "movie": "Casablanca",
+    "type": "movie",
+    "year": 1942
   },
   {
     "quote": "I love you, but you don't know what you're talking about.",
@@ -3312,6 +3366,12 @@
     "year": 2014
   },
   {
+    "quote": "They may take our lives, but they'll never take our freedom!",
+    "movie": "Braveheart",
+    "type": "movie",
+    "year": 1995
+  },
+  {
     "quote": "There are no two words in the English language more harmful than good job.",
     "movie": "Whiplash",
     "type": "movie",
@@ -3430,6 +3490,12 @@
     "movie": "Mr. Robot",
     "type": "tv",
     "year": 2015
+  },
+  {
+    "quote": "When you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.",
+    "movie": "When Harry Met Sally",
+    "type": "movie",
+    "year": 1989
   },
   {
     "quote": "Manners maketh man",
@@ -3924,6 +3990,12 @@
     "year": 2019
   },
   {
+    "quote": "This is the beginning of a beautiful friendship.",
+    "movie": "Casablanca",
+    "type": "movie",
+    "year": 1942
+  },
+  {
     "quote": "It looks as though he's managed to transform someh… his human form, retaining his speed and agility.",
     "movie": "Dragon Ball Super: Broly",
     "type": "movie",
@@ -4182,6 +4254,24 @@
     "year": 2019
   },
   {
+    "quote": "You make me want to be a better man.",
+    "movie": "As Good as It Gets",
+    "type": "movie",
+    "year": 1997
+  },
+  {
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "movie": "The Godfather III",
+    "type": "movie",
+    "year": 1990
+  },
+  {
+    "quote": "Here's Johnny!",
+    "movie": "The Shining",
+    "type": "movie",
+    "year": 1980
+  },
+  {
     "quote": "You are my lighting rod",
     "movie": "Endgame",
     "type": "movie",
@@ -4259,5 +4349,4 @@
     "type": "movie",
     "year": 2006
   }
-  
 ]
