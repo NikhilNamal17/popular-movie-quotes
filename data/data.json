@@ -1,13 +1,13 @@
 [
   {
-    "quote": "Do, or do not. There is no try",
+    "quote": "Do, or do not. There is no try.",
     "movie": "Star Wars: Episode V - The Empire Strikes Back",
     "type": "movie",
     "year": 1890
   },
     {
     "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
-    "movie": "Steve jobs",
+    "movie": "Steve Jobs",
     "type": "movie",
     "year": 2013
   },
@@ -84,7 +84,7 @@
     "year": 1942
   },
   {
-    "quote": "We'll always have Paris",
+    "quote": "We'll always have Paris.",
     "movie": "Casablanca",
     "type": "movie",
     "year": 1942
@@ -156,13 +156,13 @@
     "year": 1963
   },
   {
-    "quote": "The winter is coming",
+    "quote": "The winter is coming.",
     "movie": "Game of Thrones",
     "type": "tv",
     "year": 2011
   },
   {
-    "quote": "A martini. Shaken, not stirred",
+    "quote": "A martini. Shaken, not stirred.",
     "movie": "Goldfinger ",
     "type": "movie",
     "year": 1964
@@ -234,7 +234,7 @@
     "year": 1972
   },
   {
-    "quote": "Drop the gun, take the canoli.",
+    "quote": "Drop the gun, take the cannoli.",
     "movie": "The Godfather",
     "type": "movie",
     "year": 1972
@@ -247,7 +247,7 @@
   },
   {
     "quote": "I'm gonna make him an offer he can't refuse",
-    "movie": "THE GODFATHER",
+    "movie": "The Godfather",
     "type": "movie",
     "year": 1972
   },
@@ -438,13 +438,13 @@
     "year": 1980
   },
   {
-    "quote": "You must unlearn what you have learned",
+    "quote": "You must unlearn what you have learned.",
     "movie": "Star Wars: Episode V - The Empire Strikes Back",
     "type": "movie",
     "year": 1980
   },
   {
-    "quote": "Do, or do not. There is no 'try'",
+    "quote": "Do, or do not. There is no 'try'.",
     "movie": "Star Wars: Episode V - The Empire Strikes Back",
     "type": "movie",
     "year": 1980
@@ -457,7 +457,7 @@
   },
   {
     "quote": "Here's Johnny!",
-    "movie": "The Shinning",
+    "movie": "The Shining",
     "type": "movie",
     "year": 1980
   },
@@ -476,7 +476,7 @@
   {
     "quote": "The sun will come out tomorrow.",
     "movie": "Annie",
-    "type": "Annie",
+    "type": "movie",
     "year": 1982
   },
   {
@@ -500,7 +500,7 @@
   {
     "quote": "It’s a trap!",
     "movie": "Star Wars: Return of Jedi",
-    "type": "movie/fantasy/sci-fi",
+    "type": "movie",
     "year": 1983
   },
   {
@@ -708,7 +708,7 @@
     "year": 1989
   },
   {
-    "quote": "Carpe diem. Seize the day. boys. Make your lives extraordinary.",
+    "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
     "movie": "Dead Poets Society",
     "type": "movie",
     "year": 1989
@@ -787,7 +787,7 @@
   },
   {
     "quote": "Oh, and Senator, just one more thing. Love your suit.",
-    "movie": "The silence of the Lambs",
+    "movie": "The Silence of the Lambs",
     "type": "movie",
     "year": 1991
   },
@@ -798,7 +798,7 @@
     "year": 1992
   },
   {
-    "quote": "You shoot me in a dream, you better wake up and apologise",
+    "quote": "You shoot me in a dream, you better wake up and apologise.",
     "movie": "Reservoir Dogs",
     "type": "movie",
     "year": 1992
@@ -816,7 +816,7 @@
     "year": 1992
   },
   {
-    "quote": "Party on, Wayne! Party on, Garth",
+    "quote": "Party on, Wayne! Party on, Garth!",
     "movie": "Wayne's World",
     "type": "movie",
     "year": 1992
@@ -864,7 +864,7 @@
     "year": 1993
   },
   {
-    "quote": "Life Is Like A Box Of Chocolates, You Never Know What You're Gonna Get",
+    "quote": "Life is like a box of chocolates; you never know what you're gonna get.",
     "movie": "Forrest Gump",
     "type": "movie",
     "year": 1994
@@ -888,7 +888,7 @@
     "year": 1994
   },
   {
-    "quote": "Mama says stupid is as stupid does",
+    "quote": "Mama says stupid is as stupid does.",
     "movie": "Forrest Gump",
     "type": "movie",
     "year": 1994
@@ -990,13 +990,13 @@
     "year": 1994
   },
   {
-    "quote": "Everything the light touches is our kingdom",
+    "quote": "Everything the light touches is our kingdom.",
     "movie": "The Lion King",
     "type": "movie",
     "year": 1994
   },
   {
-    "quote": "Every man dies; not every man really lives",
+    "quote": "Every man dies; not every man really lives.",
     "movie": "Braveheart",
     "type": "movie",
     "year": 1995
@@ -1050,7 +1050,7 @@
     "year": 1995
   },
   {
-    "quote": "To infinity and beyond",
+    "quote": "To infinity and beyond!",
     "movie": "Toy Story",
     "type": "movie",
     "year": 1995
@@ -1116,7 +1116,7 @@
     "year": 1997
   },
   {
-    "quote": "Tonight's forecast, a freeze is coming!",
+    "quote": "Tonight's forecast: a freeze is coming!",
     "movie": "Batman & Robin",
     "type": "movie",
     "year": 1997
@@ -1142,7 +1142,7 @@
   {
     "quote": "People live their lives bound by what they accept as correct and true. That's how they define \"reality\". But what does it mean to be \"correct\" or \"true\"? Merely vague concepts... Their \"reality\" may all be a mirage. Can we consider them to simply be living in their own world, shaped by their beliefs?",
     "movie": "Naruto",
-    "type": "Anime",
+    "type": "anime",
     "year": 1997
   },
   {
@@ -1152,7 +1152,7 @@
     "year": 1997
   },
   {
-    "quote": "I'm king of the world",
+    "quote": "I'm king of the world!",
     "movie": "Titanic",
     "type": "movie",
     "year": 1997
@@ -1344,7 +1344,7 @@
     "year": 1999
   },
   {
-    "quote": "The things you used to own, now they own you",
+    "quote": "The things you used to own, now they own you.",
     "movie": "Fight Club",
     "type": "movie",
     "year": 1999
@@ -1363,7 +1363,7 @@
   },
   {
     "quote": "Don’t let anyone ever make you feel like you don’t deserve what you want.",
-    "movie": "10 things I hate about you",
+    "movie": "10 Things I Hate About You",
     "type": "movie",
     "year": 1999
   },
@@ -1494,7 +1494,7 @@
     "year": 2000
   },
   {
-    "quote": "Ogres are like onions",
+    "quote": "Ogres are like onions.",
     "movie": "Shrek",
     "type": "movie",
     "year": 2001
@@ -1519,18 +1519,18 @@
   },
   {
     "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
-    "movie": "The Lord of The Rings - The Fellowship of the Ring",
+    "movie": "The Lord of The Rings: The Fellowship of the Ring",
     "type": "movie",
     "year": 2001
   },
   {
     "quote": "Even the smallest person can change the course of history.",
-    "movie": "Lord of the Rings: The Fellowship of the Ring",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
     "type": "movie",
     "year": 2001
   },
   {
-    "quote": "Of the days that I have lived, only those I spent with you seemed real",
+    "quote": "Of the days that I have lived, only those I spent with you seemed real.",
     "movie": "Cowboy Bebop: The Movie",
     "type": "movie",
     "year": 2001
@@ -1543,7 +1543,7 @@
   },
   {
     "quote": "It’s a dangerous business, going out your door…You step into the Road, and if you don’t keep your feet, there is no knowing where you might be swept off to.",
-    "movie": "Lord of the Rings: The Fellowship of the Ring",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
     "type": "movie",
     "year": 2001
   },
@@ -1596,7 +1596,7 @@
     "year": 2001
   },
   {
-    "quote": "You shall not pass",
+    "quote": "You shall not pass!",
     "movie": "The Lord of the Rings: The Fellowship of the Ring",
     "type": "movie",
     "year": 2001
@@ -1626,7 +1626,7 @@
     "year": 2001
   },
   {
-    "quote": "No, I like you very much, just as you are",
+    "quote": "No, I like you very much, just as you are.",
     "movie": "Bridget Jone's Diary",
     "type": "movie",
     "year": 2001
@@ -1651,13 +1651,13 @@
   },
   {
     "quote": "All we have to decide is what to do with the time that is given us.",
-    "movie": "Lord of the Rings: The Fellowship of the Ring",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
     "type": "movie",
     "year": 2001
   },
   {
     "quote": "The battle of Helm's Deep is over; the battle for Middle Earth is about to begin. ",
-    "movie": "The lord of the rings: the two towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
@@ -1675,13 +1675,13 @@
   },
   {
     "quote": "There’s some good in this world, and it’s worth fighting for.",
-    "movie": "Lord of the Rings: The Tow Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
   {
     "quote": "There is always hope.",
-    "movie": "Lord of the Rings: The Tow Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
@@ -1699,31 +1699,31 @@
   },
   {
     "quote": "But in the end it’s only a passing thing, this shadow, even darkness must pass.",
-    "movie": "Lord of the Rings: The Two Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
   {
     "quote": "There is always hope.",
-    "movie": "Lord of the Rings: The Two Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
   {
     "quote": "Dark have been my dreams of late.",
-    "movie": "Lord of the Rings: The Tow Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
   {
-    "quote": "My precious",
-    "movie": "The Lord of the rings: Two Towers",
+    "quote": "My precious...",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
   {
     "quote": "Even the smallest person can change the course of the future.",
-    "movie": "Lord of the Rings: The Fellowship of the Ring",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
     "type": "movie",
     "year": 2002
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "quote": "But in the end it’s only a passing thing, this shadow, even darkness must pass.",
-    "movie": "Lord of the Rings: The Tow Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
@@ -1747,13 +1747,13 @@
   },
   {
     "quote": "There’s some good in this world, and it’s worth fighting for.",
-    "movie": "Lord of the Rings: The Two Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
   {
     "quote": "Dark have been my dreams of late.",
-    "movie": "Lord of the Rings: The Two Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
@@ -1765,13 +1765,13 @@
   },
   {
     "quote": "I don't like sand. It's all coarse, and rough, and irritating. And it gets everywhere.",
-    "movie": "The Lord of the Rings: Two Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
   {
     "quote": "Your time will come. You will face the same Evil, and you will defeat it.",
-    "movie": "Lord of the Rings: The Fellowship of the Ring",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
     "type": "movie",
     "year": 2002
   },
@@ -1836,8 +1836,8 @@
     "year": 2003
   },
   {
-    "quote": "Why are you trying so hard to fit in when you were born to stand out",
-    "movie": "What a girl wants",
+    "quote": "Why are you trying so hard to fit in when you were born to stand out?",
+    "movie": "What A Girl Wants",
     "type": "movie",
     "year": 2003
   },
@@ -1974,7 +1974,7 @@
     "year": 2004
   },
   {
-    "quote": "That is so fetch",
+    "quote": "That is so fetch!",
     "movie": "Mean Girls",
     "type": "movie",
     "year": 2004
@@ -1998,7 +1998,7 @@
     "year": 2004
   },
   {
-    "quote": "That's why her hair is so big.  It's full of secrets",
+    "quote": "That's why her hair is so big.  It's full of secrets.",
     "movie": "Mean Girls",
     "type": "movie",
     "year": 2004
@@ -2041,7 +2041,7 @@
   },
   {
     "quote": "It's not who I am underneath, but what I do that defines me",
-    "movie": "Batman begins",
+    "movie": "Batman Begins",
     "type": "movie",
     "year": 2005
   },
@@ -2132,7 +2132,7 @@
   {
     "quote": "You got a dream... You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period.",
     "movie": "The Pursuit of Happyness",
-    "type": "Drama",
+    "type": "movie",
     "year": 2006
   },
   {
@@ -2473,7 +2473,7 @@
   },
   {
     "quote": "Don't talk like you're one of them",
-    "movie": "The dark knight",
+    "movie": "The Dark knight",
     "type": "movie",
     "year": 2008
   },
@@ -2497,12 +2497,12 @@
   },
   {
     "quote": "Fuck them kids",
-    "movie": "Soul men",
+    "movie": "Soul Men",
     "type": "movie",
     "year": 2008
   },
   {
-    "quote": "I'm not a big fat panda.I'm THE big fat panda.",
+    "quote": "I'm not a big fat panda. I'm THE big fat panda.",
     "movie": "Kung Fu Panda",
     "type": "movie",
     "year": 2008
@@ -2598,7 +2598,7 @@
     "year": 2008
   },
   {
-    "quote": "Give me a scotch",
+    "quote": "Give me a scotch!",
     "movie": "Iron Man",
     "type": "movie",
     "year": 2008
@@ -2791,8 +2791,8 @@
   },
   {
     "quote": "Only he knew the price he paid, to become the greatest birder of all time.",
-    "movie": "The big year",
-    "type": "Movie",
+    "movie": "The Big Year",
+    "type": "movie",
     "year": 2011
   },
   {
@@ -2940,8 +2940,8 @@
     "year": 2012
   },
   {
-    "quote": " That's what i do, i drink and i know things.",
-    "movie": "Game of thrones ",
+    "quote": " That's what I do: I drink and I know things.",
+    "movie": "Game of Thrones",
     "type": "tv",
     "year": 2012
   },
@@ -2952,7 +2952,7 @@
     "year": 2012
   },
   {
-    "quote": "Cause if we can't protect the Earth, you can be damn sure we'll avenge it",
+    "quote": "Cause if we can't protect the Earth, you can be damn sure we'll avenge it.",
     "movie": "The Avengers",
     "type": "movie",
     "year": 2012
@@ -3036,9 +3036,9 @@
     "year": 2013
   },
   {
-    "quote": "Just remember, If you look in the face of evil, evil's gonna look right back at you.",
+    "quote": "Just remember: if you look in the face of evil, evil's gonna look right back at you.",
     "movie": "American Horror Story",
-    "type": "TV",
+    "type": "tv",
     "year": 2013
   },
   {
@@ -3092,7 +3092,7 @@
   {
     "quote": "Proximity to power deludes some into thinking they wield it.",
     "movie": "House of Cards",
-    "type": "TV Show",
+    "type": "tv",
     "year": 2013
   },
   {
@@ -3128,13 +3128,13 @@
   {
     "quote": "If wishes could be granted, if desires could be fulfilled, then I wouldn’t wish or desire for anything after all. The things you’re handed on a silver platter are never genuine, and never everlasting. And that is why I’ll always keep searching.",
     "movie": "Oregairu",
-    "type": "Anime",
+    "type": "anime",
     "year": 2013
   },
   {
     "quote": "People who can’t throw something important away, can never hope to change anything.",
     "movie": "Attack on Titan",
-    "type": "Anime",
+    "type": "anime",
     "year": 2013
   },
   {
@@ -3182,7 +3182,7 @@
   {
     "quote": "Everyone’s a whore, Grace. We just sell different parts of ourselves.",
     "movie": "Peaky Blinders",
-    "type": "TV",
+    "type": "tv",
     "year": 2014
   },
   {
@@ -3230,29 +3230,29 @@
   {
     "quote": "If an angelic being fell from the sky and tried to live in this world of ours I think even they would commit many wrongs.",
     "movie": "Tokyo Ghoul",
-    "type": "Anime",
+    "type": "anime",
     "year": 2014
   },
   {
-    "quote": "I'm on a Roller-coaster that only goes up, My friend",
-    "movie": "The Fault in our stars",
+    "quote": "I'm on a roller-coaster that only goes up, my friend.",
+    "movie": "The Fault in Our Stars",
     "type": "movie",
     "year": 2014
   },
   {
     "quote": "It's not because we can't take vengeance that we should feel sorry. The real reason to feel sorry... is when one is hung up on revenge and can't live their own life.",
     "movie": "Tokyo Ghoul",
-    "type": "Anime",
+    "type": "anime",
     "year": 2014
   },
   {
     "quote": "Rather than a person who hurts others, become the person getting hurt",
     "movie": "Tokyo Ghoul",
-    "type": "Anime",
+    "type": "anime",
     "year": 2014
   },
   {
-    "quote": "It's not magic, it's talent and sweat",
+    "quote": "It's not magic, it's talent and sweat.",
     "movie": "Silicon Valley HBO",
     "type": "movie",
     "year": 2014
@@ -3390,7 +3390,7 @@
     "year": 2014
   },
   {
-    "quote": "Ideals are peaceful, History is violent",
+    "quote": "Ideals are peaceful; history is violent.",
     "movie": "Fury",
     "type": "war",
     "year": 2014
@@ -3434,7 +3434,7 @@
   {
     "quote": "Power belongs to those who take it.",
     "movie": "Mr. Robot",
-    "type": "TV series",
+    "type": "tv",
     "year": 2015
   },
   {
@@ -3464,24 +3464,24 @@
   {
     "quote": "Examined from another angle, your faults and weaknesses can be weapons",
     "movie": "Assassination classroom",
-    "type": "Anime",
+    "type": "anime",
     "year": 2015
   },
   {
-    "quote": "What a treacherous thing to believe that a person is more than a person",
-    "movie": "Paper towns",
+    "quote": "What a treacherous thing to believe that a person is more than a person?",
+    "movie": "Paper Towns",
     "type": "movie",
     "year": 2015
   },
   {
-    "quote": " When I get back home, I want all the praise to go towards me.",
+    "quote": "When I get back home, I want all the praise to go towards me.",
     "movie": "The Martian",
     "type": "movie",
     "year": 2015
   },
   {
     "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
-    "movie": "Rebel of the sands",
+    "movie": "Rebel of the Sands",
     "type": "movie",
     "year": 2015
   },
@@ -3594,7 +3594,7 @@
     "year": 2016
   },
   {
-    "quote": "For Azeroth, For The Alliance!",
+    "quote": "For Azeroth, for the Alliance!",
     "movie": "Warcraft",
     "type": "movie",
     "year": 2016
@@ -3602,7 +3602,7 @@
   {
     "quote": "Life’s a little bit messy. We all make mistakes. No matter what type of animal you are, change starts with you.",
     "movie": "Zootopia",
-    "type": "anime",
+    "type": "movie",
     "year": 2016
   },
   {
@@ -3642,7 +3642,7 @@
     "year": 2016
   },
   {
-    "quote": "I can do this all day",
+    "quote": "I can do this all day!",
     "movie": "Captain America: Civil War",
     "type": "movie",
     "year": 2016
@@ -3698,19 +3698,19 @@
   {
     "quote": "Unfortunately, we’re all human. Except me, of course.",
     "movie": "Mr.Robot",
-    "type": "TV series",
+    "type": "tv",
     "year": 2017
   },
   {
-    "quote": "Break hearts not promises",
-    "movie": "Turtles all the way down",
+    "quote": "Break hearts, not promises.",
+    "movie": "Turtles All the Way Down",
     "type": "movie",
     "year": 2017
   },
   {
     "quote": "Life is a big trap, made up of little traps... If you listen hard... sometimes you could hear them snap shut.",
     "movie": "Sense8",
-    "type": "TV Series",
+    "type": "tv",
     "year": 2017
   },
   {
@@ -3751,7 +3751,7 @@
   },
   {
     "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
-    "movie": "Bee movie",
+    "movie": "Bee Movie",
     "type": "movie",
     "year": 2017
   },
@@ -3763,7 +3763,7 @@
   },
   {
     "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
-    "movie": "hidden figures",
+    "movie": "Hidden Figures",
     "type": "movie",
     "year": 2017
   },
@@ -3780,14 +3780,14 @@
     "year": 2017
   },
   {
-    "quote": "that does put a smile on my face.",
+    "quote": "That does put a smile on my face.",
     "movie": "Avengers: Infinity War",
     "type": "movie",
     "year": 2018
   },
   {
-    "quote": "whatever it takes",
-    "movie": "avengers the infinity war",
+    "quote": "Whatever it takes!",
+    "movie": "Avengers : Infinity War",
     "type": "movie",
     "year": 2018
   },
@@ -3800,7 +3800,7 @@
   {
     "quote": "Sometimes, when you're feeling helpless, the secret is to help someone else. Get out of your own head. Trust me. The next time someone asks for help, say yes.",
     "movie": "The Good Place",
-    "type": "TV series",
+    "type": "tv",
     "year": 2018
   },
   {
@@ -3836,7 +3836,7 @@
   {
     "quote": "For I am a Sinner in the hands of an angry God, Bloody Mary, Full of Vodka, Blessed are you among cocktails, pray for me now, at the hour of my death, which I hope is soon. Amen",
     "movie": "Archer",
-    "type": "TV Series",
+    "type": "tv",
     "year": 2018
   },
   {
@@ -3865,7 +3865,7 @@
   },
   {
     "quote": "That’s one small step for man, one giant leap for mankind.",
-    "movie": "First man",
+    "movie": "First Man",
     "type": "movie",
     "year": 2018
   },
@@ -3912,7 +3912,7 @@
     "year": 2019
   },
   {
-    "quote": "Let’s do this.’",
+    "quote": "Let’s do this.",
     "movie": "Men in Black",
     "type": "movie",
     "year": 2019
@@ -3942,7 +3942,7 @@
     "year": 2019
   },
   {
-    "quote": "You don't listen, Do you?",
+    "quote": "You don't listen, do you?",
     "movie": "Joker",
     "type": "movie",
     "year": 2019
@@ -3954,7 +3954,7 @@
     "year": 2019
   },
   {
-    "quote": "Guns, lots of guns",
+    "quote": "Guns, lots of guns.",
     "movie": "John Wick 3: Parabellum",
     "type": "movie",
     "year": 2019
@@ -3966,14 +3966,14 @@
     "year": 2019
   },
   {
-    "quote": "No amount of money ever bought a second of time",
-    "movie": "Avengers Endgame",
+    "quote": "No amount of money ever bought a second of time.",
+    "movie": "Avengers: Endgame",
     "type": "movie",
     "year": 2019
   },
   {
     "quote": "The end is in the beginning and yet you go on.",
-    "movie": "Endgame",
+    "movie": "Avengers: Endgame",
     "type": "movie",
     "year": 2019
   },
@@ -3985,7 +3985,7 @@
   },
   {
     "quote": " Spider-Pig, Spider-Pig. Does whatever a Spider-Pig does. Can he swing from a web? No he can't, he's a pig. Look out! He is a Spider-Pig!",
-    "movie": "The Simpsons movie",
+    "movie": "The Simpsons Movie",
     "type": "movie",
     "year": 2019
   },
@@ -4008,8 +4008,8 @@
     "year": 2019
   },
   {
-    "quote": "I am Iron Man",
-    "movie": "Endgame",
+    "quote": "I am Iron Man.",
+    "movie": "Avengers: Endgame",
     "type": "movie",
     "year": 2019
   },
@@ -4039,7 +4039,7 @@
   },
   {
     "quote": "I love you 3000.",
-    "movie": "Endgame",
+    "movie": "Avengers: Endgame",
     "type": "movie",
     "year": 2019
   },
@@ -4069,7 +4069,7 @@
   },
   {
     "quote": "Nothing is funnier than unhappiness.",
-    "movie": "Endgame",
+    "movie": "Avengers: Endgame",
     "type": "movie",
     "year": 2019
   },
@@ -4182,7 +4182,7 @@
     "year": 2019
   },
   {
-    "quote": "That's MotherF****** street poetic justice",
+    "quote": "That's MotherF****** street poetic justice.",
     "movie": "Shaft",
     "type": "movie",
     "year": 2019
@@ -4202,7 +4202,7 @@
   {
     "quote": "Time means nothing. Jeremy Bearimy, baby. We’ll just get through this. And then you and I can chill out in the dot of the I forever.",
     "movie": "The Good Place",
-    "type": "TV series",
+    "type": "tv",
     "year": 2019
   },
   {
@@ -4219,7 +4219,7 @@
   },
   {
     "quote": "I can do this all day",
-    "movie": "Endgame",
+    "movie": "Avengers: Endgame",
     "type": "movie",
     "year": 2019
   },
@@ -4272,8 +4272,8 @@
     "year": 1980
   },
   {
-    "quote": "You are my lighting rod",
-    "movie": "Endgame",
+    "quote": "You are my lighting rod.",
+    "movie": "Avengers: Endgame",
     "type": "movie",
     "year": 2019
   },
@@ -4297,7 +4297,7 @@
   },
   {
     "quote": "I use the words you taught me. If they don't mean anything any more, teach me others. Or let me be silent.",
-    "movie": "Endgame",
+    "movie": "Avengers: Endgame",
     "type": "movie",
     "year": 2019
   },
@@ -4321,7 +4321,7 @@
   },
   {
     "quote": "My precious",
-    "movie": "The Lord of the Rings: Two Towers",
+    "movie": "The Lord of the Rings: The Two Towers",
     "type": "movie",
     "year": 2002
   },
