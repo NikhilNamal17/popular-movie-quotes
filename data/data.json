@@ -4324,5 +4324,29 @@
     "movie": "The Lord of the Rings: Two Towers",
     "type": "movie",
     "year": 2002
+  },
+  {
+    "quote": "Not my tempo.",
+    "movie": "Whiplash",
+    "type": "movie",
+    "year": 2014
+  },
+  {
+    "quote": "You know how I know that you're gay?",
+    "movie": "The 40-Year-Old Virgin",
+    "type": "movie",
+    "year": 2005
+  },
+  {
+    "quote": "We're goin' streaking!",
+    "movie": "Old School",
+    "type": "movie",
+    "year": 2003
+  },
+  {
+    "quote": "Very nice!",
+    "movie": "Borat",
+    "type": "movie",
+    "year": 2006
   }
 ]
