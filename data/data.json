@@ -4384,6 +4384,12 @@
     "movie": "The Force Awakens",
     "type": "movie",
     "year": 2015
+  },
+  {
+    "quote": "I love lamp.",
+    "movie": "Anchorman: The Legend of Ron Burgundy",
+    "type": "movie",
+    "year": 2004
   }
   
 ]
