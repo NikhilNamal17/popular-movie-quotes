@@ -5,7 +5,7 @@ const randomNum = () => {
 };
 
 const getQuoteByYear = (start, end) => {
-  return data
+  return array
     .filter(i => i.year >= start && i.year <= end)
     .sort((a, b) => (a.year > b.year ? 1 : b.year > a.year ? -1 : 0));
 };
