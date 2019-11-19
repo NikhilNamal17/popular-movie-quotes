@@ -3990,10 +3990,10 @@
     "year": 2019
   },
   {
-    "quote": "I love you 3000.",
-    "movie": "Avengers: Endgame",
-    "type": "movie",
-    "year": 2019
+    "quote" : "I love you 3000.",
+    "movie" : "Avengers: Endgame",
+    "type"  : "movie",
+    "year"  : 2019
   },
   {
     "quote" : "I laugh in the face of danger",
