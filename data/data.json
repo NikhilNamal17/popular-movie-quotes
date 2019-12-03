@@ -4360,5 +4360,11 @@
     "movie": "Black and Blue",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "That was the best acting i've ever seen in my whole life.",
+    "movie": "Once Upon a Time in Hollywood",
+    "type" : "movie",
+    "year": 2019
   }
 ]
