@@ -3903,7 +3903,16 @@
         "movie": "Spongebob Squarepants",
         "type": "movie",
         "year": 2004
- 
+
+
+    },
+  
+    {
+        "quote": "Test.",
+        "movie": "Naruto",
+        "type": "anime",
+        "year": 1999
+    
     },
     {
         "quote": "NO GOD! PLEASE NO, NOOOOOO!!!",
