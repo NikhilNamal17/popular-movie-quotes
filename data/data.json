@@ -3898,10 +3898,25 @@
  
     },
     {
+
+        "quote": "Hidup seperti Larry!",
+        "movie": "Spongebob Squarepants",
+        "type": "movie",
+        "year": 2004
+ 
+    },
+    {
+        "quote": "NO GOD! PLEASE NO, NOOOOOO!!!",
+        "movie": "The Office (US) - Season 5",
+        "type": "tv",
+        "year": 2008
+    },
+
         "quote": "The world isn't perfect. But it's there for us, doing the best it can....that's what makes it so damn beautiful.",
         "movie": "Fullmetal Alchemist",
         "type": "anime",
         "year": 2009
+
     }
 
 ]
