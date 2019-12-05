@@ -3895,5 +3895,12 @@
         "type": "movie",
         "year": 2011
  
+    },
+    {
+        "quote": "Hidup seperti Larry!",
+        "movie": "Spongebob Squarepants",
+        "type": "movie",
+        "year": 2004
+ 
     }
 ]
