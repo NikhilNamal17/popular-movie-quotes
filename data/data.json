@@ -3893,10 +3893,12 @@
         "quote": "A tortilla is either corn or wheat. But a corn tortilla folded and filled is a taco, whereas a filled wheat tortilla is a burrito. Deep fry a burrito, it's a chimichanga.Toast a tortilla, it's a tostada. Roll it, it's an enchilada.",
         "movie": "One Day",
         "type": "movie",
+
         "year": 2011
  
     },
     {
+
         "quote": "Hidup seperti Larry!",
         "movie": "Spongebob Squarepants",
         "type": "movie",
@@ -3908,6 +3910,13 @@
         "movie": "The Office (US) - Season 5",
         "type": "tv",
         "year": 2008
- 
+    },
+
+        "quote": "The world isn't perfect. But it's there for us, doing the best it can....that's what makes it so damn beautiful.",
+        "movie": "Fullmetal Alchemist",
+        "type": "anime",
+        "year": 2009
+
     }
+
 ]
