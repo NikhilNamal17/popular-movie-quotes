@@ -4366,5 +4366,17 @@
     "movie": "Between Two Ferns: The Movie",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "You have nothing to fear, if you have nothing to hide.",
+    "movie": "Harry Potter and the Deathly Hallows",
+    "type": "movie",
+    "year": 2010
+  },
+  {
+    "quote": "Sometimes, informations is more dangerous than weapons",
+    "movie": "Naruto Shippuden",
+    "type": "movie",
+    "year": 2007
   }
 ]
