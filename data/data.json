@@ -63,7 +63,7 @@
     "quote": "Elsa, the past is not what it seems. You must find the truth.",
     "movie": "Frozen II",
     "type": "movie",
-    "year": 1939
+    "year": 2019
   },
   {
     "quote": "There's no place like home.",
@@ -4366,5 +4366,17 @@
     "movie": "Once Upon a Time in Hollywood",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "You have nothing to fear, if you have nothing to hide.",
+    "movie": "Harry Potter and the Deathly Hallows",
+    "type": "movie",
+    "year": 2010
+  },
+  {
+    "quote": "Sometimes, informations is more dangerous than weapons",
+    "movie": "Naruto Shippuden",
+    "type": "movie",
+    "year": 2007
   }
 ]
