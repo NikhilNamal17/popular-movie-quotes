@@ -60,12 +60,6 @@
     "year": 1939
   },
   {
-    "quote": "Elsa, the past is not what it seems. You must find the truth.",
-    "movie": "Frozen II",
-    "type": "movie",
-    "year": 2019
-  },
-  {
     "quote": "There's no place like home.",
     "movie": "The Wizard of Oz",
     "type": "movie",
@@ -2478,6 +2472,12 @@
     "year": 2007
   },
   {
+    "quote": "Sometimes, informations is more dangerous than weapons",
+    "movie": "Naruto Shippuden",
+    "type": "movie",
+    "year": 2007
+  },
+  {
     "quote": " It's not about what I want. It's about what's fair!",
     "movie": "The Dark Knight",
     "type": "movie",
@@ -2828,6 +2828,12 @@
   {
     "quote": "Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange.",
     "movie": "Inception",
+    "type": "movie",
+    "year": 2010
+  },
+  {
+    "quote": "You have nothing to fear, if you have nothing to hide.",
+    "movie": "Harry Potter and the Deathly Hallows",
     "type": "movie",
     "year": 2010
   },
@@ -3972,6 +3978,12 @@
     "year": 2018
   },
   {
+    "quote": "Elsa, the past is not what it seems. You must find the truth.",
+    "movie": "Frozen II",
+    "type": "movie",
+    "year": 2019
+  },
+  {
     "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
     "movie": "Maleficent:The Mistress of Evil",
     "type": "movie",
@@ -4366,17 +4378,5 @@
     "movie": "Once Upon a Time in Hollywood",
     "type": "movie",
     "year": 2019
-  },
-  {
-    "quote": "You have nothing to fear, if you have nothing to hide.",
-    "movie": "Harry Potter and the Deathly Hallows",
-    "type": "movie",
-    "year": 2010
-  },
-  {
-    "quote": "Sometimes, informations is more dangerous than weapons",
-    "movie": "Naruto Shippuden",
-    "type": "movie",
-    "year": 2007
   }
 ]
