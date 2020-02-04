@@ -33,7 +33,7 @@ const getQuotesByObject = (quote, obj) => {
   object = obj;
   array.forEach(item => {
     item[object] = item[object].toLowerCase();
-    if (item[object] && item[object] === quote) {
+    if (item[object] && item[object].includes(quote)) {
       resultArray.push(item);
     }
   });
