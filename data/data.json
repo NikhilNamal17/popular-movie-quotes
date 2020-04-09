@@ -4378,5 +4378,16 @@
     "movie": "Once Upon a Time in Hollywood",
     "type": "movie",
     "year": 2019
+  },
+  { "quote": "Start With Where You're From",
+    "movie": "Lion",
+    "type": "movie",
+    "year": 2016
+  },
+  {
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "movie": "Green Book",
+    "type": "movie",
+    "year": 2018
   }
 ]
