@@ -4383,5 +4383,11 @@
     "movie": "Lion",
     "type": "movie",
     "year": 2016
+  },
+  {
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "movie": "Green Book",
+    "type": "movie",
+    "year": 2018
   }
 ]
