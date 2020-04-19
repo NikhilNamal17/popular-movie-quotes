@@ -1,6 +1,7 @@
 ![GitHub license](https://img.shields.io/github/license/NikhilNamal17/popular-movie-quotes.svg?style=for-the-badge&logo=github) ![NPM MODULE](http://img.shields.io/badge/popularmovie-quotes-orange.svg?style=for-the-badge&logo=imdb) ![NPM MODULE](https://img.shields.io/github/issues/NikhilNamal17/popular-movie-quotes?style=for-the-badge&logo=appveyor) ![NPM MODULE](https://img.shields.io/github/forks/NikhilNamal17/popular-movie-quotes?logo=github&style=for-the-badge) ![NPM MODULE](https://img.shields.io/github/stars/NikhilNamal17/popular-movie-quotes?color=yellow&logo=github&style=for-the-badge) ![NPM MODULE](https://img.shields.io/github/languages/code-size/NikhilNamal17/popular-movie-quotes?style=for-the-badge&logo=docusign) ![NPM MODULE](https://img.shields.io/github/languages/top/NikhilNamal17/popular-movie-quotes?style=for-the-badge&logo=javascript)
 [![npm](https://img.shields.io/npm/dy/popular-movie-quotes.svg?logo=npm&style=for-the-badge)](https://www.npmjs.com/package/popular-movie-quotes) [![GitHub last commit](https://img.shields.io/github/last-commit/NikhilNamal17/popular-movie-quotes.svg?logo=git&style=for-the-badge)](https://github.com/NikhilNamal17/popular-movie-quotes) [![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?logo=npm&style=for-the-badge)](https://github.com/NikhilNamal17/NikhilNamal17)
 ![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/NikhilNamal17/popular-movie-quotes&style=for-the-badge)
+![Travis (.com)](https://img.shields.io/travis/com/NikhilNamal17/popular-movie-quotes?style=for-the-badge)
 
 #### A simple [NPM](https://www.npmjs.com/package/popular-movie-quotes) package to get popular movie quotes.
 
@@ -34,7 +35,7 @@ $ npm i popular-movie-quotes --save
 
 - **getAll()** method returns an array of objects, each containing **quote** and **movie**.
 
-```json
+```js
 {
   "quote": "Frankly, my dear, I don't give a damn.",
   "movie": "Gone with the Wind",
@@ -45,7 +46,7 @@ $ npm i popular-movie-quotes --save
 
 - **getQuoteByYear(startYear, endYear)** method returns a sorted object within the range of year startYear -endYear\*\*
 
-```json
+```js
 [
     {
         "quote": "Frankly, my dear, I don't give a damn.",
@@ -53,7 +54,7 @@ $ npm i popular-movie-quotes --save
         "type": "movie",
         "year": startYear
     }
-    ...
+    ....
     .....
     {
         "quote": "Frankly, my dear, I don't give a damn.",
@@ -66,7 +67,7 @@ $ npm i popular-movie-quotes --save
 
 - **getSomeRandom(count)** method returns an array (of length 'count') of non-duplicate random objects containing **quote** and **movie**.
 
-```json
+```js
 [
   {
     "quote": "Frankly, my dear, I don't give a damn.",
@@ -80,13 +81,13 @@ $ npm i popular-movie-quotes --save
 
 - **getRandomQuote()** method returns a random **movie** quote :
 
-```javascript
+```js
 I used to think that my life was a tragedy. But now I realize, it’s a comedy.
 ```
 
 - **getQuotesByMovie("MovieName")** method returns an array with all quotes of MovieName movie, else returns empty.
 
-```json
+```js
 [
   {
     "quote": "Frankly, my dear, I don't give a damn.",
@@ -99,7 +100,7 @@ I used to think that my life was a tragedy. But now I realize, it’s a comedy.
 
 - **getQuotesByType("movie/anime/tv")** method returns an array with all quotes of type movie/anime/tv, else returns empty.
 
-```json
+```js
 [
    {
         "quote": "Frankly, my dear, I don't give a damn.",
@@ -107,7 +108,7 @@ I used to think that my life was a tragedy. But now I realize, it’s a comedy.
         "type": "movie",
         "year": 1939
     }
-    ...
+    ....
     .....
     {
         "quote": "You all love twisting the knife into one another.",
