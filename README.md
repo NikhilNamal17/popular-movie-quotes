@@ -77,6 +77,16 @@ $ npm i popular-movie-quotes --save
   // with 'count' number of quote objects.
 ]
 ```
+```json
+[
+  {
+    "quote": "Snap out of it!!",
+    "movie": "Moonstruck",
+    "type": "movie",
+    "year": 1987
+  }
+]
+```
 
 - **getRandomQuote()** method returns a random **movie** quote :
 
