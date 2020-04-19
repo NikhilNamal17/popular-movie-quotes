@@ -48,6 +48,12 @@
     "year": 1939
   },
   {
+    "quote": "May the Force be with you."
+    "movie": "Star Wars"
+    "type": "movie"
+    "year": "1977"
+  },
+  {
     "quote": "Frankly, my dear, I don't give a damn.",
     "movie": "Gone with the Wind",
     "type": "movie",
