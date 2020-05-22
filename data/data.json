@@ -4390,5 +4390,11 @@
     "movie": "Once Upon a Time in Hollywood",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "I have to let it go.",
+    "movie": "The Danish Girl",
+    "type": "movie",
+    "year": 2015
   }
 ]
