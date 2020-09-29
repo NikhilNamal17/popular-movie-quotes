@@ -2478,6 +2478,12 @@
     "year": 2007
   },
   {
+    "quote": "Working hard is important. But there’s something that matters even more. Believing in yourself.",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "type": "movie",
+    "year": 2007
+  },
+  {
     "quote": " It's not about what I want. It's about what's fair!",
     "movie": "The Dark Knight",
     "type": "movie",
@@ -3990,6 +3996,12 @@
     "year": 2018
   },
   {
+    "quote": "People don’t wanna follow an idea, they wanna follow a leader.",
+    "movie": "Silicon Valley",
+    "type": "tv",
+    "year": 2018
+  },
+  {
     "quote": "Elsa, the past is not what it seems. You must find the truth.",
     "movie": "Frozen II",
     "type": "movie",
@@ -4390,5 +4402,41 @@
     "movie": "Once Upon a Time in Hollywood",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "Sometimes the people we like don’t like us back, and there’s nothing you can do about it.",
+    "movie": "Sex Education",
+    "type": "tv",
+    "year": 2019
+  },
+  {
+    "quote": "Everyone has bodies, right. It's nothing to be ashamed of.",
+    "movie": "Sex Education",
+    "type": "tv",
+    "year": 2019
+  },
+  {
+    "quote": "You don’t end up in bad situations. You make bad choices.",
+    "movie": "Sex Education",
+    "type": "tv",
+    "year": 2020
+  },
+  {
+    "quote": "It’s kind of hard to like someone who doesn’t like themselves.",
+    "movie": "Sex Education",
+    "type": "tv",
+    "year": 2020
+  },
+  {
+    "quote": "Just try and stay honest. Because once you start lying, it’s very hard to stop.",
+    "movie": "Sex Education",
+    "type": "tv",
+    "year": 2020
+  },
+  {
+    "quote": "I think you're always trying so hard to be a good guy that you end up not being a good guy.",
+    "movie": "Sex Education",
+    "type": "tv",
+    "year": 2020
   }
 ]
