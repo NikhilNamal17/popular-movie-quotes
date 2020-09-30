@@ -4390,5 +4390,23 @@
     "movie": "Once Upon a Time in Hollywood",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "Go ahead, make my day!",
+    "movie": "Sudden Impact",
+    "type": "movie",
+    "year": 1983
+  },
+  {
+    "quote": "These go to eleven.",
+    "movie": "This Is Spinal Tap",
+    "type": "movie",
+    "year": 1984
+  },
+  {
+    "quote": "I’m in a glass case of emotion!",
+    "movie": "Anchorman: The Legend of Ron Burgundy",
+    "type": "movie",
+    "year": 2004
   }
 ]
