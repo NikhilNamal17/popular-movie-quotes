@@ -1,5 +1,7 @@
 ![GitHub license](https://img.shields.io/github/license/NikhilNamal17/popular-movie-quotes.svg?style=for-the-badge&logo=github) ![NPM MODULE](http://img.shields.io/badge/popularmovie-quotes-orange.svg?style=for-the-badge&logo=imdb) ![NPM MODULE](https://img.shields.io/github/issues/NikhilNamal17/popular-movie-quotes?style=for-the-badge&logo=appveyor) ![NPM MODULE](https://img.shields.io/github/forks/NikhilNamal17/popular-movie-quotes?logo=github&style=for-the-badge) ![NPM MODULE](https://img.shields.io/github/stars/NikhilNamal17/popular-movie-quotes?color=yellow&logo=github&style=for-the-badge) ![NPM MODULE](https://img.shields.io/github/languages/code-size/NikhilNamal17/popular-movie-quotes?style=for-the-badge&logo=docusign) ![NPM MODULE](https://img.shields.io/github/languages/top/NikhilNamal17/popular-movie-quotes?style=for-the-badge&logo=javascript)
-[![npm](https://img.shields.io/npm/dy/popular-movie-quotes.svg?logo=npm&style=for-the-badge)](https://www.npmjs.com/package/popular-movie-quotes) [![GitHub last commit](https://img.shields.io/github/last-commit/NikhilNamal17/popular-movie-quotes.svg?logo=git&style=for-the-badge)](https://github.com/NikhilNamal17/popular-movie-quotes) [![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?logo=npm&style=for-the-badge)](https://github.com/NikhilNamal17/popular-movie-quotes)
+[![npm](https://img.shields.io/npm/dy/popular-movie-quotes.svg?logo=npm&style=for-the-badge)](https://www.npmjs.com/package/popular-movie-quotes) [![GitHub last commit](https://img.shields.io/github/last-commit/NikhilNamal17/popular-movie-quotes.svg?logo=git&style=for-the-badge)](https://github.com/NikhilNamal17/popular-movie-quotes) [![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?logo=npm&style=for-the-badge)](https://github.com/NikhilNamal17/NikhilNamal17)
+![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/NikhilNamal17/popular-movie-quotes&style=for-the-badge)
+![Travis (.com)](https://img.shields.io/travis/com/NikhilNamal17/popular-movie-quotes?style=for-the-badge)
 
 #### A simple [NPM](https://www.npmjs.com/package/popular-movie-quotes) package to get popular movie quotes.
 
@@ -31,20 +33,20 @@ $ npm i popular-movie-quotes --save
 
 [![usage](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/NikhilNamal17/popular-movie-quotes)
 
--   **getAll()** method returns an array of objects, each containing **quote** and **movie**.
+- **getAll()** method returns an array of objects, each containing **quote** and **movie**.
 
-```json
+```js
 {
-    "quote": "Frankly, my dear, I don't give a damn.",
-    "movie": "Gone with the Wind",
-    "type": "movie",
-    "year": 1939
+  "quote": "Frankly, my dear, I don't give a damn.",
+  "movie": "Gone with the Wind",
+  "type": "movie",
+  "year": 1939
 }
 ```
 
--   **getQuoteByYear(startYear, endYear)** method returns a sorted object within the range of year startYear -endYear\*\*
+- **getQuoteByYear(startYear, endYear)** method returns a sorted object within the range of year startYear -endYear\*\*
 
-```json
+```js
 [
     {
         "quote": "Frankly, my dear, I don't give a damn.",
@@ -52,7 +54,7 @@ $ npm i popular-movie-quotes --save
         "type": "movie",
         "year": startYear
     }
-    ...
+    ....
     .....
     {
         "quote": "Frankly, my dear, I don't give a damn.",
@@ -63,36 +65,57 @@ $ npm i popular-movie-quotes --save
 ]
 ```
 
--   **getSomeRandom(count)** method returns an array (of length 'count') of non-duplicate random objects containing **quote** and **movie**.
+- **getSomeRandom(count)** method returns an array (of length 'count') of non-duplicate random objects containing **quote** and **movie**.
 
-```json
+```js
 [
-    {
-        "quote": "Frankly, my dear, I don't give a damn.",
-        "movie": "Gone with the Wind",
-        "type": "movie",
-        "year": 1939
-    }
-    // with 'count' number of quote objects.
+  {
+    "quote": "Frankly, my dear, I don't give a damn.",
+    "movie": "Gone with the Wind",
+    "type": "movie",
+    "year": 1939
+  }
+  // with 'count' number of quote objects.
 ]
 ```
 
--   **getRandomQuote()** method returns a random **movie** quote :
+- **getRandomQuote()** method returns a random **movie** quote :
 
-```javascript
+```js
 I used to think that my life was a tragedy. But now I realize, it’s a comedy.
 ```
 
--   **getQuotesByMovie("MovieName")** method returns an array with all quotes of MovieName movie, else returns empty.
+- **getQuotesByMovie("MovieName")** method returns an array with all quotes of MovieName movie, else returns empty.
 
-```json
+```js
 [
-    {
+  {
+    "quote": "Frankly, my dear, I don't give a damn.",
+    "movie": "Gone with the Wind",
+    "type": "movie",
+    "year": 1939
+  }
+]
+```
+
+- **getQuotesByType("movie/anime/tv")** method returns an array with all quotes of type movie/anime/tv, else returns empty.
+
+```js
+[
+   {
         "quote": "Frankly, my dear, I don't give a damn.",
         "movie": "Gone with the Wind",
         "type": "movie",
         "year": 1939
     }
+    ....
+    .....
+    {
+        "quote": "You all love twisting the knife into one another.",
+        "movie": "Knives Out",
+        "type": "movie",
+        "year": 2019
+  }
 ]
 ```
 
@@ -110,11 +133,14 @@ console.log(movieQuote.getQuoteByYear(2000, 2019)); // returns a sorted object w
 
 console.log(movieQuote.getQuotesByMovie("Joker")); //If present returns and array
 // with all quotes of joker movie, else returns empty.
+
+console.log(movieQuote.getQuotesByType("anime")); //If present returns and array
+// with all quotes of type anime, else returns empty.
 ```
 
 ## Testing
 
--   Check if quote is duplicate/already present.
+- Check if quote is duplicate/already present.
 
 ```bash
 $ npm test
@@ -140,12 +166,23 @@ $ npm test
 
 #### Rishabh Kanojia [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@RishabhKanojia&color=9cf&logo=facebook&style=for-the-badge&logoColor=white&colorA=informational)](https://www.facebook.com/rishabh.kanojiya.18) [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@RishabhKanojia&color=grey&logo=instagram&style=for-the-badge&logoColor=white&colorA=critical)](https://www.instagram.com/rishabhkanojiya/) [![GitHub followers](https://img.shields.io/github/followers/rishabhkanojiya.svg?label=Follow&style=for-the-badge&logo=github)](https://github.com/rishabhkanojiya/)
 
-## Support me on [Buy Me A Coffee](https://www.buymeacoffee.com/nikhilnamal)
+<hr>
 
-Hey! Help me out with a couple of coffee!
+| **Like us a lot?** Help others know why you like us! **Review this package on [pkgreview.dev](https://pkgreview.dev/npm/popular-movie-quotes)** | ➡   | [![Review us on pkgreview.dev](https://i.ibb.co/McjVMfb/pkgreview-dev.jpg)](https://pkgreview.dev/npm/popular-movie-quotes) |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------------- |
+
+
+
+## Support me for a cup of coffee
+
+Hey! Help me out with a cup of coffee!
 
 <a href="https://www.buymeacoffee.com/nikhilnamal" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
+
 <hr>
+
+
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)

@@ -1,5 +1,6 @@
 node_modules
 cleanup.js
 output.json
+movie.json
 .npmrc
 package-lock.json
