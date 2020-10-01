@@ -1272,6 +1272,12 @@
     "year": 1998
   },
   {
+    "quote": "Be thankful for the hard times, for they have made you.",
+    "movie": "The Man In the Iron Mask",
+    "type": "movie",
+    "year": 1998
+  },
+  {
     "quote": "I live in Notting Hill. You live in Beverly Hills. Everyone in the world knows who you are, my mother has trouble remembering my name.",
     "movie": "Notting Hill",
     "type": "movie",
@@ -2670,6 +2676,12 @@
     "year": 2008
   },
   {
+    "quote": "Scar is the proof of a healed wound.",
+    "movie": "Slumdog Millionaire",
+    "type": "movie",
+    "year": 2008
+  },
+  {
     "quote": "Adventure is out there",
     "movie": "Up",
     "type": "movie",
@@ -2934,6 +2946,12 @@
     "year": 2011
   },
   {
+    "quote": "Anyone can change your life, if you let them.",
+    "movie": "The Intouchables",
+    "type": "movie",
+    "year": 2011
+  },
+  {
     "quote": "Never Stop Looking for What's Not There.",
     "movie": "The Magic of Belle Isle",
     "type": "movie",
@@ -3050,6 +3068,12 @@
   {
     "quote": "We accept the love we think we deserve",
     "movie": "The Perks of Being a Wallflower.",
+    "type": "movie",
+    "year": 2012
+  },
+  {
+    "quote": "Friendship isn’t about being inseparable, but about being separated and knowing nothing will change.",
+    "movie": "Ted",
     "type": "movie",
     "year": 2012
   },
