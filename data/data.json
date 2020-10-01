@@ -4390,5 +4390,11 @@
     "movie": "Once Upon a Time in Hollywood",
     "type": "movie",
     "year": 2019
+  },
+  {
+    "quote": "There is no courage without fear.",
+    "movie": "Mulan",
+    "type": "movie",
+    "year": 2020
   }
 ]
