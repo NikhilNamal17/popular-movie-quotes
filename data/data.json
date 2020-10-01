@@ -2229,6 +2229,12 @@
     "movie": "The Fault in our stars",
     "type" : "movie",
     "year" : 2014
+  },
+  {
+    "quote": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called present.",
+    "movie": "Kung Fu Panda",
+    "type" : "movie",
+    "year" : 2008
   }
 
 ]
