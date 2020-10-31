@@ -1,5 +1,11 @@
 [
   {
+    "quote": "A boy's best friend is his mother.",
+    "movie": "Psycho",
+    "type": "movie",
+    "year": 1960
+  },
+  {
     "quote": "Do, or do not. There is no try.",
     "movie": "Star Wars: Episode V - The Empire Strikes Back",
     "type": "movie",
