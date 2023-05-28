@@ -4390,5 +4390,605 @@
     "movie": "Once Upon a Time in Hollywood",
     "type": "movie",
     "year": 2019
-  }
+  },
+  {
+      "quote":"\"Frankly, my dear, I don\\'t give a damn.\"",
+      "movie":"Gone with the Wind",
+      "type":"movie",
+      "year":1939
+   },
+   {
+      "quote":"\"I\\'m gonna make him an offer he can\\'t refuse.\"",
+      "movie":"The Godfather",
+      "type":"movie",
+      "year":1972
+   },
+   {
+      "quote":"\"You don\\'t understand!  I coulda had class. I coulda been a contender. I could\\'ve been somebody, instead of a bum, which is what I am.\"",
+      "movie":"On the Waterfront",
+      "type":"movie",
+      "year":1954
+   },
+   {
+      "quote":"\"Toto, I\\'ve a feeling we\\'re not in Kansas anymore.\"",
+      "movie":"The Wizard of Oz",
+      "type":"movie",
+      "year":1939
+   },
+   {
+      "quote":"\"Here\\'s looking at you, kid.\"",
+      "movie":"Casablanca",
+      "type":"movie",
+      "year":1942
+   },
+   {
+      "quote":"\"Go ahead, make my day.\"",
+      "movie":"Sudden Impact",
+      "type":"movie",
+      "year":1983
+   },
+   {
+      "quote":"\"All right, Mr. DeMille, I\\'m ready for my close-up.\"",
+      "movie":"Sunset Blvd.",
+      "type":"movie",
+      "year":1950
+   },
+   {
+      "quote":"\"May the Force be with you.\"",
+      "movie":"Star Wars",
+      "type":"movie",
+      "year":1977
+   },
+   {
+      "quote":"\"Fasten your seatbelts. It\\'s going to be a bumpy night.\"",
+      "movie":"All About Eve",
+      "type":"movie",
+      "year":1950
+   },
+   {
+      "quote":"\"You talking to me?\"",
+      "movie":"Taxi Driver",
+      "type":"movie",
+      "year":1976
+   },
+   {
+      "quote":"\"What we\\'ve got here is failure to communicate.\"",
+      "movie":"Cool Hand Luke",
+      "type":"movie",
+      "year":1967
+   },
+   {
+      "quote":"\"I love the smell of napalm in the morning.\"",
+      "movie":"Apocalypse Now",
+      "type":"movie",
+      "year":1979
+   },
+   {
+      "quote":"\"Love means never having to say you\\'re sorry.\"",
+      "movie":"Love Story",
+      "type":"movie",
+      "year":1970
+   },
+   {
+      "quote":"\"The stuff that dreams are made of.\"",
+      "movie":"The Maltese Falcon",
+      "type":"movie",
+      "year":1941
+   },
+   {
+      "quote":"\"E.T. phone home.\"",
+      "movie":"E.T.:  The Extra-Terrestrial",
+      "type":"movie",
+      "year":1982
+   },
+   {
+      "quote":"\"They call me Mister Tibbs!\"",
+      "movie":"In the Heat of the Night",
+      "type":"movie",
+      "year":1967
+   },
+   {
+      "quote":"\"Rosebud.\"",
+      "movie":"Citizen Kane",
+      "type":"movie",
+      "year":1941
+   },
+   {
+      "quote":"\"Made it, Ma! Top of the world!\"",
+      "movie":"White Heat",
+      "type":"movie",
+      "year":1949
+   },
+   {
+      "quote":"\"I\\'m as mad as hell, and I\\'m not going to take this anymore!\"",
+      "movie":"Network",
+      "type":"movie",
+      "year":1976
+   },
+   {
+      "quote":"\"Louis, I think this is the beginning of a beautiful friendship.\"",
+      "movie":"Casablanca",
+      "type":"movie",
+      "year":1942
+   },
+   {
+      "quote":"\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
+      "movie":"The Silence of the Lambs",
+      "type":"movie",
+      "year":1991
+   },
+   {
+      "quote":"\"Bond. James Bond.\"",
+      "movie":"Dr. No",
+      "type":"movie",
+      "year":1963
+   },
+   {
+      "quote":"\"There\\'s no place like home.\"",
+      "movie":"The Wizard of Oz",
+      "type":"movie",
+      "year":1939
+   },
+   {
+      "quote":"\"I am big!  It\\'s the pictures that got small.\"",
+      "movie":"Sunset Blvd.",
+      "type":"movie",
+      "year":1950
+   },
+   {
+      "quote":"\"Show me the money!\"",
+      "movie":"Jerry Maguire",
+      "type":"movie",
+      "year":1996
+   },
+   {
+      "quote":"\"Why don\\'t you come up sometime and see me?\"",
+      "movie":"She Done Him Wrong",
+      "type":"movie",
+      "year":1933
+   },
+   {
+      "quote":"\"I\\'m walking here!  I\\'m walking here!\"",
+      "movie":"Midnight Cowboy",
+      "type":"movie",
+      "year":1969
+   },
+   {
+      "quote":"\"Play it, Sam.  Play \\'As Time goes By.\\'\"",
+      "movie":"Casablanca",
+      "type":"movie",
+      "year":1942
+   },
+   {
+      "quote":"\"You can\\'t handle the truth!\"",
+      "movie":"A Few Good Men",
+      "type":"movie",
+      "year":1992
+   },
+   {
+      "quote":"\"I want to be alone.\"",
+      "movie":"Grand Hotel",
+      "type":"movie",
+      "year":1932
+   },
+   {
+      "quote":"\"After all, tomorrow is another day!\"",
+      "movie":"Gone with the Wind",
+      "type":"movie",
+      "year":1939
+   },
+   {
+      "quote":"\"Round up the usual suspects.\"",
+      "movie":"Casablanca",
+      "type":"movie",
+      "year":1942
+   },
+   {
+      "quote":"\"I\\'ll have what she\\'s having.\"",
+      "movie":"When Harry Met Sally...",
+      "type":"movie",
+      "year":1989
+   },
+   {
+      "quote":"\"You know how to whistle, don\\'t you, Steve? You just put your lips together and blow.\"",
+      "movie":"To Have and Have Not",
+      "type":"movie",
+      "year":1945
+   },
+   {
+      "quote":"\"You\\'re gonna need a bigger boat.\"",
+      "movie":"Jaws",
+      "type":"movie",
+      "year":1975
+   },
+   {
+      "quote":"\"Badges? We ain\\'t got no badges! We don\\'t need no badges! I don\\'t have to show you any stinking badges!\"",
+      "movie":"The Treasure of the Sierra Madre",
+      "type":"movie",
+      "year":1948
+   },
+   {
+      "quote":"\"I\\'ll be back.\"",
+      "movie":"The Terminator",
+      "type":"movie",
+      "year":1984
+   },
+   {
+      "quote":"\"Today, I consider myself the luckiest man on the face of the earth.\"",
+      "movie":"The Pride of the Yankees",
+      "type":"movie",
+      "year":1943
+   },
+   {
+      "quote":"\"If you build it, he will come.\"",
+      "movie":"Field of Dreams",
+      "type":"movie",
+      "year":1989
+   },
+   {
+      "quote":"\"My mama always said life was like a box of chocolates. You never know what you\\'re gonna get.\"",
+      "movie":"Forrest Gump",
+      "type":"movie",
+      "year":1994
+   },
+   {
+      "quote":"\"We rob banks.\"",
+      "movie":"Bonnie and Clyde",
+      "type":"movie",
+      "year":1967
+   },
+   {
+      "quote":"\"Plastics.\"",
+      "movie":"The Graduate",
+      "type":"movie",
+      "year":1967
+   },
+   {
+      "quote":"\"We\\'ll always have Paris.\"",
+      "movie":"Casablanca",
+      "type":"movie",
+      "year":1942
+   },
+   {
+      "quote":"\"I see dead people.\"",
+      "movie":"The Sixth Sense",
+      "type":"movie",
+      "year":1999
+   },
+   {
+      "quote":"\"Stella!  Hey, Stella!\"",
+      "movie":"A Streetcar Named Desire",
+      "type":"movie",
+      "year":1951
+   },
+   {
+      "quote":"\"Oh, Jerry, don\\'t let\\'s ask for the moon. We have the stars.\"",
+      "movie":"Now, Voyager",
+      "type":"movie",
+      "year":1942
+   },
+   {
+      "quote":"\"Shane.  Shane.  Come back!\"",
+      "movie":"Shane",
+      "type":"movie",
+      "year":1953
+   },
+   {
+      "quote":"\"Well, nobody\\'s perfect.\"",
+      "movie":"Some Like It Hot",
+      "type":"movie",
+      "year":1959
+   },
+   {
+      "quote":"\"It\\'s alive!  It\\'s alive!\"",
+      "movie":"Frankenstein",
+      "type":"movie",
+      "year":1931
+   },
+   {
+      "quote":"\"Houston, we have a problem.\"",
+      "movie":"Apollo 13",
+      "type":"movie",
+      "year":1995
+   },
+   {
+      "quote":"\"You\\'ve got to ask yourself one question: \\'Do I feel lucky?\\' Well, do ya, punk?\"",
+      "movie":"Dirty Harry",
+      "type":"movie",
+      "year":1971
+   },
+   {
+      "quote":"\"You had me at \"hello.\"\"",
+      "movie":"Jerry Maguire",
+      "type":"movie",
+      "year":1996
+   },
+   {
+      "quote":"\"One morning I shot an elephant in my pajamas. How he got in my pajamas, I don\\'t know.\"",
+      "movie":"Animal Crackers",
+      "type":"movie",
+      "year":1930
+   },
+   {
+      "quote":"\"There\\'s no crying in baseball!\"",
+      "movie":"A League of Their Own",
+      "type":"movie",
+      "year":1992
+   },
+   {
+      "quote":"\"La-dee-da, la-dee-da.\"",
+      "movie":"Annie Hall",
+      "type":"movie",
+      "year":1977
+   },
+   {
+      "quote":"\"A boy\\'s best friend is his mother.\"",
+      "movie":"Psycho",
+      "type":"movie",
+      "year":1960
+   },
+   {
+      "quote":"\"Greed, for lack of a better word, is good.\"",
+      "movie":"Wall Street",
+      "type":"movie",
+      "year":1987
+   },
+   {
+      "quote":"\"Keep your friends close, but your enemies closer.\"",
+      "movie":"The Godfather Part II",
+      "type":"movie",
+      "year":1974
+   },
+   {
+      "quote":"\"As God is my witness, I\\'ll never be hungry again.\"",
+      "movie":"Gone with the Wind",
+      "type":"movie",
+      "year":1939
+   },
+   {
+      "quote":"\"Well, here\\'s another nice mess you\\'ve gotten me into!\"",
+      "movie":"Sons of the Desert",
+      "type":"movie",
+      "year":1933
+   },
+   {
+      "quote":"\"Say \"hello\" to my little friend!\"",
+      "movie":"Scarface",
+      "type":"movie",
+      "year":1983
+   },
+   {
+      "quote":"\"What a dump.\"",
+      "movie":"Beyond the Forest",
+      "type":"movie",
+      "year":1949
+   },
+   {
+      "quote":"\"Mrs. Robinson, you\\'re trying to seduce me.  Aren\\'t you?\"",
+      "movie":"The Graduate",
+      "type":"movie",
+      "year":1967
+   },
+   {
+      "quote":"\"Gentlemen, you can\\'t fight in here! This is the War Room!\"",
+      "movie":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "type":"movie",
+      "year":1964
+   },
+   {
+      "quote":"\"Elementary, my dear Watson.\"",
+      "movie":"The Adventures of Sherlock Holmes",
+      "type":"movie",
+      "year":1939
+   },
+   {
+      "quote":"\"Take your stinking paws off me, you damned dirty ape.\"",
+      "movie":"Planet of the Apes",
+      "type":"movie",
+      "year":1968
+   },
+   {
+      "quote":"\"Of all the gin joints in all the towns in all the world, she walks into mine.\"",
+      "movie":"Casablanca",
+      "type":"movie",
+      "year":1942
+   },
+   {
+      "quote":"\"Here\\'s Johnny!\"",
+      "movie":"The Shining",
+      "type":"movie",
+      "year":1980
+   },
+   {
+      "quote":"\"They\\'re here!\"",
+      "movie":"Poltergeist",
+      "type":"movie",
+      "year":1982
+   },
+   {
+      "quote":"\"Is it safe?\"",
+      "movie":"Marathon Man",
+      "type":"movie",
+      "year":1976
+   },
+   {
+      "quote":"\"Wait a minute, wait a minute.  You ain\\'t heard nothin\\' yet!\"",
+      "movie":"The Jazz Singer",
+      "type":"movie",
+      "year":1927
+   },
+   {
+      "quote":"\"No wire hangers, ever!\"",
+      "movie":"Mommie Dearest",
+      "type":"movie",
+      "year":1981
+   },
+   {
+      "quote":"\"Mother of mercy, is this the end of Rico?\"",
+      "movie":"Little Caesar",
+      "type":"movie",
+      "year":1931
+   },
+   {
+      "quote":"\"Forget it, Jake, it\\'s Chinatown.\"",
+      "movie":"Chinatown",
+      "type":"movie",
+      "year":1974
+   },
+   {
+      "quote":"\"I have always depended on the kindness of strangers.\"",
+      "movie":"A Streetcar Named Desire",
+      "type":"movie",
+      "year":1951
+   },
+   {
+      "quote":"\"Hasta la vista, baby.\"",
+      "movie":"Terminator 2:  Judgment Day",
+      "type":"movie",
+      "year":1991
+   },
+   {
+      "quote":"\"Soylent Green is people!\"",
+      "movie":"Soylent Green",
+      "type":"movie",
+      "year":1973
+   },
+   {
+      "quote":"\"Open the pod bay doors, please, HAL.\"",
+      "movie":"2001: A Space Odyssey",
+      "type":"movie",
+      "year":1968
+   },
+   {
+      "quote":"\"Striker: Surely you can\\'t be serious.\"",
+      "movie":"Airplane!",
+      "type":"movie",
+      "year":1980
+   },
+   {
+      "quote":"\"Yo, Adrian!\"",
+      "movie":"Rocky",
+      "type":"movie",
+      "year":1976
+   },
+   {
+      "quote":"\"Hello, gorgeous.\"",
+      "movie":"Funny Girl",
+      "type":"movie",
+      "year":1968
+   },
+   {
+      "quote":"\"Toga!  Toga!\"",
+      "movie":"National Lampoon's Animal House",
+      "type":"movie",
+      "year":1978
+   },
+   {
+      "quote":"\"Listen to them.  Children of the night.  What music they make.\"",
+      "movie":"Dracula",
+      "type":"movie",
+      "year":1931
+   },
+   {
+      "quote":"\"Oh, no, it wasn\\'t the airplanes. It was Beauty killed the Beast.\"",
+      "movie":"King Kong",
+      "type":"movie",
+      "year":1933
+   },
+   {
+      "quote":"\"My precious.\"",
+      "movie":"The Lord of the Rings: The Two Towers",
+      "type":"movie",
+      "year":2002
+   },
+   {
+      "quote":"\"Attica! Attica!\"",
+      "movie":"Dog Day Afternoon",
+      "type":"movie",
+      "year":1975
+   },
+   {
+      "quote":"\"Sawyer, you\\'re going out a youngster, but you\\'ve got to come back a star!\"",
+      "movie":"42nd Street",
+      "type":"movie",
+      "year":1933
+   },
+   {
+      "quote":"\"Listen to me, mister. You\\'re my knight in shining armor.  Don\\'t you forget it.  You\\'re going to get back on that horse, and I\\'m going to be right behind you, holding on tight, and away we\\'re gonna , go, go!\"",
+      "movie":"On Golden Pond",
+      "type":"movie",
+      "year":1981
+   },
+   {
+      "quote":"\"Tell \\'em to go out there with all they got and win just one for the Gipper.\"",
+      "movie":"Knute Rockne--All American",
+      "type":"movie",
+      "year":1940
+   },
+   {
+      "quote":"\"A martini.  Shaken, not stirred.\"",
+      "movie":"Goldfinger",
+      "type":"movie",
+      "year":1964
+   },
+   {
+      "quote":"\"Who\\'s on first.\"",
+      "movie":"The Naughty Nineties",
+      "type":"movie",
+      "year":1945
+   },
+   {
+      "quote":"\"Cinderella story.  Outta nowhere.  A former greenskeeper, now, about to  become the Masters champion.  It looks like a mirac...It\\'s in the hole!  It\\'s in the hole!  It\\'s in the hole!\"",
+      "movie":"Caddyshack",
+      "type":"movie",
+      "year":1980
+   },
+   {
+      "quote":"\"Life is a banquet, and most poor suckers are starving to death!\"",
+      "movie":"Auntie Mame",
+      "type":"movie",
+      "year":1958
+   },
+   {
+      "quote":"\"I feel the need - the need for speed!\"",
+      "movie":"Top Gun",
+      "type":"movie",
+      "year":1986
+   },
+   {
+      "quote":"\"Carpe diem.  Seize the day, boys.  Make your lives extraordinary.\"",
+      "movie":"Dead Poets Society",
+      "type":"movie",
+      "year":1989
+   },
+   {
+      "quote":"\"Snap out of it!\"",
+      "movie":"Moonstruck",
+      "type":"movie",
+      "year":1987
+   },
+   {
+      "quote":"\"My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
+      "movie":"Yankee Doodle Dandy",
+      "type":"movie",
+      "year":1942
+   },
+   {
+      "quote":"\"Nobody puts Baby in a corner.\"",
+      "movie":"Dirty Dancing",
+      "type":"movie",
+      "year":1987
+   },
+   {
+      "quote":"\"I\\'ll get you, my pretty, and your little dog, too!\"",
+      "movie":"The Wizard of Oz",
+      "type":"movie",
+      "year":1939
+   },
+   {
+      "quote":"\"I\\'m the king of the world!\"",
+      "movie":"Titanic",
+      "type":"movie",
+      "year":1997
+   }
 ]
